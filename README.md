@@ -5,7 +5,11 @@
 
 ### 使用说明：  
     注：   
-        1. 下面所有脚本都在src目录下运行。（src/scripts目录下的脚本是工具脚本，可以单独执行）  
+        1. 下面所有脚本都在src目录下运行。（src/scripts目录下的脚本是工具脚本，可以单独执行） 
+            在src路径下设置环境变量：
+                protoc object_detection/protos/*.proto --python_out=.
+                export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+                
         2. models/research/object_detection这个文件夹复制到了src目录下，并将一部分必要的文件也复制到了这个目录. 因此本项目可以放到任意地方。   
         3. 如果模型不一样，下面的名称需要更改。 路径一般不用更改，都是相对路径。  
     
@@ -15,16 +19,14 @@
             --output_dir=/home/cabbage/Desktop/CarND-Capstone/ros/src/tl_detector/train/sample_annotation/output
             
     2. 训练模型：
-        设置环境变量：
-            protoc object_detection/protos/*.proto --python_out=.
-            export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim          // 解决报错：cannot import name preprocessor_pb2
         运行train.py:
             python train.py --logtostderr \
             --pipeline_config_path=../config/ssd_mobilenet_v1.config \
             --train_dir=./model_cpkt
         
     3. 将模型转为pb文件：
-        CUDA_VISIBLE_DEVICES="1" python ./object_detection/export_inference_graph.py   \
+        需要将 *./model_cpkt/model.ckpt-0* 更改为要转换的ckpt文件
+        CUDA_VISIBLE_DEVICES="1" python ./object_detection/export_inference_graph.py   \
         --input_type image_tensor     \
         --pipeline_config_path ../config/ssd_mobilenet_v1.config  \
         --trained_checkpoint_prefix ./model_cpkt/model.ckpt-0     \
