@@ -34,6 +34,9 @@
         python inference.py
         
 ### 模型配置文件更改: (config在./config/目录下)：  
+    1. data/TSD-Signal目录需要放入图片文件夹，用来生成record文件，输出到data/records  
+    2. data/TSD-Signal目录需要放入图片标记的xml文件，用来生成record文件  
+    3. data/test_samples目录需要放入图片文件夹，inference.py生成带标记框的测试结果用。  
     如果使用新的模型，只需要更改fine_tune_checkpoint。  
     
     1. 分类个数：  
