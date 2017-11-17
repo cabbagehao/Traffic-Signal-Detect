@@ -33,7 +33,7 @@
     4. 运行inference.py测试模型结果，得到带标注框的图片。
         python inference.py
         
-### 模型config文件更改： (config在./config/目录下）  
+### 模型配置文件更改: (config在./config/目录下)：  
     如果使用新的模型，只需要更改fine_tune_checkpoint。  
     
     1. 分类个数：  
