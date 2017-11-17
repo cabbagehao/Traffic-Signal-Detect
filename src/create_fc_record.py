@@ -237,7 +237,7 @@ if __name__ == '__main__':
     print('len class_not_match: ', len(class_not_match))
     print('len target_num_not_match: ', len(target_num_not_match))
 
-    with open('log.txt', 'w+') as f:
+    with open('../output/create_record_log.txt', 'w+') as f:
         f.write(str(zero_object_img))
         f.write(str(class_not_match))
         f.write(str(target_num_not_match))
