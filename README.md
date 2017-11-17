@@ -1,6 +1,6 @@
 ### 目录说明：  
     1. data/TSD-Signal目录需要放入图片文件夹，用来生成record文件，输出到data/records  
-    2. data/TSD-Signal目录需要放入图片标记的xml文件，用来生成record文件  
+    2. data/TSD-Signal-GT目录需要放入图片标记的xml文件，用来生成record文件  
     3. data/test_samples目录需要放入图片文件夹，inference.py生成带标记框的测试结果用。  
 
 ### 使用说明：  
