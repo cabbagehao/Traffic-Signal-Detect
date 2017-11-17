@@ -14,7 +14,7 @@
         3. 如果模型不一样，下面的名称需要更改。 路径一般不用更改，都是相对路径。  
     
     1. xml转换为record：
-            python ./create_pet_tf_record.py  \
+            python ./create_fc_record.py  \
             --data_dir=/home/cabbage/Desktop/CarND-Capstone/ros/src/tl_detector/train/sample_annotation\
             --output_dir=/home/cabbage/Desktop/CarND-Capstone/ros/src/tl_detector/train/sample_annotation/output
             
