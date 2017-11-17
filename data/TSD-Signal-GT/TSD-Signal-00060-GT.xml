@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>12</FrameNumber>
+<Frame00000TargetNumber>3</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    608 345 19 20</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    909 343 18 22</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    975 342 17 24</Position></Frame00000Target00002>
+<Frame00001TargetNumber>3</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    989 337 17 28</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    916 339 23 25</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    609 344 14 15</Position></Frame00001Target00002>
+<Frame00002TargetNumber>3</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    605 337 18 22</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    928 337 25 23</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1011 333 12 31</Position></Frame00002Target00002>
+<Frame00003TargetNumber>3</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1029 332 15 31</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    940 338 19 24</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    600 341 18 19</Position></Frame00003Target00002>
+<Frame00004TargetNumber>3</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    599 343 18 21</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    952 340 29 26</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1058 338 14 28</Position></Frame00004Target00002>
+<Frame00005TargetNumber>3</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1091 335 19 34</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    973 341 26 24</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    595 347 19 16</Position></Frame00005Target00002>
+<Frame00006TargetNumber>3</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    591 342 19 21</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    993 336 26 28</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1130 330 25 34</Position></Frame00006Target00002>
+<Frame00007TargetNumber>3</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1187 330 22 37</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1019 339 27 25</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    588 342 18 22</Position></Frame00007Target00002>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    580 351 22 20</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1061 342 29 28</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1100 325 30 35</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    573 340 22 16</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    568 345 24 20</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1145 330 33 36</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1191 321 38 42</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"示7-靠右侧道路行驶"</Type>
+  <Position>
+    556 342 24 19</Position></Frame00011Target00001>
+</opencv_storage>

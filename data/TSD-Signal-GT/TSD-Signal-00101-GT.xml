@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>15</FrameNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1036 186 59 53</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1035 240 57 52</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1042 239 57 54</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1044 180 57 57</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1051 175 59 58</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1050 236 58 56</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1056 233 62 58</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1055 171 62 61</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1063 167 64 64</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1064 232 61 59</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1071 227 64 64</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1074 164 65 62</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1081 158 68 66</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1081 225 64 65</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1090 224 69 63</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1091 151 70 69</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1101 146 72 72</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1098 219 75 71</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1111 214 75 75</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1110 140 78 73</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1123 131 80 79</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1119 213 81 74</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1134 208 80 83</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1135 127 85 79</Position></Frame00011Target00001>
+<Frame00012TargetNumber>2</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1150 119 86 84</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1148 206 84 82</Position></Frame00012Target00001>
+<Frame00013TargetNumber>2</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1162 199 89 88</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1163 108 92 90</Position></Frame00013Target00001>
+<Frame00014TargetNumber>2</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"禁32-禁止长时停车"</Type>
+  <Position>
+    1181 102 96 94</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"禁39-解除限制速度"</Type>
+  <Position>
+    1177 198 94 89</Position></Frame00014Target00001>
+</opencv_storage>

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>90</FrameNumber>
+<Frame00000TargetNumber>0</Frame00000TargetNumber>
+<Frame00001TargetNumber>0</Frame00001TargetNumber>
+<Frame00002TargetNumber>0</Frame00002TargetNumber>
+<Frame00003TargetNumber>0</Frame00003TargetNumber>
+<Frame00004TargetNumber>0</Frame00004TargetNumber>
+<Frame00005TargetNumber>0</Frame00005TargetNumber>
+<Frame00006TargetNumber>0</Frame00006TargetNumber>
+<Frame00007TargetNumber>0</Frame00007TargetNumber>
+<Frame00008TargetNumber>0</Frame00008TargetNumber>
+<Frame00009TargetNumber>0</Frame00009TargetNumber>
+<Frame00010TargetNumber>0</Frame00010TargetNumber>
+<Frame00011TargetNumber>0</Frame00011TargetNumber>
+<Frame00012TargetNumber>0</Frame00012TargetNumber>
+<Frame00013TargetNumber>0</Frame00013TargetNumber>
+<Frame00014TargetNumber>0</Frame00014TargetNumber>
+<Frame00015TargetNumber>0</Frame00015TargetNumber>
+<Frame00016TargetNumber>0</Frame00016TargetNumber>
+<Frame00017TargetNumber>0</Frame00017TargetNumber>
+<Frame00018TargetNumber>0</Frame00018TargetNumber>
+<Frame00019TargetNumber>0</Frame00019TargetNumber>
+<Frame00020TargetNumber>0</Frame00020TargetNumber>
+<Frame00021TargetNumber>0</Frame00021TargetNumber>
+<Frame00022TargetNumber>0</Frame00022TargetNumber>
+<Frame00023TargetNumber>0</Frame00023TargetNumber>
+<Frame00024TargetNumber>0</Frame00024TargetNumber>
+<Frame00025TargetNumber>0</Frame00025TargetNumber>
+<Frame00026TargetNumber>0</Frame00026TargetNumber>
+<Frame00027TargetNumber>0</Frame00027TargetNumber>
+<Frame00028TargetNumber>0</Frame00028TargetNumber>
+<Frame00029TargetNumber>0</Frame00029TargetNumber>
+<Frame00030TargetNumber>0</Frame00030TargetNumber>
+<Frame00031TargetNumber>0</Frame00031TargetNumber>
+<Frame00032TargetNumber>0</Frame00032TargetNumber>
+<Frame00033TargetNumber>0</Frame00033TargetNumber>
+<Frame00034TargetNumber>0</Frame00034TargetNumber>
+<Frame00035TargetNumber>0</Frame00035TargetNumber>
+<Frame00036TargetNumber>0</Frame00036TargetNumber>
+<Frame00037TargetNumber>0</Frame00037TargetNumber>
+<Frame00038TargetNumber>0</Frame00038TargetNumber>
+<Frame00039TargetNumber>0</Frame00039TargetNumber>
+<Frame00040TargetNumber>0</Frame00040TargetNumber>
+<Frame00041TargetNumber>0</Frame00041TargetNumber>
+<Frame00042TargetNumber>0</Frame00042TargetNumber>
+<Frame00043TargetNumber>0</Frame00043TargetNumber>
+<Frame00044TargetNumber>0</Frame00044TargetNumber>
+<Frame00045TargetNumber>0</Frame00045TargetNumber>
+<Frame00046TargetNumber>0</Frame00046TargetNumber>
+<Frame00047TargetNumber>0</Frame00047TargetNumber>
+<Frame00048TargetNumber>0</Frame00048TargetNumber>
+<Frame00049TargetNumber>0</Frame00049TargetNumber>
+<Frame00050TargetNumber>0</Frame00050TargetNumber>
+<Frame00051TargetNumber>0</Frame00051TargetNumber>
+<Frame00052TargetNumber>0</Frame00052TargetNumber>
+<Frame00053TargetNumber>0</Frame00053TargetNumber>
+<Frame00054TargetNumber>0</Frame00054TargetNumber>
+<Frame00055TargetNumber>0</Frame00055TargetNumber>
+<Frame00056TargetNumber>0</Frame00056TargetNumber>
+<Frame00057TargetNumber>0</Frame00057TargetNumber>
+<Frame00058TargetNumber>0</Frame00058TargetNumber>
+<Frame00059TargetNumber>0</Frame00059TargetNumber>
+<Frame00060TargetNumber>0</Frame00060TargetNumber>
+<Frame00061TargetNumber>0</Frame00061TargetNumber>
+<Frame00062TargetNumber>0</Frame00062TargetNumber>
+<Frame00063TargetNumber>0</Frame00063TargetNumber>
+<Frame00064TargetNumber>0</Frame00064TargetNumber>
+<Frame00065TargetNumber>0</Frame00065TargetNumber>
+<Frame00066TargetNumber>0</Frame00066TargetNumber>
+<Frame00067TargetNumber>0</Frame00067TargetNumber>
+<Frame00068TargetNumber>0</Frame00068TargetNumber>
+<Frame00069TargetNumber>0</Frame00069TargetNumber>
+<Frame00070TargetNumber>0</Frame00070TargetNumber>
+<Frame00071TargetNumber>1</Frame00071TargetNumber>
+<Frame00071Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    527 297 11 12</Position></Frame00071Target00000>
+<Frame00072TargetNumber>1</Frame00072TargetNumber>
+<Frame00072Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    527 295 11 12</Position></Frame00072Target00000>
+<Frame00073TargetNumber>1</Frame00073TargetNumber>
+<Frame00073Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    527 291 10 12</Position></Frame00073Target00000>
+<Frame00074TargetNumber>1</Frame00074TargetNumber>
+<Frame00074Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    526 290 11 11</Position></Frame00074Target00000>
+<Frame00075TargetNumber>1</Frame00075TargetNumber>
+<Frame00075Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    525 295 12 12</Position></Frame00075Target00000>
+<Frame00076TargetNumber>1</Frame00076TargetNumber>
+<Frame00076Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    524 297 11 10</Position></Frame00076Target00000>
+<Frame00077TargetNumber>1</Frame00077TargetNumber>
+<Frame00077Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    522 297 13 11</Position></Frame00077Target00000>
+<Frame00078TargetNumber>1</Frame00078TargetNumber>
+<Frame00078Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    522 290 11 11</Position></Frame00078Target00000>
+<Frame00079TargetNumber>1</Frame00079TargetNumber>
+<Frame00079Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    521 286 12 11</Position></Frame00079Target00000>
+<Frame00080TargetNumber>1</Frame00080TargetNumber>
+<Frame00080Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    520 287 13 11</Position></Frame00080Target00000>
+<Frame00081TargetNumber>1</Frame00081TargetNumber>
+<Frame00081Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    520 287 12 11</Position></Frame00081Target00000>
+<Frame00082TargetNumber>1</Frame00082TargetNumber>
+<Frame00082Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    519 286 12 11</Position></Frame00082Target00000>
+<Frame00083TargetNumber>1</Frame00083TargetNumber>
+<Frame00083Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    517 286 13 12</Position></Frame00083Target00000>
+<Frame00084TargetNumber>1</Frame00084TargetNumber>
+<Frame00084Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    517 287 12 12</Position></Frame00084Target00000>
+<Frame00085TargetNumber>0</Frame00085TargetNumber>
+<Frame00086TargetNumber>1</Frame00086TargetNumber>
+<Frame00086Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    516 287 11 13</Position></Frame00086Target00000>
+<Frame00087TargetNumber>1</Frame00087TargetNumber>
+<Frame00087Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    513 289 14 13</Position></Frame00087Target00000>
+<Frame00088TargetNumber>1</Frame00088TargetNumber>
+<Frame00088Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    513 290 12 12</Position></Frame00088Target00000>
+<Frame00089TargetNumber>1</Frame00089TargetNumber>
+<Frame00089Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    512 290 12 14</Position></Frame00089Target00000>
+</opencv_storage>

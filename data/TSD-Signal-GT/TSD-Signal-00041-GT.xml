@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>16</FrameNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    58 181 34 78</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    60 262 36 76</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    128 263 36 78</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    127 180 34 75</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    194 173 33 82</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    197 255 32 80</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    265 251 33 77</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    257 171 38 77</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    326 162 34 81</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    329 245 33 80</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    396 243 34 79</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    393 157 33 79</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    462 151 32 85</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    464 241 33 80</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    536 239 34 81</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    534 150 33 85</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    603 144 34 85</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    609 236 31 81</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    683 229 34 83</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    681 140 32 84</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    753 128 40 85</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    759 217 38 88</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    841 211 32 88</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    837 113 35 94</Position></Frame00011Target00001>
+<Frame00012TargetNumber>2</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    921 110 34 88</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    918 203 40 91</Position></Frame00012Target00001>
+<Frame00013TargetNumber>2</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1008 196 34 92</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1005 101 36 87</Position></Frame00013Target00001>
+<Frame00014TargetNumber>2</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1092 84 41 96</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1093 183 35 102</Position></Frame00014Target00001>
+<Frame00015TargetNumber>2</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1184 175 40 103</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1187 73 37 94</Position></Frame00015Target00001>
+</opencv_storage>

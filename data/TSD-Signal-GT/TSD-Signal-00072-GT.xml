@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>13</FrameNumber>
+<Frame00000TargetNumber>1</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    187 281 38 36</Position></Frame00000Target00000>
+<Frame00001TargetNumber>1</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    179 278 36 38</Position></Frame00001Target00000>
+<Frame00002TargetNumber>1</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    169 276 38 39</Position></Frame00002Target00000>
+<Frame00003TargetNumber>1</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    160 273 38 38</Position></Frame00003Target00000>
+<Frame00004TargetNumber>1</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    151 272 36 37</Position></Frame00004Target00000>
+<Frame00005TargetNumber>1</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    138 267 41 39</Position></Frame00005Target00000>
+<Frame00006TargetNumber>1</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    127 262 41 43</Position></Frame00006Target00000>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    116 260 40 42</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    407 338 19 18</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    405 335 21 20</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    101 256 46 43</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    88 249 42 45</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    400 329 24 21</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    401 325 21 22</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    72 245 48 42</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    58 238 46 45</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    397 326 22 21</Position></Frame00011Target00001>
+<Frame00012TargetNumber>2</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    393 327 20 21</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"禁6-禁止机动车驶入"</Type>
+  <Position>
+    37 240 50 46</Position></Frame00012Target00001>
+</opencv_storage>

@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>33</FrameNumber>
+<Frame00000TargetNumber>0</Frame00000TargetNumber>
+<Frame00001TargetNumber>0</Frame00001TargetNumber>
+<Frame00002TargetNumber>0</Frame00002TargetNumber>
+<Frame00003TargetNumber>0</Frame00003TargetNumber>
+<Frame00004TargetNumber>0</Frame00004TargetNumber>
+<Frame00005TargetNumber>0</Frame00005TargetNumber>
+<Frame00006TargetNumber>0</Frame00006TargetNumber>
+<Frame00007TargetNumber>0</Frame00007TargetNumber>
+<Frame00008TargetNumber>1</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    472 332 26 27</Position></Frame00008Target00000>
+<Frame00009TargetNumber>1</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    466 331 27 25</Position></Frame00009Target00000>
+<Frame00010TargetNumber>1</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    461 338 36 25</Position></Frame00010Target00000>
+<Frame00011TargetNumber>1</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    452 331 38 29</Position></Frame00011Target00000>
+<Frame00012TargetNumber>1</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    448 320 34 30</Position></Frame00012Target00000>
+<Frame00013TargetNumber>1</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    435 317 36 32</Position></Frame00013Target00000>
+<Frame00014TargetNumber>1</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    428 317 31 28</Position></Frame00014Target00000>
+<Frame00015TargetNumber>1</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    417 320 39 33</Position></Frame00015Target00000>
+<Frame00016TargetNumber>1</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    407 317 40 33</Position></Frame00016Target00000>
+<Frame00017TargetNumber>1</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    396 314 41 34</Position></Frame00017Target00000>
+<Frame00018TargetNumber>1</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    382 317 45 37</Position></Frame00018Target00000>
+<Frame00019TargetNumber>1</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    370 309 43 34</Position></Frame00019Target00000>
+<Frame00020TargetNumber>1</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    354 306 45 35</Position></Frame00020Target00000>
+<Frame00021TargetNumber>1</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    338 302 52 38</Position></Frame00021Target00000>
+<Frame00022TargetNumber>1</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    323 301 47 39</Position></Frame00022Target00000>
+<Frame00023TargetNumber>1</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    299 291 52 40</Position></Frame00023Target00000>
+<Frame00024TargetNumber>1</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    275 291 56 39</Position></Frame00024Target00000>
+<Frame00025TargetNumber>1</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    255 293 55 42</Position></Frame00025Target00000>
+<Frame00026TargetNumber>1</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    228 291 57 46</Position></Frame00026Target00000>
+<Frame00027TargetNumber>1</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    195 285 68 44</Position></Frame00027Target00000>
+<Frame00028TargetNumber>1</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    163 282 68 49</Position></Frame00028Target00000>
+<Frame00029TargetNumber>1</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    129 278 67 48</Position></Frame00029Target00000>
+<Frame00030TargetNumber>1</Frame00030TargetNumber>
+<Frame00030Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    94 277 67 56</Position></Frame00030Target00000>
+<Frame00031TargetNumber>1</Frame00031TargetNumber>
+<Frame00031Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    50 266 70 59</Position></Frame00031Target00000>
+<Frame00032TargetNumber>1</Frame00032TargetNumber>
+<Frame00032Target00000>
+  <Type>"警9-双向交通"</Type>
+  <Position>
+    2 232 67 67</Position></Frame00032Target00000>
+</opencv_storage>

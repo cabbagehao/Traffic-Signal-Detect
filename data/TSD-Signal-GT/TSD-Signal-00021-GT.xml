@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>110</FrameNumber>
+<Frame00000TargetNumber>1</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    751 302 19 18</Position></Frame00000Target00000>
+<Frame00001TargetNumber>1</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    753 304 14 15</Position></Frame00001Target00000>
+<Frame00002TargetNumber>1</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    754 302 17 17</Position></Frame00002Target00000>
+<Frame00003TargetNumber>1</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    756 302 17 21</Position></Frame00003Target00000>
+<Frame00004TargetNumber>1</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    759 303 12 15</Position></Frame00004Target00000>
+<Frame00005TargetNumber>1</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    757 305 19 14</Position></Frame00005Target00000>
+<Frame00006TargetNumber>1</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    761 300 15 19</Position></Frame00006Target00000>
+<Frame00007TargetNumber>1</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    761 303 17 15</Position></Frame00007Target00000>
+<Frame00008TargetNumber>1</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    763 301 16 21</Position></Frame00008Target00000>
+<Frame00009TargetNumber>1</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    763 302 18 19</Position></Frame00009Target00000>
+<Frame00010TargetNumber>1</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    763 300 22 22</Position></Frame00010Target00000>
+<Frame00011TargetNumber>1</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    766 300 22 21</Position></Frame00011Target00000>
+<Frame00012TargetNumber>1</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    766 298 20 24</Position></Frame00012Target00000>
+<Frame00013TargetNumber>1</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    770 301 17 18</Position></Frame00013Target00000>
+<Frame00014TargetNumber>1</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    767 298 23 22</Position></Frame00014Target00000>
+<Frame00015TargetNumber>1</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    771 298 22 22</Position></Frame00015Target00000>
+<Frame00016TargetNumber>1</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    773 299 17 19</Position></Frame00016Target00000>
+<Frame00017TargetNumber>1</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    772 299 22 21</Position></Frame00017Target00000>
+<Frame00018TargetNumber>1</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    774 299 22 21</Position></Frame00018Target00000>
+<Frame00019TargetNumber>1</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    777 298 19 19</Position></Frame00019Target00000>
+<Frame00020TargetNumber>1</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    778 296 20 21</Position></Frame00020Target00000>
+<Frame00021TargetNumber>1</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    780 296 21 22</Position></Frame00021Target00000>
+<Frame00022TargetNumber>1</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    782 297 21 24</Position></Frame00022Target00000>
+<Frame00023TargetNumber>1</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    780 296 25 23</Position></Frame00023Target00000>
+<Frame00024TargetNumber>1</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    785 301 21 21</Position></Frame00024Target00000>
+<Frame00025TargetNumber>1</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    785 300 23 20</Position></Frame00025Target00000>
+<Frame00026TargetNumber>1</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    788 296 21 22</Position></Frame00026Target00000>
+<Frame00027TargetNumber>1</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    788 298 24 21</Position></Frame00027Target00000>
+<Frame00028TargetNumber>1</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    791 297 22 22</Position></Frame00028Target00000>
+<Frame00029TargetNumber>1</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    791 298 24 22</Position></Frame00029Target00000>
+<Frame00030TargetNumber>1</Frame00030TargetNumber>
+<Frame00030Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    793 304 22 20</Position></Frame00030Target00000>
+<Frame00031TargetNumber>1</Frame00031TargetNumber>
+<Frame00031Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    795 299 24 23</Position></Frame00031Target00000>
+<Frame00032TargetNumber>1</Frame00032TargetNumber>
+<Frame00032Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    797 299 23 21</Position></Frame00032Target00000>
+<Frame00033TargetNumber>1</Frame00033TargetNumber>
+<Frame00033Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    799 302 23 21</Position></Frame00033Target00000>
+<Frame00034TargetNumber>1</Frame00034TargetNumber>
+<Frame00034Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    799 299 25 24</Position></Frame00034Target00000>
+<Frame00035TargetNumber>1</Frame00035TargetNumber>
+<Frame00035Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    805 299 19 22</Position></Frame00035Target00000>
+<Frame00036TargetNumber>1</Frame00036TargetNumber>
+<Frame00036Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    804 298 23 23</Position></Frame00036Target00000>
+<Frame00037TargetNumber>1</Frame00037TargetNumber>
+<Frame00037Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    804 297 26 23</Position></Frame00037Target00000>
+<Frame00038TargetNumber>1</Frame00038TargetNumber>
+<Frame00038Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    808 296 23 23</Position></Frame00038Target00000>
+<Frame00039TargetNumber>1</Frame00039TargetNumber>
+<Frame00039Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    807 297 26 21</Position></Frame00039Target00000>
+<Frame00040TargetNumber>1</Frame00040TargetNumber>
+<Frame00040Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    807 296 28 23</Position></Frame00040Target00000>
+<Frame00041TargetNumber>1</Frame00041TargetNumber>
+<Frame00041Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    809 296 24 22</Position></Frame00041Target00000>
+<Frame00042TargetNumber>1</Frame00042TargetNumber>
+<Frame00042Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    811 297 25 22</Position></Frame00042Target00000>
+<Frame00043TargetNumber>1</Frame00043TargetNumber>
+<Frame00043Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    810 296 29 21</Position></Frame00043Target00000>
+<Frame00044TargetNumber>1</Frame00044TargetNumber>
+<Frame00044Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    813 296 25 22</Position></Frame00044Target00000>
+<Frame00045TargetNumber>1</Frame00045TargetNumber>
+<Frame00045Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    813 296 29 23</Position></Frame00045Target00000>
+<Frame00046TargetNumber>1</Frame00046TargetNumber>
+<Frame00046Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    818 296 24 22</Position></Frame00046Target00000>
+<Frame00047TargetNumber>1</Frame00047TargetNumber>
+<Frame00047Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    819 295 23 22</Position></Frame00047Target00000>
+<Frame00048TargetNumber>1</Frame00048TargetNumber>
+<Frame00048Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    818 293 27 25</Position></Frame00048Target00000>
+<Frame00049TargetNumber>1</Frame00049TargetNumber>
+<Frame00049Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    818 288 26 25</Position></Frame00049Target00000>
+<Frame00050TargetNumber>1</Frame00050TargetNumber>
+<Frame00050Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    823 293 22 23</Position></Frame00050Target00000>
+<Frame00051TargetNumber>1</Frame00051TargetNumber>
+<Frame00051Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    821 290 30 26</Position></Frame00051Target00000>
+<Frame00052TargetNumber>1</Frame00052TargetNumber>
+<Frame00052Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    822 290 27 24</Position></Frame00052Target00000>
+<Frame00053TargetNumber>1</Frame00053TargetNumber>
+<Frame00053Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    825 290 28 22</Position></Frame00053Target00000>
+<Frame00054TargetNumber>1</Frame00054TargetNumber>
+<Frame00054Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    826 286 27 26</Position></Frame00054Target00000>
+<Frame00055TargetNumber>1</Frame00055TargetNumber>
+<Frame00055Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    825 287 31 26</Position></Frame00055Target00000>
+<Frame00056TargetNumber>1</Frame00056TargetNumber>
+<Frame00056Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    827 290 29 24</Position></Frame00056Target00000>
+<Frame00057TargetNumber>1</Frame00057TargetNumber>
+<Frame00057Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    827 288 28 27</Position></Frame00057Target00000>
+<Frame00058TargetNumber>1</Frame00058TargetNumber>
+<Frame00058Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    828 288 30 25</Position></Frame00058Target00000>
+<Frame00059TargetNumber>1</Frame00059TargetNumber>
+<Frame00059Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    831 285 29 29</Position></Frame00059Target00000>
+<Frame00060TargetNumber>1</Frame00060TargetNumber>
+<Frame00060Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    831 287 31 28</Position></Frame00060Target00000>
+<Frame00061TargetNumber>1</Frame00061TargetNumber>
+<Frame00061Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    832 287 31 28</Position></Frame00061Target00000>
+<Frame00062TargetNumber>1</Frame00062TargetNumber>
+<Frame00062Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    830 286 34 29</Position></Frame00062Target00000>
+<Frame00063TargetNumber>1</Frame00063TargetNumber>
+<Frame00063Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    835 287 29 27</Position></Frame00063Target00000>
+<Frame00064TargetNumber>1</Frame00064TargetNumber>
+<Frame00064Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    837 282 34 31</Position></Frame00064Target00000>
+<Frame00065TargetNumber>1</Frame00065TargetNumber>
+<Frame00065Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    838 281 33 31</Position></Frame00065Target00000>
+<Frame00066TargetNumber>1</Frame00066TargetNumber>
+<Frame00066Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    839 282 36 31</Position></Frame00066Target00000>
+<Frame00067TargetNumber>1</Frame00067TargetNumber>
+<Frame00067Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    840 284 35 30</Position></Frame00067Target00000>
+<Frame00068TargetNumber>1</Frame00068TargetNumber>
+<Frame00068Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    841 281 37 32</Position></Frame00068Target00000>
+<Frame00069TargetNumber>1</Frame00069TargetNumber>
+<Frame00069Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    843 281 39 34</Position></Frame00069Target00000>
+<Frame00070TargetNumber>1</Frame00070TargetNumber>
+<Frame00070Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    846 279 36 33</Position></Frame00070Target00000>
+<Frame00071TargetNumber>1</Frame00071TargetNumber>
+<Frame00071Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    844 274 38 37</Position></Frame00071Target00000>
+<Frame00072TargetNumber>1</Frame00072TargetNumber>
+<Frame00072Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    850 278 37 34</Position></Frame00072Target00000>
+<Frame00073TargetNumber>1</Frame00073TargetNumber>
+<Frame00073Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    852 274 39 35</Position></Frame00073Target00000>
+<Frame00074TargetNumber>1</Frame00074TargetNumber>
+<Frame00074Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    851 273 44 38</Position></Frame00074Target00000>
+<Frame00075TargetNumber>1</Frame00075TargetNumber>
+<Frame00075Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    855 275 42 38</Position></Frame00075Target00000>
+<Frame00076TargetNumber>1</Frame00076TargetNumber>
+<Frame00076Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    854 271 44 36</Position></Frame00076Target00000>
+<Frame00077TargetNumber>1</Frame00077TargetNumber>
+<Frame00077Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    860 278 41 39</Position></Frame00077Target00000>
+<Frame00078TargetNumber>1</Frame00078TargetNumber>
+<Frame00078Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    861 262 44 38</Position></Frame00078Target00000>
+<Frame00079TargetNumber>1</Frame00079TargetNumber>
+<Frame00079Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    864 274 42 38</Position></Frame00079Target00000>
+<Frame00080TargetNumber>1</Frame00080TargetNumber>
+<Frame00080Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    863 269 42 37</Position></Frame00080Target00000>
+<Frame00081TargetNumber>1</Frame00081TargetNumber>
+<Frame00081Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    866 260 45 40</Position></Frame00081Target00000>
+<Frame00082TargetNumber>1</Frame00082TargetNumber>
+<Frame00082Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    866 268 47 40</Position></Frame00082Target00000>
+<Frame00083TargetNumber>1</Frame00083TargetNumber>
+<Frame00083Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    868 273 47 42</Position></Frame00083Target00000>
+<Frame00084TargetNumber>1</Frame00084TargetNumber>
+<Frame00084Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    871 262 46 44</Position></Frame00084Target00000>
+<Frame00085TargetNumber>1</Frame00085TargetNumber>
+<Frame00085Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    872 263 48 41</Position></Frame00085Target00000>
+<Frame00086TargetNumber>1</Frame00086TargetNumber>
+<Frame00086Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    877 262 47 45</Position></Frame00086Target00000>
+<Frame00087TargetNumber>1</Frame00087TargetNumber>
+<Frame00087Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    879 257 46 45</Position></Frame00087Target00000>
+<Frame00088TargetNumber>1</Frame00088TargetNumber>
+<Frame00088Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    879 260 52 44</Position></Frame00088Target00000>
+<Frame00089TargetNumber>1</Frame00089TargetNumber>
+<Frame00089Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    885 259 47 44</Position></Frame00089Target00000>
+<Frame00090TargetNumber>1</Frame00090TargetNumber>
+<Frame00090Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    886 258 49 45</Position></Frame00090Target00000>
+<Frame00091TargetNumber>1</Frame00091TargetNumber>
+<Frame00091Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    890 255 49 48</Position></Frame00091Target00000>
+<Frame00092TargetNumber>1</Frame00092TargetNumber>
+<Frame00092Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    891 255 51 47</Position></Frame00092Target00000>
+<Frame00093TargetNumber>1</Frame00093TargetNumber>
+<Frame00093Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    893 254 57 45</Position></Frame00093Target00000>
+<Frame00094TargetNumber>1</Frame00094TargetNumber>
+<Frame00094Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    898 250 55 51</Position></Frame00094Target00000>
+<Frame00095TargetNumber>1</Frame00095TargetNumber>
+<Frame00095Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    903 247 56 51</Position></Frame00095Target00000>
+<Frame00096TargetNumber>1</Frame00096TargetNumber>
+<Frame00096Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    906 251 58 49</Position></Frame00096Target00000>
+<Frame00097TargetNumber>1</Frame00097TargetNumber>
+<Frame00097Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    908 246 61 55</Position></Frame00097Target00000>
+<Frame00098TargetNumber>1</Frame00098TargetNumber>
+<Frame00098Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    913 246 63 53</Position></Frame00098Target00000>
+<Frame00099TargetNumber>1</Frame00099TargetNumber>
+<Frame00099Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    920 242 61 54</Position></Frame00099Target00000>
+<Frame00100TargetNumber>1</Frame00100TargetNumber>
+<Frame00100Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    923 245 63 60</Position></Frame00100Target00000>
+<Frame00101TargetNumber>1</Frame00101TargetNumber>
+<Frame00101Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    932 234 64 59</Position></Frame00101Target00000>
+<Frame00102TargetNumber>1</Frame00102TargetNumber>
+<Frame00102Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    937 233 64 58</Position></Frame00102Target00000>
+<Frame00103TargetNumber>1</Frame00103TargetNumber>
+<Frame00103Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    943 236 68 61</Position></Frame00103Target00000>
+<Frame00104TargetNumber>1</Frame00104TargetNumber>
+<Frame00104Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    950 225 71 66</Position></Frame00104Target00000>
+<Frame00105TargetNumber>1</Frame00105TargetNumber>
+<Frame00105Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    955 224 72 64</Position></Frame00105Target00000>
+<Frame00106TargetNumber>1</Frame00106TargetNumber>
+<Frame00106Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    961 220 76 66</Position></Frame00106Target00000>
+<Frame00107TargetNumber>1</Frame00107TargetNumber>
+<Frame00107Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    969 223 79 66</Position></Frame00107Target00000>
+<Frame00108TargetNumber>1</Frame00108TargetNumber>
+<Frame00108Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    979 210 80 71</Position></Frame00108Target00000>
+<Frame00109TargetNumber>1</Frame00109TargetNumber>
+<Frame00109Target00000>
+  <Type>"警1-十字交叉"</Type>
+  <Position>
+    987 215 86 71</Position></Frame00109Target00000>
+</opencv_storage>

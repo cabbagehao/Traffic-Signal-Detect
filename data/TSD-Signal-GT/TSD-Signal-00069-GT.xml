@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>31</FrameNumber>
+<Frame00000TargetNumber>1</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    868 347 23 18</Position></Frame00000Target00000>
+<Frame00001TargetNumber>1</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    888 350 22 20</Position></Frame00001Target00000>
+<Frame00002TargetNumber>1</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    911 360 19 19</Position></Frame00002Target00000>
+<Frame00003TargetNumber>1</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    929 346 22 19</Position></Frame00003Target00000>
+<Frame00004TargetNumber>1</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    928 347 24 22</Position></Frame00004Target00000>
+<Frame00005TargetNumber>1</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    929 342 24 21</Position></Frame00005Target00000>
+<Frame00006TargetNumber>1</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    926 343 24 23</Position></Frame00006Target00000>
+<Frame00007TargetNumber>1</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    926 344 20 22</Position></Frame00007Target00000>
+<Frame00008TargetNumber>1</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    927 342 23 23</Position></Frame00008Target00000>
+<Frame00009TargetNumber>1</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    929 335 23 22</Position></Frame00009Target00000>
+<Frame00010TargetNumber>1</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    932 333 20 24</Position></Frame00010Target00000>
+<Frame00011TargetNumber>0</Frame00011TargetNumber>
+<Frame00012TargetNumber>0</Frame00012TargetNumber>
+<Frame00013TargetNumber>0</Frame00013TargetNumber>
+<Frame00014TargetNumber>0</Frame00014TargetNumber>
+<Frame00015TargetNumber>0</Frame00015TargetNumber>
+<Frame00016TargetNumber>0</Frame00016TargetNumber>
+<Frame00017TargetNumber>0</Frame00017TargetNumber>
+<Frame00018TargetNumber>0</Frame00018TargetNumber>
+<Frame00019TargetNumber>0</Frame00019TargetNumber>
+<Frame00020TargetNumber>1</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1016 335 32 29</Position></Frame00020Target00000>
+<Frame00021TargetNumber>1</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1028 333 34 31</Position></Frame00021Target00000>
+<Frame00022TargetNumber>1</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1039 329 35 33</Position></Frame00022Target00000>
+<Frame00023TargetNumber>1</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1052 321 36 35</Position></Frame00023Target00000>
+<Frame00024TargetNumber>1</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1064 321 37 38</Position></Frame00024Target00000>
+<Frame00025TargetNumber>1</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1083 329 37 38</Position></Frame00025Target00000>
+<Frame00026TargetNumber>1</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1098 326 39 39</Position></Frame00026Target00000>
+<Frame00027TargetNumber>1</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1120 320 42 43</Position></Frame00027Target00000>
+<Frame00028TargetNumber>1</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1157 322 44 42</Position></Frame00028Target00000>
+<Frame00029TargetNumber>1</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1190 314 47 47</Position></Frame00029Target00000>
+<Frame00030TargetNumber>1</Frame00030TargetNumber>
+<Frame00030Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1214 310 46 48</Position></Frame00030Target00000>
+</opencv_storage>

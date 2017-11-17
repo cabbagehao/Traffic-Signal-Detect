@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>14</FrameNumber>
+<Frame00000TargetNumber>1</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    553 32 55 77</Position></Frame00000Target00000>
+<Frame00001TargetNumber>1</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    551 29 58 80</Position></Frame00001Target00000>
+<Frame00002TargetNumber>1</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    552 26 54 80</Position></Frame00002Target00000>
+<Frame00003TargetNumber>1</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    549 25 54 81</Position></Frame00003Target00000>
+<Frame00004TargetNumber>1</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    547 23 52 83</Position></Frame00004Target00000>
+<Frame00005TargetNumber>1</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    544 22 55 84</Position></Frame00005Target00000>
+<Frame00006TargetNumber>0</Frame00006TargetNumber>
+<Frame00007TargetNumber>1</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    539 10 56 88</Position></Frame00007Target00000>
+<Frame00008TargetNumber>1</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    537 9 54 87</Position></Frame00008Target00000>
+<Frame00009TargetNumber>1</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    535 3 56 91</Position></Frame00009Target00000>
+<Frame00010TargetNumber>1</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    532 5 60 87</Position></Frame00010Target00000>
+<Frame00011TargetNumber>1</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    531 5 57 87</Position></Frame00011Target00000>
+<Frame00012TargetNumber>1</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    526 2 59 90</Position></Frame00012Target00000>
+<Frame00013TargetNumber>1</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    526 2 59 90</Position></Frame00013Target00000>
+</opencv_storage>

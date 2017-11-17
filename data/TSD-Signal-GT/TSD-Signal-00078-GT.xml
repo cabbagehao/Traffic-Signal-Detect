@@ -1,0 +1,450 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>46</FrameNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    868 265 20 24</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    884 287 20 17</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    884 292 19 24</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    865 271 25 26</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    864 281 27 26</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    884 304 20 20</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    889 303 19 22</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    869 281 23 24</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    874 275 22 25</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    891 295 22 24</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    896 288 17 26</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    876 268 26 24</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    881 268 22 24</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    898 291 19 20</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    901 285 21 25</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    882 264 24 24</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    888 261 22 27</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    903 286 22 23</Position></Frame00008Target00001>
+<Frame00009TargetNumber>3</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    909 284 19 23</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    888 260 25 25</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    894 266 20 25</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    912 289 15 21</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    895 264 27 27</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    913 291 18 21</Position></Frame00011Target00001>
+<Frame00012TargetNumber>2</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    917 288 17 21</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    902 264 24 28</Position></Frame00012Target00001>
+<Frame00013TargetNumber>2</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    906 263 25 28</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    921 291 17 20</Position></Frame00013Target00001>
+<Frame00014TargetNumber>2</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    924 289 19 25</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    907 261 28 30</Position></Frame00014Target00001>
+<Frame00015TargetNumber>2</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    912 261 25 29</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    929 288 16 21</Position></Frame00015Target00001>
+<Frame00016TargetNumber>2</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    931 286 21 29</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    914 261 29 27</Position></Frame00016Target00001>
+<Frame00017TargetNumber>2</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    919 262 30 27</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    933 289 21 21</Position></Frame00017Target00001>
+<Frame00018TargetNumber>2</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    940 289 21 24</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    923 262 31 29</Position></Frame00018Target00001>
+<Frame00019TargetNumber>2</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    929 261 29 28</Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    944 288 17 22</Position></Frame00019Target00001>
+<Frame00020TargetNumber>2</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    947 288 20 22</Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    931 259 31 31</Position></Frame00020Target00001>
+<Frame00021TargetNumber>2</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    939 259 26 29</Position></Frame00021Target00000>
+<Frame00021Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    953 287 19 19</Position></Frame00021Target00001>
+<Frame00022TargetNumber>2</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    958 288 23 19</Position></Frame00022Target00000>
+<Frame00022Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    941 260 30 28</Position></Frame00022Target00001>
+<Frame00023TargetNumber>2</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    947 257 31 32</Position></Frame00023Target00000>
+<Frame00023Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    962 288 24 21</Position></Frame00023Target00001>
+<Frame00024TargetNumber>2</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    971 281 18 19</Position></Frame00024Target00000>
+<Frame00024Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    956 255 28 29</Position></Frame00024Target00001>
+<Frame00025TargetNumber>3</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    962 249 27 29</Position></Frame00025Target00000>
+<Frame00025Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    976 276 23 25</Position></Frame00025Target00001>
+<Frame00025Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1046 265 17 20</Position></Frame00025Target00002>
+<Frame00026TargetNumber>3</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1052 261 19 21</Position></Frame00026Target00000>
+<Frame00026Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    980 274 22 20</Position></Frame00026Target00001>
+<Frame00026Target00002>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    964 242 32 32</Position></Frame00026Target00002>
+<Frame00027TargetNumber>3</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    969 244 32 33</Position></Frame00027Target00000>
+<Frame00027Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    983 274 25 20</Position></Frame00027Target00001>
+<Frame00027Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1057 262 20 19</Position></Frame00027Target00002>
+<Frame00028TargetNumber>3</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1060 265 23 19</Position></Frame00028Target00000>
+<Frame00028Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    988 278 22 23</Position></Frame00028Target00001>
+<Frame00028Target00002>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    975 248 32 31</Position></Frame00028Target00002>
+<Frame00029TargetNumber>3</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    981 249 30 32</Position></Frame00029Target00000>
+<Frame00029Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    995 283 19 22</Position></Frame00029Target00001>
+<Frame00029Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1066 266 23 22</Position></Frame00029Target00002>
+<Frame00030TargetNumber>3</Frame00030TargetNumber>
+<Frame00030Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1071 266 22 22</Position></Frame00030Target00000>
+<Frame00030Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    988 248 31 34</Position></Frame00030Target00001>
+<Frame00030Target00002>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1004 283 17 23</Position></Frame00030Target00002>
+<Frame00031TargetNumber>3</Frame00031TargetNumber>
+<Frame00031Target00000>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1010 283 18 21</Position></Frame00031Target00000>
+<Frame00031Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    992 251 33 31</Position></Frame00031Target00001>
+<Frame00031Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1077 267 22 22</Position></Frame00031Target00002>
+<Frame00032TargetNumber>3</Frame00032TargetNumber>
+<Frame00032Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1082 269 20 24</Position></Frame00032Target00000>
+<Frame00032Target00001>
+  <Type>"示19-人行横道"</Type>
+  <Position>
+    1015 286 18 23</Position></Frame00032Target00001>
+<Frame00032Target00002>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    997 250 34 35</Position></Frame00032Target00002>
+<Frame00033TargetNumber>2</Frame00033TargetNumber>
+<Frame00033Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1006 253 31 34</Position></Frame00033Target00000>
+<Frame00033Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1088 272 21 24</Position></Frame00033Target00001>
+<Frame00034TargetNumber>2</Frame00034TargetNumber>
+<Frame00034Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1092 270 22 22</Position></Frame00034Target00000>
+<Frame00034Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1011 250 34 35</Position></Frame00034Target00001>
+<Frame00035TargetNumber>2</Frame00035TargetNumber>
+<Frame00035Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1017 242 35 38</Position></Frame00035Target00000>
+<Frame00035Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1094 265 25 21</Position></Frame00035Target00001>
+<Frame00036TargetNumber>2</Frame00036TargetNumber>
+<Frame00036Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1101 255 23 24</Position></Frame00036Target00000>
+<Frame00036Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1022 233 35 36</Position></Frame00036Target00001>
+<Frame00037TargetNumber>2</Frame00037TargetNumber>
+<Frame00037Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1026 223 38 38</Position></Frame00037Target00000>
+<Frame00037Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1105 249 24 21</Position></Frame00037Target00001>
+<Frame00038TargetNumber>2</Frame00038TargetNumber>
+<Frame00038Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1109 246 21 25</Position></Frame00038Target00000>
+<Frame00038Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1031 225 36 37</Position></Frame00038Target00001>
+<Frame00039TargetNumber>2</Frame00039TargetNumber>
+<Frame00039Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1034 230 38 36</Position></Frame00039Target00000>
+<Frame00039Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1111 253 24 23</Position></Frame00039Target00001>
+<Frame00040TargetNumber>2</Frame00040TargetNumber>
+<Frame00040Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1114 263 25 23</Position></Frame00040Target00000>
+<Frame00040Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1038 238 41 39</Position></Frame00040Target00001>
+<Frame00041TargetNumber>2</Frame00041TargetNumber>
+<Frame00041Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1042 246 42 36</Position></Frame00041Target00000>
+<Frame00041Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1117 268 22 27</Position></Frame00041Target00001>
+<Frame00042TargetNumber>2</Frame00042TargetNumber>
+<Frame00042Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1120 270 22 23</Position></Frame00042Target00000>
+<Frame00042Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1047 245 41 39</Position></Frame00042Target00001>
+<Frame00043TargetNumber>2</Frame00043TargetNumber>
+<Frame00043Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1053 238 39 37</Position></Frame00043Target00000>
+<Frame00043Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1121 264 25 23</Position></Frame00043Target00001>
+<Frame00044TargetNumber>2</Frame00044TargetNumber>
+<Frame00044Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1124 258 25 27</Position></Frame00044Target00000>
+<Frame00044Target00001>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1059 230 41 40</Position></Frame00044Target00001>
+<Frame00045TargetNumber>2</Frame00045TargetNumber>
+<Frame00045Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    1062 224 40 45</Position></Frame00045Target00000>
+<Frame00045Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1127 254 25 26</Position></Frame00045Target00001>
+</opencv_storage>

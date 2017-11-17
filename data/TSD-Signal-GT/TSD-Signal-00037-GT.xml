@@ -1,0 +1,1026 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>62</FrameNumber>
+<Frame00000TargetNumber>3</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    675 319 10 15</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    710 318 12 14</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    744 317 11 12</Position></Frame00000Target00002>
+<Frame00001TargetNumber>3</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    741 310 12 15</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    705 312 11 14</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    669 314 15 15</Position></Frame00001Target00002>
+<Frame00002TargetNumber>3</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    663 308 14 14</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    699 306 13 15</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    737 304 14 18</Position></Frame00002Target00002>
+<Frame00003TargetNumber>3</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    733 307 14 16</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    696 307 14 17</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    660 310 14 15</Position></Frame00003Target00002>
+<Frame00004TargetNumber>3</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    655 314 16 14</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    693 311 15 18</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    730 309 12 15</Position></Frame00004Target00002>
+<Frame00005TargetNumber>3</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    725 310 15 19</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    689 313 12 16</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    652 315 12 17</Position></Frame00005Target00002>
+<Frame00006TargetNumber>3</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    648 321 15 17</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    685 316 15 20</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    720 313 19 21</Position></Frame00006Target00002>
+<Frame00007TargetNumber>3</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    723 315 15 13</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    685 317 17 14</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    647 319 17 14</Position></Frame00007Target00002>
+<Frame00008TargetNumber>4</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    652 317 11 15</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    687 314 16 15</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    728 311 16 23</Position></Frame00008Target00002>
+<Frame00008Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    780 352 15 15</Position></Frame00008Target00003>
+<Frame00009TargetNumber>4</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    783 352 14 16</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    732 313 12 13</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    691 313 16 13</Position></Frame00009Target00002>
+<Frame00009Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    651 316 19 15</Position></Frame00009Target00003>
+<Frame00010TargetNumber>4</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    657 311 17 16</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    697 309 16 17</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    738 307 14 18</Position></Frame00010Target00002>
+<Frame00010Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    792 350 11 14</Position></Frame00010Target00003>
+<Frame00011TargetNumber>4</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    801 354 13 13</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    745 310 14 19</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    707 313 13 15</Position></Frame00011Target00002>
+<Frame00011Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    665 313 18 18</Position></Frame00011Target00003>
+<Frame00012TargetNumber>4</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    671 307 17 14</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    712 306 17 15</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    752 303 16 19</Position></Frame00012Target00002>
+<Frame00012Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    809 346 16 15</Position></Frame00012Target00003>
+<Frame00013TargetNumber>4</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    821 347 15 16</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    725 307 17 14</Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    686 310 13 14</Position></Frame00013Target00002>
+<Frame00013Target00003>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    767 304 15 16</Position></Frame00013Target00003>
+<Frame00014TargetNumber>4</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    736 303 16 15</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    779 300 18 18</Position></Frame00014Target00001>
+<Frame00014Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    696 304 15 18</Position></Frame00014Target00002>
+<Frame00014Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    837 343 14 16</Position></Frame00014Target00003>
+<Frame00015TargetNumber>4</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    853 336 13 15</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    793 293 16 17</Position></Frame00015Target00001>
+<Frame00015Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    752 293 16 17</Position></Frame00015Target00002>
+<Frame00015Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    710 296 18 19</Position></Frame00015Target00003>
+<Frame00016TargetNumber>4</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    723 298 16 19</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    764 296 15 16</Position></Frame00016Target00001>
+<Frame00016Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    809 294 13 17</Position></Frame00016Target00002>
+<Frame00016Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    868 339 14 15</Position></Frame00016Target00003>
+<Frame00017TargetNumber>4</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    878 340 16 16</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    819 295 14 15</Position></Frame00017Target00001>
+<Frame00017Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    775 296 13 15</Position></Frame00017Target00002>
+<Frame00017Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    731 299 16 14</Position></Frame00017Target00003>
+<Frame00018TargetNumber>4</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    734 310 14 15</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    780 308 12 14</Position></Frame00018Target00001>
+<Frame00018Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    824 304 13 17</Position></Frame00018Target00002>
+<Frame00018Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    883 353 13 15</Position></Frame00018Target00003>
+<Frame00019TargetNumber>4</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    885 352 14 17</Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    824 305 12 16</Position></Frame00019Target00001>
+<Frame00019Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    780 308 11 14</Position></Frame00019Target00002>
+<Frame00019Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    733 311 16 17</Position></Frame00019Target00003>
+<Frame00020TargetNumber>4</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    733 300 14 12</Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    780 296 14 17</Position></Frame00020Target00001>
+<Frame00020Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    826 295 14 15</Position></Frame00020Target00002>
+<Frame00020Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    887 342 16 14</Position></Frame00020Target00003>
+<Frame00021TargetNumber>4</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    887 347 13 12</Position></Frame00021Target00000>
+<Frame00021Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    821 297 16 16</Position></Frame00021Target00001>
+<Frame00021Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    777 299 12 14</Position></Frame00021Target00002>
+<Frame00021Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    730 304 13 14</Position></Frame00021Target00003>
+<Frame00022TargetNumber>4</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    725 299 16 16</Position></Frame00022Target00000>
+<Frame00022Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    774 294 15 18</Position></Frame00022Target00001>
+<Frame00022Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    820 294 16 18</Position></Frame00022Target00002>
+<Frame00022Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    886 344 13 14</Position></Frame00022Target00003>
+<Frame00023TargetNumber>4</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    887 347 16 15</Position></Frame00023Target00000>
+<Frame00023Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    822 297 16 15</Position></Frame00023Target00001>
+<Frame00023Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    774 300 14 15</Position></Frame00023Target00002>
+<Frame00023Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    726 304 15 15</Position></Frame00023Target00003>
+<Frame00024TargetNumber>4</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    723 303 19 18</Position></Frame00024Target00000>
+<Frame00024Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    773 302 12 14</Position></Frame00024Target00001>
+<Frame00024Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    822 299 12 15</Position></Frame00024Target00002>
+<Frame00024Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    888 350 15 15</Position></Frame00024Target00003>
+<Frame00025TargetNumber>4</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    891 342 17 18</Position></Frame00025Target00000>
+<Frame00025Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    825 292 13 16</Position></Frame00025Target00001>
+<Frame00025Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    775 291 12 17</Position></Frame00025Target00002>
+<Frame00025Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    724 295 16 17</Position></Frame00025Target00003>
+<Frame00026TargetNumber>4</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    724 295 17 13</Position></Frame00026Target00000>
+<Frame00026Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    772 289 19 19</Position></Frame00026Target00001>
+<Frame00026Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    824 288 18 18</Position></Frame00026Target00002>
+<Frame00026Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 342 15 17</Position></Frame00026Target00003>
+<Frame00027TargetNumber>4</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    896 340 17 16</Position></Frame00027Target00000>
+<Frame00027Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    827 285 14 16</Position></Frame00027Target00001>
+<Frame00027Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    775 287 15 20</Position></Frame00027Target00002>
+<Frame00027Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    723 289 17 16</Position></Frame00027Target00003>
+<Frame00028TargetNumber>4</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    724 288 16 13</Position></Frame00028Target00000>
+<Frame00028Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    778 284 13 19</Position></Frame00028Target00001>
+<Frame00028Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    830 284 15 17</Position></Frame00028Target00002>
+<Frame00028Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    899 337 15 19</Position></Frame00028Target00003>
+<Frame00029TargetNumber>4</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    903 340 15 17</Position></Frame00029Target00000>
+<Frame00029Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    834 283 12 20</Position></Frame00029Target00001>
+<Frame00029Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    779 283 12 16</Position></Frame00029Target00002>
+<Frame00029Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    725 286 15 18</Position></Frame00029Target00003>
+<Frame00030TargetNumber>4</Frame00030TargetNumber>
+<Frame00030Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    727 291 14 15</Position></Frame00030Target00000>
+<Frame00030Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    782 289 12 17</Position></Frame00030Target00001>
+<Frame00030Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    837 288 11 15</Position></Frame00030Target00002>
+<Frame00030Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    908 347 15 14</Position></Frame00030Target00003>
+<Frame00031TargetNumber>4</Frame00031TargetNumber>
+<Frame00031Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    912 338 18 18</Position></Frame00031Target00000>
+<Frame00031Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    841 280 12 16</Position></Frame00031Target00001>
+<Frame00031Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    783 282 15 14</Position></Frame00031Target00002>
+<Frame00031Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    729 285 12 17</Position></Frame00031Target00003>
+<Frame00032TargetNumber>4</Frame00032TargetNumber>
+<Frame00032Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    730 281 14 13</Position></Frame00032Target00000>
+<Frame00032Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    786 276 15 17</Position></Frame00032Target00001>
+<Frame00032Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    844 272 16 23</Position></Frame00032Target00002>
+<Frame00032Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    918 334 19 18</Position></Frame00032Target00003>
+<Frame00033TargetNumber>4</Frame00033TargetNumber>
+<Frame00033Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    927 337 19 18</Position></Frame00033Target00000>
+<Frame00033Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    849 276 17 15</Position></Frame00033Target00001>
+<Frame00033Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    792 278 17 16</Position></Frame00033Target00002>
+<Frame00033Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    735 282 16 14</Position></Frame00033Target00003>
+<Frame00034TargetNumber>4</Frame00034TargetNumber>
+<Frame00034Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    753 284 17 16</Position></Frame00034Target00000>
+<Frame00034Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    811 279 17 18</Position></Frame00034Target00001>
+<Frame00034Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    872 278 17 19</Position></Frame00034Target00002>
+<Frame00034Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    949 339 18 18</Position></Frame00034Target00003>
+<Frame00035TargetNumber>4</Frame00035TargetNumber>
+<Frame00035Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    977 338 18 19</Position></Frame00035Target00000>
+<Frame00035Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    920 262 17 17</Position></Frame00035Target00001>
+<Frame00035Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    859 264 14 17</Position></Frame00035Target00002>
+<Frame00035Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    797 269 15 16</Position></Frame00035Target00003>
+<Frame00036TargetNumber>4</Frame00036TargetNumber>
+<Frame00036Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    797 268 17 15</Position></Frame00036Target00000>
+<Frame00036Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    859 264 18 16</Position></Frame00036Target00001>
+<Frame00036Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    920 263 20 18</Position></Frame00036Target00002>
+<Frame00036Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1002 327 17 16</Position></Frame00036Target00003>
+<Frame00037TargetNumber>4</Frame00037TargetNumber>
+<Frame00037Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1024 330 19 18</Position></Frame00037Target00000>
+<Frame00037Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    940 265 18 21</Position></Frame00037Target00001>
+<Frame00037Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    875 263 16 24</Position></Frame00037Target00002>
+<Frame00037Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    813 269 20 17</Position></Frame00037Target00003>
+<Frame00038TargetNumber>4</Frame00038TargetNumber>
+<Frame00038Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    821 265 14 14</Position></Frame00038Target00000>
+<Frame00038Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    886 263 13 14</Position></Frame00038Target00001>
+<Frame00038Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    952 260 12 16</Position></Frame00038Target00002>
+<Frame00038Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1037 326 17 20</Position></Frame00038Target00003>
+<Frame00039TargetNumber>4</Frame00039TargetNumber>
+<Frame00039Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1039 331 20 19</Position></Frame00039Target00000>
+<Frame00039Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    953 258 18 19</Position></Frame00039Target00001>
+<Frame00039Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    885 261 18 16</Position></Frame00039Target00002>
+<Frame00039Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    821 266 13 13</Position></Frame00039Target00003>
+<Frame00040TargetNumber>4</Frame00040TargetNumber>
+<Frame00040Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    814 257 13 14</Position></Frame00040Target00000>
+<Frame00040Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    881 253 14 14</Position></Frame00040Target00001>
+<Frame00040Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    949 251 14 16</Position></Frame00040Target00002>
+<Frame00040Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1035 321 22 20</Position></Frame00040Target00003>
+<Frame00041TargetNumber>4</Frame00041TargetNumber>
+<Frame00041Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1035 316 21 19</Position></Frame00041Target00000>
+<Frame00041Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    947 243 14 15</Position></Frame00041Target00001>
+<Frame00041Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    877 243 13 17</Position></Frame00041Target00002>
+<Frame00041Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    807 245 15 18</Position></Frame00041Target00003>
+<Frame00042TargetNumber>4</Frame00042TargetNumber>
+<Frame00042Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    797 243 17 21</Position></Frame00042Target00000>
+<Frame00042Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    867 240 15 21</Position></Frame00042Target00001>
+<Frame00042Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    943 241 11 16</Position></Frame00042Target00002>
+<Frame00042Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1033 314 22 20</Position></Frame00042Target00003>
+<Frame00043TargetNumber>4</Frame00043TargetNumber>
+<Frame00043Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1026 298 21 20</Position></Frame00043Target00000>
+<Frame00043Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    932 222 15 14</Position></Frame00043Target00001>
+<Frame00043Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    858 222 14 19</Position></Frame00043Target00002>
+<Frame00043Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    786 228 17 13</Position></Frame00043Target00003>
+<Frame00044TargetNumber>4</Frame00044TargetNumber>
+<Frame00044Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    775 217 16 17</Position></Frame00044Target00000>
+<Frame00044Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    851 215 14 17</Position></Frame00044Target00001>
+<Frame00044Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    927 211 15 20</Position></Frame00044Target00002>
+<Frame00044Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1021 291 23 22</Position></Frame00044Target00003>
+<Frame00045TargetNumber>4</Frame00045TargetNumber>
+<Frame00045Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1012 251 24 22</Position></Frame00045Target00000>
+<Frame00045Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    915 171 15 20</Position></Frame00045Target00001>
+<Frame00045Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    835 174 18 16</Position></Frame00045Target00002>
+<Frame00045Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    758 177 18 18</Position></Frame00045Target00003>
+<Frame00046TargetNumber>4</Frame00046TargetNumber>
+<Frame00046Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    757 197 14 19</Position></Frame00046Target00000>
+<Frame00046Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    837 196 13 18</Position></Frame00046Target00001>
+<Frame00046Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    916 195 16 17</Position></Frame00046Target00002>
+<Frame00046Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1016 278 24 26</Position></Frame00046Target00003>
+<Frame00047TargetNumber>4</Frame00047TargetNumber>
+<Frame00047Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1013 284 26 25</Position></Frame00047Target00000>
+<Frame00047Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    910 197 18 20</Position></Frame00047Target00001>
+<Frame00047Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    830 196 17 19</Position></Frame00047Target00002>
+<Frame00047Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    749 197 18 19</Position></Frame00047Target00003>
+<Frame00048TargetNumber>4</Frame00048TargetNumber>
+<Frame00048Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    742 202 17 17</Position></Frame00048Target00000>
+<Frame00048Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    827 200 18 19</Position></Frame00048Target00001>
+<Frame00048Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    910 199 19 23</Position></Frame00048Target00002>
+<Frame00048Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1015 292 27 26</Position></Frame00048Target00003>
+<Frame00049TargetNumber>4</Frame00049TargetNumber>
+<Frame00049Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1025 282 25 29</Position></Frame00049Target00000>
+<Frame00049Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    917 189 16 21</Position></Frame00049Target00001>
+<Frame00049Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    831 189 13 17</Position></Frame00049Target00002>
+<Frame00049Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    745 193 14 16</Position></Frame00049Target00003>
+<Frame00050TargetNumber>4</Frame00050TargetNumber>
+<Frame00050Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    734 224 15 15</Position></Frame00050Target00000>
+<Frame00050Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    823 218 17 20</Position></Frame00050Target00001>
+<Frame00050Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    913 219 15 21</Position></Frame00050Target00002>
+<Frame00050Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1025 313 25 27</Position></Frame00050Target00003>
+<Frame00051TargetNumber>4</Frame00051TargetNumber>
+<Frame00051Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1024 352 28 26</Position></Frame00051Target00000>
+<Frame00051Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    909 253 17 19</Position></Frame00051Target00001>
+<Frame00051Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    817 254 18 21</Position></Frame00051Target00002>
+<Frame00051Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    725 258 17 19</Position></Frame00051Target00003>
+<Frame00052TargetNumber>4</Frame00052TargetNumber>
+<Frame00052Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    712 231 21 23</Position></Frame00052Target00000>
+<Frame00052Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    808 227 17 19</Position></Frame00052Target00001>
+<Frame00052Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    905 228 15 22</Position></Frame00052Target00002>
+<Frame00052Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1023 330 27 27</Position></Frame00052Target00003>
+<Frame00053TargetNumber>4</Frame00053TargetNumber>
+<Frame00053Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1024 366 33 27</Position></Frame00053Target00000>
+<Frame00053Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    903 264 18 19</Position></Frame00053Target00001>
+<Frame00053Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    805 261 16 19</Position></Frame00053Target00002>
+<Frame00053Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    708 265 20 18</Position></Frame00053Target00003>
+<Frame00054TargetNumber>4</Frame00054TargetNumber>
+<Frame00054Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    699 238 24 20</Position></Frame00054Target00000>
+<Frame00054Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    802 234 17 19</Position></Frame00054Target00001>
+<Frame00054Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    905 232 17 21</Position></Frame00054Target00002>
+<Frame00054Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1031 341 28 26</Position></Frame00054Target00003>
+<Frame00055TargetNumber>4</Frame00055TargetNumber>
+<Frame00055Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1046 327 30 32</Position></Frame00055Target00000>
+<Frame00055Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    912 216 19 22</Position></Frame00055Target00001>
+<Frame00055Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    807 217 21 19</Position></Frame00055Target00002>
+<Frame00055Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    702 219 20 23</Position></Frame00055Target00003>
+<Frame00056TargetNumber>4</Frame00056TargetNumber>
+<Frame00056Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    712 246 18 18</Position></Frame00056Target00000>
+<Frame00056Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    819 241 20 22</Position></Frame00056Target00001>
+<Frame00056Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    929 240 19 20</Position></Frame00056Target00002>
+<Frame00056Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1066 353 29 32</Position></Frame00056Target00003>
+<Frame00057TargetNumber>4</Frame00057TargetNumber>
+<Frame00057Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1090 350 34 32</Position></Frame00057Target00000>
+<Frame00057Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    948 230 19 23</Position></Frame00057Target00001>
+<Frame00057Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    836 231 15 23</Position></Frame00057Target00002>
+<Frame00057Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    722 233 19 25</Position></Frame00057Target00003>
+<Frame00058TargetNumber>4</Frame00058TargetNumber>
+<Frame00058Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    739 217 19 22</Position></Frame00058Target00000>
+<Frame00058Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    854 212 22 25</Position></Frame00058Target00001>
+<Frame00058Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    973 215 25 20</Position></Frame00058Target00002>
+<Frame00058Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1119 337 40 34</Position></Frame00058Target00003>
+<Frame00059TargetNumber>4</Frame00059TargetNumber>
+<Frame00059Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1162 337 36 38</Position></Frame00059Target00000>
+<Frame00059Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    1007 213 21 20</Position></Frame00059Target00001>
+<Frame00059Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    881 209 21 25</Position></Frame00059Target00002>
+<Frame00059Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    761 215 20 21</Position></Frame00059Target00003>
+<Frame00060TargetNumber>4</Frame00060TargetNumber>
+<Frame00060Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    778 191 24 20</Position></Frame00060Target00000>
+<Frame00060Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    907 186 19 22</Position></Frame00060Target00001>
+<Frame00060Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    1036 186 22 21</Position></Frame00060Target00002>
+<Frame00060Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1194 321 40 38</Position></Frame00060Target00003>
+<Frame00061TargetNumber>4</Frame00061TargetNumber>
+<Frame00061Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1234 312 38 36</Position></Frame00061Target00000>
+<Frame00061Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    1066 167 21 21</Position></Frame00061Target00001>
+<Frame00061Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    929 166 21 24</Position></Frame00061Target00002>
+<Frame00061Target00003>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    795 169 22 26</Position></Frame00061Target00003>
+</opencv_storage>

@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>18</FrameNumber>
+<Frame00000TargetNumber>3</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    155 259 32 32</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    267 270 25 28</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    309 272 21 27</Position></Frame00000Target00002>
+<Frame00001TargetNumber>3</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    176 261 37 35</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    296 274 24 29</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    335 277 25 29</Position></Frame00001Target00002>
+<Frame00002TargetNumber>3</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    352 255 30 29</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    311 252 26 28</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    187 237 35 35</Position></Frame00002Target00002>
+<Frame00003TargetNumber>3</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    193 225 39 40</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    324 241 29 31</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    368 243 26 32</Position></Frame00003Target00002>
+<Frame00004TargetNumber>3</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    377 200 31 33</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    331 197 28 33</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    192 183 39 37</Position></Frame00004Target00002>
+<Frame00005TargetNumber>3</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    198 183 42 39</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    340 196 35 36</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    393 202 30 34</Position></Frame00005Target00002>
+<Frame00006TargetNumber>3</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    405 188 34 36</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    351 182 36 38</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    198 167 43 45</Position></Frame00006Target00002>
+<Frame00007TargetNumber>3</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    196 161 47 45</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    361 182 35 36</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    418 187 34 35</Position></Frame00007Target00002>
+<Frame00008TargetNumber>3</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    431 166 34 39</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    366 158 41 39</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    193 136 49 49</Position></Frame00008Target00002>
+<Frame00009TargetNumber>3</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    191 146 55 50</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    379 167 40 45</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    446 175 35 39</Position></Frame00009Target00002>
+<Frame00010TargetNumber>3</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    458 166 38 45</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    386 157 45 49</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    183 131 63 58</Position></Frame00010Target00002>
+<Frame00011TargetNumber>3</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    178 99 66 58</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    397 128 48 48</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    472 134 43 50</Position></Frame00011Target00002>
+<Frame00012TargetNumber>3</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    488 114 43 49</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    406 105 49 49</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    174 75 68 57</Position></Frame00012Target00002>
+<Frame00013TargetNumber>3</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    165 46 74 64</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    416 83 49 52</Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    497 90 47 58</Position></Frame00013Target00002>
+<Frame00014TargetNumber>3</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    510 90 47 52</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    420 78 55 55</Position></Frame00014Target00001>
+<Frame00014Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    152 34 78 73</Position></Frame00014Target00002>
+<Frame00015TargetNumber>3</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    149 28 80 75</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    432 72 57 60</Position></Frame00015Target00001>
+<Frame00015Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    527 92 50 54</Position></Frame00015Target00002>
+<Frame00016TargetNumber>3</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    538 77 50 63</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    436 65 59 64</Position></Frame00016Target00001>
+<Frame00016Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    126 9 94 82</Position></Frame00016Target00002>
+<Frame00017TargetNumber>3</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    126 2 92 86</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    436 59 65 62</Position></Frame00017Target00001>
+<Frame00017Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    538 73 53 62</Position></Frame00017Target00002>
+</opencv_storage>

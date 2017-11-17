@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>15</FrameNumber>
+<Frame00000TargetNumber>3</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    476 256 29 23</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    642 243 28 29</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    750 418 30 34</Position></Frame00000Target00002>
+<Frame00001TargetNumber>3</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    742 422 34 33</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    627 231 36 35</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    450 245 31 28</Position></Frame00001Target00002>
+<Frame00002TargetNumber>3</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    422 219 34 27</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    616 208 33 26</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    735 409 38 34</Position></Frame00002Target00002>
+<Frame00003TargetNumber>3</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    734 417 37 37</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    599 198 41 34</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    390 212 39 30</Position></Frame00003Target00002>
+<Frame00004TargetNumber>3</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    363 186 35 29</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    592 169 46 35</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    735 410 38 40</Position></Frame00004Target00002>
+<Frame00005TargetNumber>3</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    741 406 41 40</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    593 140 40 31</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    338 159 38 25</Position></Frame00005Target00002>
+<Frame00006TargetNumber>3</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    305 117 39 30</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    596 98 40 34</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    753 401 42 43</Position></Frame00006Target00002>
+<Frame00007TargetNumber>3</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    263 51 45 42</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    592 36 52 35</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    766 382 47 48</Position></Frame00007Target00002>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    785 382 51 51</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    207 2 43 24</Position></Frame00008Target00001>
+<Frame00009TargetNumber>1</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    807 360 57 58</Position></Frame00009Target00000>
+<Frame00010TargetNumber>1</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    839 355 60 63</Position></Frame00010Target00000>
+<Frame00011TargetNumber>1</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    872 352 77 70</Position></Frame00011Target00000>
+<Frame00012TargetNumber>1</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    921 336 81 87</Position></Frame00012Target00000>
+<Frame00013TargetNumber>1</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    984 306 101 105</Position></Frame00013Target00000>
+<Frame00014TargetNumber>1</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1082 270 136 132</Position></Frame00014Target00000>
+</opencv_storage>

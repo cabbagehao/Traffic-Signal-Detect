@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>12</FrameNumber>
+<Frame00000TargetNumber>5</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    702 41 41 31</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    927 25 42 41</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    1119 20 41 42</Position></Frame00000Target00002>
+<Frame00000Target00003>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1114 342 30 27</Position></Frame00000Target00003>
+<Frame00000Target00004>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1113 372 31 31</Position></Frame00000Target00004>
+<Frame00001TargetNumber>5</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1116 360 35 29</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1119 329 35 27</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    1141 1 34 24</Position></Frame00001Target00002>
+<Frame00001Target00003>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    938 3 31 31</Position></Frame00001Target00003>
+<Frame00001Target00004>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    700 11 34 37</Position></Frame00001Target00004>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1131 317 33 28</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1129 350 35 28</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1138 343 36 32</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1141 309 36 32</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1144 304 40 32</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1146 340 35 31</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1155 341 40 34</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1156 306 42 36</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1167 304 39 33</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1168 342 35 31</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1177 342 35 33</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1179 306 37 34</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1190 301 40 35</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1188 338 41 33</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1200 332 40 38</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1200 294 41 37</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1210 290 46 37</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1208 330 43 37</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    1218 334 48 38</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"警1-T型交叉右"</Type>
+  <Position>
+    1222 289 49 41</Position></Frame00011Target00001>
+</opencv_storage>

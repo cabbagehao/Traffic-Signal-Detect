@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>10</FrameNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    993 118 34 33</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    990 264 28 22</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    1008 260 27 22</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1006 110 39 36</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1021 101 40 38</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    1026 260 28 24</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    1042 256 28 24</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1041 87 40 38</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1057 66 45 46</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    1062 250 28 25</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    1080 249 33 26</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1079 52 52 44</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1095 43 45 49</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    1096 243 32 30</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    1109 240 34 32</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1105 34 53 50</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1121 22 53 51</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    1123 235 39 35</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"警17-易滑"</Type>
+  <Position>
+    1135 237 43 31</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1134 10 59 52</Position></Frame00009Target00001>
+</opencv_storage>

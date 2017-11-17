@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>12</FrameNumber>
+<Frame00000TargetNumber>6</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    631 164 20 20</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    725 192 20 16</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    906 253 27 28</Position></Frame00000Target00002>
+<Frame00000Target00003>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    908 287 28 27</Position></Frame00000Target00003>
+<Frame00000Target00004>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    909 319 12 14</Position></Frame00000Target00004>
+<Frame00000Target00005>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    924 316 15 15</Position></Frame00000Target00005>
+<Frame00001TargetNumber>6</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    935 319 16 14</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    918 319 15 14</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    919 286 29 31</Position></Frame00001Target00002>
+<Frame00001Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    915 252 29 30</Position></Frame00001Target00003>
+<Frame00001Target00004>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    632 161 22 21</Position></Frame00001Target00004>
+<Frame00001Target00005>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    728 187 23 21</Position></Frame00001Target00005>
+<Frame00002TargetNumber>6</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    733 172 19 20</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    634 144 19 18</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    925 238 32 33</Position></Frame00002Target00002>
+<Frame00002Target00003>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    926 274 34 33</Position></Frame00002Target00003>
+<Frame00002Target00004>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    927 307 17 21</Position></Frame00002Target00004>
+<Frame00002Target00005>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    947 307 15 17</Position></Frame00002Target00005>
+<Frame00003TargetNumber>6</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    958 297 18 20</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    937 299 20 19</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    937 226 34 35</Position></Frame00003Target00002>
+<Frame00003Target00003>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    939 263 34 34</Position></Frame00003Target00003>
+<Frame00003Target00004>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    633 128 23 22</Position></Frame00003Target00004>
+<Frame00003Target00005>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    737 157 21 21</Position></Frame00003Target00005>
+<Frame00004TargetNumber>6</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    739 150 20 21</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    632 120 22 22</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    949 262 37 32</Position></Frame00004Target00002>
+<Frame00004Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    947 219 36 37</Position></Frame00004Target00003>
+<Frame00004Target00004>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    950 297 17 18</Position></Frame00004Target00004>
+<Frame00004Target00005>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    970 296 18 18</Position></Frame00004Target00005>
+<Frame00005TargetNumber>6</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    980 281 17 21</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    959 282 18 22</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    956 208 35 33</Position></Frame00005Target00002>
+<Frame00005Target00003>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    958 246 36 34</Position></Frame00005Target00003>
+<Frame00005Target00004>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    626 99 23 22</Position></Frame00005Target00004>
+<Frame00005Target00005>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    736 130 25 25</Position></Frame00005Target00005>
+<Frame00006TargetNumber>6</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    738 110 23 27</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    621 79 22 22</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    964 189 40 40</Position></Frame00006Target00002>
+<Frame00006Target00003>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    969 236 36 33</Position></Frame00006Target00003>
+<Frame00006Target00004>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    970 274 17 19</Position></Frame00006Target00004>
+<Frame00006Target00005>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    990 271 19 22</Position></Frame00006Target00005>
+<Frame00007TargetNumber>6</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    1002 269 18 20</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    978 273 20 18</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    980 228 36 39</Position></Frame00007Target00002>
+<Frame00007Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    977 186 37 36</Position></Frame00007Target00003>
+<Frame00007Target00004>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    737 105 21 20</Position></Frame00007Target00004>
+<Frame00007Target00005>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    614 66 24 23</Position></Frame00007Target00005>
+<Frame00008TargetNumber>5</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    604 49 25 22</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    986 171 42 43</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    990 218 39 40</Position></Frame00008Target00002>
+<Frame00008Target00003>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    991 264 19 20</Position></Frame00008Target00003>
+<Frame00008Target00004>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    1014 262 19 18</Position></Frame00008Target00004>
+<Frame00009TargetNumber>5</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    1027 244 21 22</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    1002 246 22 22</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1002 198 41 44</Position></Frame00009Target00002>
+<Frame00009Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1000 151 41 42</Position></Frame00009Target00003>
+<Frame00009Target00004>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    593 21 27 25</Position></Frame00009Target00004>
+<Frame00010TargetNumber>5</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"左转箭头红灯"</Type>
+  <Position>
+    587 2 19 22</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1014 137 45 45</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1015 189 46 46</Position></Frame00010Target00002>
+<Frame00010Target00003>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    1017 241 22 21</Position></Frame00010Target00003>
+<Frame00010Target00004>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    1043 238 23 23</Position></Frame00010Target00004>
+<Frame00011TargetNumber>5</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    1062 225 22 27</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    1031 228 25 27</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    1031 172 49 51</Position></Frame00011Target00002>
+<Frame00011Target00003>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1027 118 48 49</Position></Frame00011Target00003>
+<Frame00011Target00004>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    726 17 25 26</Position></Frame00011Target00004>
+</opencv_storage>

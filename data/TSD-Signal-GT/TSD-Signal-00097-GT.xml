@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>21</FrameNumber>
+<Frame00000TargetNumber>3</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    422 411 11 14</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    788 409 13 13</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    907 397 22 20</Position></Frame00000Target00002>
+<Frame00001TargetNumber>3</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    912 395 23 23</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    789 409 13 15</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    421 414 11 12</Position></Frame00001Target00002>
+<Frame00002TargetNumber>3</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    419 411 12 12</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    790 409 15 13</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    917 396 23 21</Position></Frame00002Target00002>
+<Frame00003TargetNumber>3</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    921 396 26 22</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    793 409 14 14</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    417 413 12 14</Position></Frame00003Target00002>
+<Frame00004TargetNumber>3</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    416 414 14 13</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    794 409 14 16</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    925 396 26 22</Position></Frame00004Target00002>
+<Frame00005TargetNumber>3</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    930 395 25 22</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    794 408 15 16</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    413 414 16 12</Position></Frame00005Target00002>
+<Frame00006TargetNumber>3</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    411 413 14 11</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    794 410 17 14</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    933 395 27 22</Position></Frame00006Target00002>
+<Frame00007TargetNumber>3</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    939 393 29 24</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    800 409 13 13</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    409 413 16 11</Position></Frame00007Target00002>
+<Frame00008TargetNumber>3</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    409 410 14 16</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    800 410 17 14</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    944 391 28 24</Position></Frame00008Target00002>
+<Frame00009TargetNumber>3</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    950 390 29 23</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    801 407 15 13</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    406 409 14 16</Position></Frame00009Target00002>
+<Frame00010TargetNumber>3</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    404 409 15 13</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    802 406 16 16</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    952 388 31 27</Position></Frame00010Target00002>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    961 388 26 24</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    804 409 14 10</Position></Frame00011Target00001>
+<Frame00012TargetNumber>3</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    807 403 13 12</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    401 404 14 11</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    964 387 31 28</Position></Frame00012Target00002>
+<Frame00013TargetNumber>3</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    969 387 34 27</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    809 399 14 14</Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    399 403 16 13</Position></Frame00013Target00002>
+<Frame00014TargetNumber>3</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    396 400 13 16</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    811 396 10 12</Position></Frame00014Target00001>
+<Frame00014Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    978 384 30 26</Position></Frame00014Target00002>
+<Frame00015TargetNumber>3</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    981 383 36 28</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    811 400 14 10</Position></Frame00015Target00001>
+<Frame00015Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    396 400 13 16</Position></Frame00015Target00002>
+<Frame00016TargetNumber>3</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    391 400 16 12</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    811 396 16 13</Position></Frame00016Target00001>
+<Frame00016Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    990 383 32 25</Position></Frame00016Target00002>
+<Frame00017TargetNumber>3</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    996 381 33 27</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    814 396 12 12</Position></Frame00017Target00001>
+<Frame00017Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    389 399 14 13</Position></Frame00017Target00002>
+<Frame00018TargetNumber>3</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    388 400 13 11</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    817 396 12 11</Position></Frame00018Target00001>
+<Frame00018Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    1005 381 31 28</Position></Frame00018Target00002>
+<Frame00019TargetNumber>3</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    1009 378 35 29</Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    819 396 11 12</Position></Frame00019Target00001>
+<Frame00019Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    385 400 16 12</Position></Frame00019Target00002>
+<Frame00020TargetNumber>3</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    383 399 13 13</Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    819 396 12 13</Position></Frame00020Target00001>
+<Frame00020Target00002>
+  <Type>"示35-停车位"</Type>
+  <Position>
+    1018 379 32 29</Position></Frame00020Target00002>
+</opencv_storage>

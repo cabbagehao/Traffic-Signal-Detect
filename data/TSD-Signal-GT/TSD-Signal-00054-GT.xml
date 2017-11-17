@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>14</FrameNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    820 242 42 36</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    824 278 38 34</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    826 274 43 35</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    825 236 44 36</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    832 234 46 38</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    834 274 41 37</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    840 270 47 36</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    837 226 49 43</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    846 224 47 42</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    847 268 50 36</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    856 264 52 39</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    859 218 48 43</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    862 218 55 47</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    863 266 57 40</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    878 260 54 44</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    873 213 58 44</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    884 197 61 50</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    889 248 54 48</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    902 242 57 48</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    898 187 63 52</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    908 179 67 60</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    913 239 61 56</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    926 238 72 55</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    924 176 71 57</Position></Frame00011Target00001>
+<Frame00012TargetNumber>2</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    944 161 75 64</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    947 226 69 60</Position></Frame00012Target00001>
+<Frame00013TargetNumber>2</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"警23-驼峰桥"</Type>
+  <Position>
+    964 218 76 64</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"警2(b)-向右急弯路"</Type>
+  <Position>
+    961 148 76 65</Position></Frame00013Target00001>
+</opencv_storage>

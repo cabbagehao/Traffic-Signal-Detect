@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>16</FrameNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    439 183 63 51</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    442 236 62 63</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    428 233 66 61</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    426 176 65 57</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    412 165 70 62</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    416 227 69 65</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    403 223 71 68</Position></Frame00003Target00000>
+<Frame00003Target00001>
+   <Type>"警10-注意行人"</Type>
+  <Position>
+    400 162 72 59</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    390 157 72 60</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    390 218 72 69</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    377 214 73 73</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    376 149 75 64</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    359 137 77 68</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    362 208 76 70</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    347 203 79 72</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    345 130 79 68</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    329 122 78 73</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    332 196 78 80</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    311 189 89 84</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    306 114 96 74</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    288 108 94 79</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    294 188 90 81</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    276 180 93 85</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    268 93 98 80</Position></Frame00011Target00001>
+<Frame00012TargetNumber>2</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    248 86 99 85</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    254 171 95 94</Position></Frame00012Target00001>
+<Frame00013TargetNumber>2</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    231 167 102 96</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    225 77 107 87</Position></Frame00013Target00001>
+<Frame00014TargetNumber>2</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    202 62 107 94</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    206 158 109 102</Position></Frame00014Target00001>
+<Frame00015TargetNumber>2</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"示36-允许掉头"</Type>
+  <Position>
+    181 151 114 101</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    177 44 114 103</Position></Frame00015Target00001>
+</opencv_storage>

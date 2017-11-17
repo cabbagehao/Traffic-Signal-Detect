@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>10</FrameNumber>
+<Frame00000TargetNumber>1</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1117 304 76 68</Position></Frame00000Target00000>
+<Frame00001TargetNumber>1</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1125 304 76 66</Position></Frame00001Target00000>
+<Frame00002TargetNumber>1</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1130 303 80 67</Position></Frame00002Target00000>
+<Frame00003TargetNumber>1</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1137 300 81 73</Position></Frame00003Target00000>
+<Frame00004TargetNumber>1</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1146 300 81 75</Position></Frame00004Target00000>
+<Frame00005TargetNumber>1</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1151 301 83 74</Position></Frame00005Target00000>
+<Frame00006TargetNumber>1</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1158 302 87 75</Position></Frame00006Target00000>
+<Frame00007TargetNumber>1</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1167 296 88 79</Position></Frame00007Target00000>
+<Frame00008TargetNumber>1</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1175 291 91 79</Position></Frame00008Target00000>
+<Frame00009TargetNumber>1</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"路41-入口预告"</Type>
+  <Position>
+    1184 282 92 84</Position></Frame00009Target00000>
+</opencv_storage>

@@ -1,0 +1,482 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>30</FrameNumber>
+<Frame00000TargetNumber>4</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    725 297 42 29</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    544 251 27 26</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    633 253 27 23</Position></Frame00000Target00002>
+<Frame00000Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    787 255 27 27</Position></Frame00000Target00003>
+<Frame00001TargetNumber>4</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    792 246 32 26</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    629 249 25 24</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    537 252 30 22</Position></Frame00001Target00002>
+<Frame00001Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    726 292 44 31</Position></Frame00001Target00003>
+<Frame00002TargetNumber>4</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    728 288 44 32</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    534 243 28 22</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    632 245 24 20</Position></Frame00002Target00002>
+<Frame00002Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    795 246 28 27</Position></Frame00002Target00003>
+<Frame00003TargetNumber>4</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    795 236 28 28</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    630 241 20 17</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    534 241 31 20</Position></Frame00003Target00002>
+<Frame00003Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    729 282 48 32</Position></Frame00003Target00003>
+<Frame00004TargetNumber>4</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    730 280 48 34</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    528 238 29 21</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    627 240 22 20</Position></Frame00004Target00002>
+<Frame00004Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    803 240 28 28</Position></Frame00004Target00003>
+<Frame00005TargetNumber>4</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    809 232 28 28</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    628 233 25 22</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    533 238 25 23</Position></Frame00005Target00002>
+<Frame00005Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    736 282 48 31</Position></Frame00005Target00003>
+<Frame00006TargetNumber>4</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    736 279 50 33</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    528 235 22 18</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    629 229 24 22</Position></Frame00006Target00002>
+<Frame00006Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    809 230 30 28</Position></Frame00006Target00003>
+<Frame00007TargetNumber>4</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    812 228 30 28</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    628 224 23 30</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    520 232 30 29</Position></Frame00007Target00002>
+<Frame00007Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    738 278 49 34</Position></Frame00007Target00003>
+<Frame00008TargetNumber>4</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    732 270 53 35</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    511 223 28 29</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    620 223 27 22</Position></Frame00008Target00002>
+<Frame00008Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    811 219 28 27</Position></Frame00008Target00003>
+<Frame00009TargetNumber>4</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    794 213 30 30</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    593 217 27 19</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    489 216 26 26</Position></Frame00009Target00002>
+<Frame00009Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    712 264 57 37</Position></Frame00009Target00003>
+<Frame00010TargetNumber>4</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    686 259 53 38</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    451 211 29 26</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    568 205 14 23</Position></Frame00010Target00002>
+<Frame00010Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    765 206 33 31</Position></Frame00010Target00003>
+<Frame00011TargetNumber>4</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    729 204 30 28</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    410 203 22 25</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    524 201 25 27</Position></Frame00011Target00002>
+<Frame00011Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    644 255 60 39</Position></Frame00011Target00003>
+<Frame00012TargetNumber>3</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    611 256 57 44</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    369 209 23 23</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    699 207 27 28</Position></Frame00012Target00002>
+<Frame00013TargetNumber>3</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    673 216 32 31</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    337 211 26 26</Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    586 264 63 42</Position></Frame00013Target00002>
+<Frame00014TargetNumber>3</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    579 261 63 41</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    328 209 18 26</Position></Frame00014Target00001>
+<Frame00014Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    667 208 29 25</Position></Frame00014Target00002>
+<Frame00015TargetNumber>3</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    676 205 29 25</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    320 201 35 33</Position></Frame00015Target00001>
+<Frame00015Target00002>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    586 253 63 48</Position></Frame00015Target00002>
+<Frame00016TargetNumber>4</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    602 247 64 47</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    334 197 28 28</Position></Frame00016Target00001>
+<Frame00016Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    466 198 28 28</Position></Frame00016Target00002>
+<Frame00016Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    699 194 36 33</Position></Frame00016Target00003>
+<Frame00017TargetNumber>4</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    731 188 31 31</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    484 196 29 20</Position></Frame00017Target00001>
+<Frame00017Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    349 192 34 26</Position></Frame00017Target00002>
+<Frame00017Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    626 244 69 46</Position></Frame00017Target00003>
+<Frame00018TargetNumber>4</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    672 238 70 49</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    383 188 28 23</Position></Frame00018Target00001>
+<Frame00018Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    518 187 29 23</Position></Frame00018Target00002>
+<Frame00018Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    775 180 34 30</Position></Frame00018Target00003>
+<Frame00019TargetNumber>4</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    828 187 32 32</Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    567 192 29 22</Position></Frame00019Target00001>
+<Frame00019Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    423 191 32 32</Position></Frame00019Target00002>
+<Frame00019Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    720 241 75 54</Position></Frame00019Target00003>
+<Frame00020TargetNumber>4</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    778 239 76 56</Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    469 190 30 25</Position></Frame00020Target00001>
+<Frame00020Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    613 190 34 26</Position></Frame00020Target00002>
+<Frame00020Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    891 185 30 30</Position></Frame00020Target00003>
+<Frame00021TargetNumber>4</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    956 168 36 36</Position></Frame00021Target00000>
+<Frame00021Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    667 176 37 37</Position></Frame00021Target00001>
+<Frame00021Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    515 181 25 35</Position></Frame00021Target00002>
+<Frame00021Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    844 230 82 59</Position></Frame00021Target00003>
+<Frame00022TargetNumber>4</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    907 211 88 64</Position></Frame00022Target00000>
+<Frame00022Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    565 165 23 32</Position></Frame00022Target00001>
+<Frame00022Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    726 159 32 32</Position></Frame00022Target00002>
+<Frame00022Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    1028 153 34 33</Position></Frame00022Target00003>
+<Frame00023TargetNumber>4</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    1088 138 38 42</Position></Frame00023Target00000>
+<Frame00023Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    765 155 32 32</Position></Frame00023Target00001>
+<Frame00023Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    601 163 29 32</Position></Frame00023Target00002>
+<Frame00023Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    965 204 95 71</Position></Frame00023Target00003>
+<Frame00024TargetNumber>4</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    1019 195 100 72</Position></Frame00024Target00000>
+<Frame00024Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    631 154 30 30</Position></Frame00024Target00001>
+<Frame00024Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    807 143 36 37</Position></Frame00024Target00002>
+<Frame00024Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    1141 134 38 38</Position></Frame00024Target00003>
+<Frame00025TargetNumber>4</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    1175 122 48 41</Position></Frame00025Target00000>
+<Frame00025Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    814 127 44 44</Position></Frame00025Target00001>
+<Frame00025Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    632 135 40 40</Position></Frame00025Target00002>
+<Frame00025Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    1050 183 111 78</Position></Frame00025Target00003>
+<Frame00026TargetNumber>4</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    1044 177 120 81</Position></Frame00026Target00000>
+<Frame00026Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    603 126 33 33</Position></Frame00026Target00001>
+<Frame00026Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    795 122 42 42</Position></Frame00026Target00002>
+<Frame00026Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    1171 112 45 45</Position></Frame00026Target00003>
+<Frame00027TargetNumber>4</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    1142 96 60 40</Position></Frame00027Target00000>
+<Frame00027Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    754 104 40 40</Position></Frame00027Target00001>
+<Frame00027Target00002>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    542 105 45 45</Position></Frame00027Target00002>
+<Frame00027Target00003>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    1024 153 129 91</Position></Frame00027Target00003>
+<Frame00028TargetNumber>2</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    1006 126 135 98</Position></Frame00028Target00000>
+<Frame00028Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    484 88 47 44</Position></Frame00028Target00001>
+<Frame00029TargetNumber>2</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    427 56 40 38</Position></Frame00029Target00000>
+<Frame00029Target00001>
+  <Type>"示28-公交线路专用车道"</Type>
+  <Position>
+    993 88 156 107</Position></Frame00029Target00001>
+</opencv_storage>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>12</FrameNumber>
+<Frame00000TargetNumber>1</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    211 227 39 38</Position></Frame00000Target00000>
+<Frame00001TargetNumber>1</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    197 221 38 41</Position></Frame00001Target00000>
+<Frame00002TargetNumber>1</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    179 221 40 39</Position></Frame00002Target00000>
+<Frame00003TargetNumber>1</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    164 216 43 40</Position></Frame00003Target00000>
+<Frame00004TargetNumber>1</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    149 214 43 43</Position></Frame00004Target00000>
+<Frame00005TargetNumber>1</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    134 214 45 39</Position></Frame00005Target00000>
+<Frame00006TargetNumber>1</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    117 212 47 44</Position></Frame00006Target00000>
+<Frame00007TargetNumber>1</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    105 211 43 45</Position></Frame00007Target00000>
+<Frame00008TargetNumber>1</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    88 207 46 44</Position></Frame00008Target00000>
+<Frame00009TargetNumber>1</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    74 206 49 45</Position></Frame00009Target00000>
+<Frame00010TargetNumber>1</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    60 203 48 48</Position></Frame00010Target00000>
+<Frame00011TargetNumber>1</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"禁22-禁止向左转弯"</Type>
+  <Position>
+    45 198 52 51</Position></Frame00011Target00000>
+</opencv_storage>

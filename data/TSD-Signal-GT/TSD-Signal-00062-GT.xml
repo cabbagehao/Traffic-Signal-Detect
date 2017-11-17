@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>10</FrameNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    630 52 171 64</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    809 42 169 89</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    809 43 176 84</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    626 40 171 78</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    622 45 183 69</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    807 37 179 90</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    805 34 183 94</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    621 42 180 71</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    616 38 185 72</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    807 29 185 97</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    804 27 195 95</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    621 38 183 65</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    614 33 187 69</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    807 22 185 98</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    807 19 186 92</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    616 33 179 70</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    614 24 186 74</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    808 16 187 92</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    803 13 197 94</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"示27-分向行驶车道"</Type>
+  <Position>
+    612 22 189 75</Position></Frame00009Target00001>
+</opencv_storage>

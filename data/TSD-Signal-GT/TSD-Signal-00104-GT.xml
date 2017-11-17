@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>10</FrameNumber>
+<Frame00000TargetNumber>1</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    763 441 28 33</Position></Frame00000Target00000>
+<Frame00001TargetNumber>1</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    800 441 28 36</Position></Frame00001Target00000>
+<Frame00002TargetNumber>1</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    838 439 29 36</Position></Frame00002Target00000>
+<Frame00003TargetNumber>1</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    878 436 29 38</Position></Frame00003Target00000>
+<Frame00004TargetNumber>1</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    921 434 32 39</Position></Frame00004Target00000>
+<Frame00005TargetNumber>1</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    966 434 31 37</Position></Frame00005Target00000>
+<Frame00006TargetNumber>1</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    1015 427 33 42</Position></Frame00006Target00000>
+<Frame00007TargetNumber>1</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    1065 427 33 43</Position></Frame00007Target00000>
+<Frame00008TargetNumber>1</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    1116 426 36 47</Position></Frame00008Target00000>
+<Frame00009TargetNumber>1</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"禁5-禁止驶入"</Type>
+  <Position>
+    1175 432 37 46</Position></Frame00009Target00000>
+</opencv_storage>

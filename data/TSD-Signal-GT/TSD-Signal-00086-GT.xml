@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>14</FrameNumber>
+<Frame00000TargetNumber>5</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    278 203 24 29</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    281 244 23 29</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    282 277 25 32</Position></Frame00000Target00002>
+<Frame00000Target00003>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    281 319 16 23</Position></Frame00000Target00003>
+<Frame00000Target00004>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    298 320 14 20</Position></Frame00000Target00004>
+<Frame00001TargetNumber>5</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    308 194 24 31</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    309 235 27 31</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    312 271 26 31</Position></Frame00001Target00002>
+<Frame00001Target00003>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    310 313 17 21</Position></Frame00001Target00003>
+<Frame00001Target00004>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    328 313 16 22</Position></Frame00001Target00004>
+<Frame00002TargetNumber>5</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    340 184 25 33</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    342 228 26 31</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    344 264 25 31</Position></Frame00002Target00002>
+<Frame00002Target00003>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    342 307 17 19</Position></Frame00002Target00003>
+<Frame00002Target00004>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    357 306 17 21</Position></Frame00002Target00004>
+<Frame00003TargetNumber>5</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    371 176 24 31</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    372 220 28 31</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    375 256 26 33</Position></Frame00003Target00002>
+<Frame00003Target00003>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    374 299 17 22</Position></Frame00003Target00003>
+<Frame00003Target00004>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    392 299 15 22</Position></Frame00003Target00004>
+<Frame00004TargetNumber>5</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    423 293 18 21</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    408 293 15 20</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    407 249 27 32</Position></Frame00004Target00002>
+<Frame00004Target00003>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    405 212 25 34</Position></Frame00004Target00003>
+<Frame00004Target00004>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    403 169 26 33</Position></Frame00004Target00004>
+<Frame00005TargetNumber>5</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    436 162 27 32</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    441 207 26 30</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    444 243 25 35</Position></Frame00005Target00002>
+<Frame00005Target00003>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    441 287 17 24</Position></Frame00005Target00003>
+<Frame00005Target00004>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    459 287 17 23</Position></Frame00005Target00004>
+<Frame00006TargetNumber>5</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    474 156 27 33</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    477 203 28 31</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    479 240 27 33</Position></Frame00006Target00002>
+<Frame00006Target00003>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    478 285 18 22</Position></Frame00006Target00003>
+<Frame00006Target00004>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    497 286 16 20</Position></Frame00006Target00004>
+<Frame00007TargetNumber>5</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    538 281 16 22</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    520 281 16 22</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    521 235 24 35</Position></Frame00007Target00002>
+<Frame00007Target00003>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    518 196 26 35</Position></Frame00007Target00003>
+<Frame00007Target00004>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    515 152 27 33</Position></Frame00007Target00004>
+<Frame00008TargetNumber>5</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    553 146 28 33</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    556 193 29 35</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    559 233 28 33</Position></Frame00008Target00002>
+<Frame00008Target00003>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    557 280 19 21</Position></Frame00008Target00003>
+<Frame00008Target00004>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    576 280 17 21</Position></Frame00008Target00004>
+<Frame00009TargetNumber>5</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    619 275 16 25</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    600 277 17 22</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    600 229 29 36</Position></Frame00009Target00002>
+<Frame00009Target00003>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    597 188 28 34</Position></Frame00009Target00003>
+<Frame00009Target00004>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    595 143 28 34</Position></Frame00009Target00004>
+<Frame00010TargetNumber>5</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    637 136 29 33</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    642 184 27 34</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    643 226 29 35</Position></Frame00010Target00002>
+<Frame00010Target00003>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    641 273 18 23</Position></Frame00010Target00003>
+<Frame00010Target00004>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    659 272 21 24</Position></Frame00010Target00004>
+<Frame00011TargetNumber>5</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    706 268 17 22</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    686 266 19 26</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    688 217 27 36</Position></Frame00011Target00002>
+<Frame00011Target00003>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    685 178 28 36</Position></Frame00011Target00003>
+<Frame00011Target00004>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    681 127 28 37</Position></Frame00011Target00004>
+<Frame00012TargetNumber>5</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    727 120 28 35</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    730 167 28 40</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    733 213 29 37</Position></Frame00012Target00002>
+<Frame00012Target00003>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    730 262 20 25</Position></Frame00012Target00003>
+<Frame00012Target00004>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    751 262 17 24</Position></Frame00012Target00004>
+<Frame00013TargetNumber>5</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"示31-非机动车行驶"</Type>
+  <Position>
+    840 248 19 26</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"示29-机动车行驶"</Type>
+  <Position>
+    819 248 21 26</Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    821 197 32 37</Position></Frame00013Target00002>
+<Frame00013Target00003>
+  <Type>"禁33-禁止鸣笛"</Type>
+  <Position>
+    820 153 30 36</Position></Frame00013Target00003>
+<Frame00013Target00004>
+  <Type>"禁31-禁止停车"</Type>
+  <Position>
+    816 98 31 39</Position></Frame00013Target00004>
+</opencv_storage>
