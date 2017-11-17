@@ -38,8 +38,8 @@
         1. 如果使用新的模型，只需要更改fine_tune_checkpoint
         2. 模型配置文件在./config/目录下
     
-    1. 分类个数：  
-        num_classes: 77  
+    1. 分类个数：
+        num_classes: 77
         
     2. 模型路径：   
         fine_tune_checkpoint: "./object_detection/checkpoints/ssd_mobilenet_v1_coco_2017_11_08/model.ckpt"    
