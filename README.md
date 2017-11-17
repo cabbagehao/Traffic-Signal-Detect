@@ -8,7 +8,7 @@
         1. 下面所有脚本都在src目录下运行。（src/scripts目录下的脚本是工具脚本，可以单独执行）  
             在src路径下设置环境变量：  
                 protoc object_detection/protos/*.proto --python_out=.
-                export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+                export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/object_detection/slim
                 
         2. models/research/object_detection这个文件夹复制到了src目录下，并将一部分必要的文件也复制到了这个目录. 因此本项目可以放到任意地方。   
         3. 如果模型不一样，下面的名称需要更改。 路径一般不用更改，都是相对路径。  
