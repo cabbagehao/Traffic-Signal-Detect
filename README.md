@@ -5,8 +5,8 @@
 
 ### 使用说明：  
     注：   
-        1. 下面所有脚本都在src目录下运行。（src/scripts目录下的脚本是工具脚本，可以单独执行） 
-            在src路径下设置环境变量：
+        1. 下面所有脚本都在src目录下运行。（src/scripts目录下的脚本是工具脚本，可以单独执行）  
+            在src路径下设置环境变量：  
                 protoc object_detection/protos/*.proto --python_out=.
                 export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
                 
@@ -24,8 +24,8 @@
             --pipeline_config_path=../config/ssd_mobilenet_v1.config \
             --train_dir=./model_cpkt
         
-    3. 将模型转为pb文件：
-        需要将 *./model_cpkt/model.ckpt-0* 更改为要转换的ckpt文件
+    3. 将模型转为pb文件：  
+        需要将 *./model_cpkt/model.ckpt-0* 更改为要转换的ckpt文件  
         CUDA_VISIBLE_DEVICES="1" python ./object_detection/export_inference_graph.py   \
         --input_type image_tensor     \
         --pipeline_config_path ../config/ssd_mobilenet_v1.config  \
