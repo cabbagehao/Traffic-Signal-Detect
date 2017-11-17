@@ -34,7 +34,6 @@
         python inference.py
         
 ### 模型config文件更改： (config在./config/目录下）  
-
     如果使用新的模型，只需要更改fine_tune_checkpoint。  
     
     1. 分类个数：  
