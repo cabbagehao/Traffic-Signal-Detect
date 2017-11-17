@@ -1,0 +1,549 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>33</FrameNumber>
+<Frame00000TargetNumber>4</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    673 257 20 21</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    672 279 19 21</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    540 187 13 14</Position></Frame00000Target00002>
+<Frame00000Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    622 193 13 12</Position></Frame00000Target00003>
+<Frame00001TargetNumber>4</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    540 183 11 12</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    622 191 13 11</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    674 255 20 24</Position></Frame00001Target00002>
+<Frame00001Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    675 280 17 17</Position></Frame00001Target00003>
+<Frame00002TargetNumber>4</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    673 280 18 17</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    675 257 20 21</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    537 183 14 15</Position></Frame00002Target00002>
+<Frame00002Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    620 190 15 16</Position></Frame00002Target00003>
+<Frame00003TargetNumber>4</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    534 185 15 14</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    619 190 13 13</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    672 258 21 20</Position></Frame00003Target00002>
+<Frame00003Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    672 281 18 19</Position></Frame00003Target00003>
+<Frame00004TargetNumber>4</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    670 282 19 19</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    674 257 20 23</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    533 184 15 14</Position></Frame00004Target00002>
+<Frame00004Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    619 190 11 11</Position></Frame00004Target00003>
+<Frame00005TargetNumber>4</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    529 179 13 13</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    617 186 12 13</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    670 253 21 22</Position></Frame00005Target00002>
+<Frame00005Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    667 276 19 22</Position></Frame00005Target00003>
+<Frame00006TargetNumber>4</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    667 274 17 20</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    666 251 23 21</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    527 175 11 11</Position></Frame00006Target00002>
+<Frame00006Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    614 181 11 13</Position></Frame00006Target00003>
+<Frame00007TargetNumber>4</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    523 173 11 12</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    610 181 12 10</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    662 250 26 23</Position></Frame00007Target00002>
+<Frame00007Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    663 275 22 19</Position></Frame00007Target00003>
+<Frame00008TargetNumber>4</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    661 274 19 18</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    659 250 25 24</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    519 173 11 11</Position></Frame00008Target00002>
+<Frame00008Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    607 180 12 12</Position></Frame00008Target00003>
+<Frame00009TargetNumber>4</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    511 170 14 11</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    602 178 14 13</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    655 246 23 25</Position></Frame00009Target00002>
+<Frame00009Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    656 273 20 21</Position></Frame00009Target00003>
+<Frame00010TargetNumber>4</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    650 272 22 22</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    651 250 24 23</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    597 175 12 13</Position></Frame00010Target00002>
+<Frame00010Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    507 169 12 10</Position></Frame00010Target00003>
+<Frame00011TargetNumber>4</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    500 165 13 13</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    590 171 14 14</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    645 244 23 24</Position></Frame00011Target00002>
+<Frame00011Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    643 270 23 23</Position></Frame00011Target00003>
+<Frame00012TargetNumber>4</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    639 271 21 21</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    640 245 23 25</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    585 173 11 13</Position></Frame00012Target00002>
+<Frame00012Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    493 167 13 11</Position></Frame00012Target00003>
+<Frame00013TargetNumber>4</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    485 167 11 12</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    577 176 10 10</Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    630 248 26 25</Position></Frame00013Target00002>
+<Frame00013Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    631 275 24 21</Position></Frame00013Target00003>
+<Frame00014TargetNumber>4</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    624 274 22 21</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    626 249 23 23</Position></Frame00014Target00001>
+<Frame00014Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    475 168 11 12</Position></Frame00014Target00002>
+<Frame00014Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    569 175 12 11</Position></Frame00014Target00003>
+<Frame00015TargetNumber>4</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    464 164 14 12</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    559 171 12 13</Position></Frame00015Target00001>
+<Frame00015Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    613 247 28 25</Position></Frame00015Target00002>
+<Frame00015Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    614 273 24 21</Position></Frame00015Target00003>
+<Frame00016TargetNumber>4</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    604 272 25 21</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    603 247 27 24</Position></Frame00016Target00001>
+<Frame00016Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    454 162 11 12</Position></Frame00016Target00002>
+<Frame00016Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    548 170 11 11</Position></Frame00016Target00003>
+<Frame00017TargetNumber>4</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    437 163 13 12</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    534 169 11 13</Position></Frame00017Target00001>
+<Frame00017Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    587 246 29 26</Position></Frame00017Target00002>
+<Frame00017Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    589 271 23 24</Position></Frame00017Target00003>
+<Frame00018TargetNumber>4</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    577 273 21 23</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    577 249 25 26</Position></Frame00018Target00001>
+<Frame00018Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    422 165 12 11</Position></Frame00018Target00002>
+<Frame00018Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    519 172 11 12</Position></Frame00018Target00003>
+<Frame00019TargetNumber>4</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    559 276 21 23</Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    556 248 28 30</Position></Frame00019Target00001>
+<Frame00019Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    402 164 13 14</Position></Frame00019Target00002>
+<Frame00019Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    500 173 13 10</Position></Frame00019Target00003>
+<Frame00020TargetNumber>4</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    378 162 12 13</Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    477 171 14 13</Position></Frame00020Target00001>
+<Frame00020Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    536 250 28 25</Position></Frame00020Target00002>
+<Frame00020Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    535 277 27 20</Position></Frame00020Target00003>
+<Frame00021TargetNumber>4</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    511 277 26 23</Position></Frame00021Target00000>
+<Frame00021Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    512 249 25 27</Position></Frame00021Target00001>
+<Frame00021Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    350 162 16 12</Position></Frame00021Target00002>
+<Frame00021Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    452 169 13 15</Position></Frame00021Target00003>
+<Frame00022TargetNumber>4</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    324 161 12 12</Position></Frame00022Target00000>
+<Frame00022Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    425 169 13 13</Position></Frame00022Target00001>
+<Frame00022Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    488 250 23 28</Position></Frame00022Target00002>
+<Frame00022Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    485 278 24 25</Position></Frame00022Target00003>
+<Frame00023TargetNumber>4</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    456 274 26 26</Position></Frame00023Target00000>
+<Frame00023Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    456 248 26 24</Position></Frame00023Target00001>
+<Frame00023Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    293 158 12 12</Position></Frame00023Target00002>
+<Frame00023Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    396 164 12 13</Position></Frame00023Target00003>
+<Frame00024TargetNumber>4</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    256 153 15 15</Position></Frame00024Target00000>
+<Frame00024Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    363 163 10 12</Position></Frame00024Target00001>
+<Frame00024Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    424 247 26 26</Position></Frame00024Target00002>
+<Frame00024Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    424 274 23 25</Position></Frame00024Target00003>
+<Frame00025TargetNumber>4</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    386 269 26 27</Position></Frame00025Target00000>
+<Frame00025Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    388 242 24 28</Position></Frame00025Target00001>
+<Frame00025Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    322 159 13 15</Position></Frame00025Target00002>
+<Frame00025Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    214 149 15 16</Position></Frame00025Target00003>
+<Frame00026TargetNumber>4</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    168 141 16 15</Position></Frame00026Target00000>
+<Frame00026Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    279 151 14 16</Position></Frame00026Target00001>
+<Frame00026Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    342 238 30 27</Position></Frame00026Target00002>
+<Frame00026Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    343 265 26 27</Position></Frame00026Target00003>
+<Frame00027TargetNumber>4</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    298 257 25 29</Position></Frame00027Target00000>
+<Frame00027Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    298 231 28 27</Position></Frame00027Target00001>
+<Frame00027Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    232 141 14 13</Position></Frame00027Target00002>
+<Frame00027Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    118 131 16 14</Position></Frame00027Target00003>
+<Frame00028TargetNumber>4</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    64 119 19 15</Position></Frame00028Target00000>
+<Frame00028Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    180 129 16 13</Position></Frame00028Target00001>
+<Frame00028Target00002>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    253 220 23 25</Position></Frame00028Target00002>
+<Frame00028Target00003>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    255 248 22 23</Position></Frame00028Target00003>
+<Frame00029TargetNumber>4</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    199 238 29 28</Position></Frame00029Target00000>
+<Frame00029Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    197 209 32 28</Position></Frame00029Target00001>
+<Frame00029Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    9 106 15 14</Position></Frame00029Target00002>
+<Frame00029Target00003>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    128 116 16 15</Position></Frame00029Target00003>
+<Frame00030TargetNumber>3</Frame00030TargetNumber>
+<Frame00030Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    71 110 14 15</Position></Frame00030Target00000>
+<Frame00030Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    151 200 28 31</Position></Frame00030Target00001>
+<Frame00030Target00002>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    149 232 24 26</Position></Frame00030Target00002>
+<Frame00031TargetNumber>3</Frame00031TargetNumber>
+<Frame00031Target00000>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    93 234 27 25</Position></Frame00031Target00000>
+<Frame00031Target00001>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    94 203 29 31</Position></Frame00031Target00001>
+<Frame00031Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    11 108 15 16</Position></Frame00031Target00002>
+<Frame00032TargetNumber>2</Frame00032TargetNumber>
+<Frame00032Target00000>
+  <Type>"示30-机动车车道"</Type>
+  <Position>
+    37 204 27 27</Position></Frame00032Target00000>
+<Frame00032Target00001>
+  <Type>"示32-非机动车车道"</Type>
+  <Position>
+    36 231 27 30</Position></Frame00032Target00001>
+</opencv_storage>
