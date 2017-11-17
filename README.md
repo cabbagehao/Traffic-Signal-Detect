@@ -18,14 +18,15 @@
             --data_dir=/home/cabbage/Desktop/CarND-Capstone/ros/src/tl_detector/train/sample_annotation\
             --output_dir=/home/cabbage/Desktop/CarND-Capstone/ros/src/tl_detector/train/sample_annotation/output
             
-    2. 训练模型：
-        运行train.py:
-            python train.py --logtostderr \
-            --pipeline_config_path=../config/ssd_mobilenet_v1.config \
-            --train_dir=./model_cpkt
+    2. 运行train.p训练模型：  
+    
+        python train.py --logtostderr \
+        --pipeline_config_path=../config/ssd_mobilenet_v1.config \
+        --train_dir=./model_cpkt
         
     3. 将模型转为pb文件：  
-        需要将 *./model_cpkt/model.ckpt-0* 更改为要转换的ckpt文件  
+        需要将 *./model_cpkt/model.ckpt-0* 更改为要转换的ckpt文件  
+        
         CUDA_VISIBLE_DEVICES="1" python ./object_detection/export_inference_graph.py   \
         --input_type image_tensor     \
         --pipeline_config_path ../config/ssd_mobilenet_v1.config  \
