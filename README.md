@@ -25,9 +25,9 @@
         --train_dir=./model_cpkt
         
     3. 将模型转为pb文件：  
-        需要将 *./model_cpkt/model.ckpt-0* 更改为要转换的ckpt文件  
-        
-        CUDA_VISIBLE_DEVICES="1" python ./object_detection/export_inference_graph.py   \
+        需要将 *./model_cpkt/model.ckpt-0* 更改为要转换的ckpt文件
+          
+        CUDA_VISIBLE_DEVICES="1" python ./object_detection/export_inference_graph.py   \
         --input_type image_tensor     \
         --pipeline_config_path ../config/ssd_mobilenet_v1.config  \
         --trained_checkpoint_prefix ./model_cpkt/model.ckpt-0     \
