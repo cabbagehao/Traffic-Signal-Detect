@@ -1,0 +1,385 @@
+item { 
+	id: 1
+	name: 警1-T型交叉下
+}
+
+item { 
+	id: 2
+	name: 警1-T型交叉右
+}
+
+item { 
+	id: 3
+	name: 警1-T型交叉左
+}
+
+item { 
+	id: 4
+	name: 警1-Y型交叉
+}
+
+item { 
+	id: 5
+	name: 警1-十字交叉
+}
+
+item { 
+	id: 6
+	name: 警2-向左急弯路
+}
+
+item { 
+	id: 7
+	name: 警2-向右急弯路
+}
+
+item { 
+	id: 8
+	name: 警4-连续弯路
+}
+
+item { 
+	id: 9
+	name: 警5-上陡坡
+}
+
+item { 
+	id: 10
+	name: 警7-两侧变窄
+}
+
+item { 
+	id: 11
+	name: 警7-左侧变窄
+}
+
+item { 
+	id: 12
+	name: 警9-双向交通
+}
+
+item { 
+	id: 13
+	name: 警10-注意行人
+}
+
+item { 
+	id: 14
+	name: 警11-注意儿童
+}
+
+item { 
+	id: 15
+	name: 警17-易滑
+}
+
+item { 
+	id: 16
+	name: 警20-村庄
+}
+
+item { 
+	id: 17
+	name: 警23-驼峰桥
+}
+
+item { 
+	id: 18
+	name: 警35-慢行
+}
+
+item { 
+	id: 19
+	name: 警38-施工
+}
+
+item { 
+	id: 20
+	name: 禁2-减速让行
+}
+
+item { 
+	id: 21
+	name: 禁4-禁止通行
+}
+
+item { 
+	id: 22
+	name: 禁5-禁止驶入
+}
+
+item { 
+	id: 23
+	name: 禁6-禁止机动车驶入
+}
+
+item { 
+	id: 24
+	name: 禁7-禁止载货汽车驶入
+}
+
+item { 
+	id: 25
+	name: 禁9-禁止大型客车驶入
+}
+
+item { 
+	id: 26
+	name: 禁12-禁止拖拉机驶入
+}
+
+item { 
+	id: 27
+	name: 禁14-禁止摩托车驶入
+}
+
+item { 
+	id: 28
+	name: 禁15-禁止某两种车驶入
+}
+
+item { 
+	id: 29
+	name: 禁16-禁止非机动车进入
+}
+
+item { 
+	id: 30
+	name: 禁21-禁止行人驶入
+}
+
+item { 
+	id: 31
+	name: 禁22-禁止向左转弯
+}
+
+item { 
+	id: 32
+	name: 禁23-禁止向右转弯
+}
+
+item { 
+	id: 33
+	name: 禁28-禁止掉头
+}
+
+item { 
+	id: 34
+	name: 禁29-禁止超车
+}
+
+item { 
+	id: 35
+	name: 禁31-禁止停车
+}
+
+item { 
+	id: 36
+	name: 禁32-禁止长时停车
+}
+
+item { 
+	id: 37
+	name: 禁33-禁止鸣笛
+}
+
+item { 
+	id: 38
+	name: 禁34-限制宽度
+}
+
+item { 
+	id: 39
+	name: 禁35-限制高度
+}
+
+item { 
+	id: 40
+	name: 禁36-限制质量
+}
+
+item { 
+	id: 41
+	name: 禁37-限制轴重
+}
+
+item { 
+	id: 42
+	name: 禁38-限制速度
+}
+
+item { 
+	id: 43
+	name: 禁39-解除限制速度
+}
+
+item { 
+	id: 44
+	name: 示1-直行
+}
+
+item { 
+	id: 45
+	name: 示7-靠右侧道路行驶
+}
+
+item { 
+	id: 46
+	name: 示9-立体交叉直行和左转弯行驶
+}
+
+item { 
+	id: 47
+	name: 示11-环岛行驶
+}
+
+item { 
+	id: 48
+	name: 示19-人行横道
+}
+
+item { 
+	id: 49
+	name: 示27-分向行驶车道
+}
+
+item { 
+	id: 50
+	name: 示28-公交线路专用车道
+}
+
+item { 
+	id: 51
+	name: 示29-机动车行驶
+}
+
+item { 
+	id: 52
+	name: 示30-机动车车道
+}
+
+item { 
+	id: 53
+	name: 示31-非机动车行驶
+}
+
+item { 
+	id: 54
+	name: 示32-非机动车车道
+}
+
+item { 
+	id: 55
+	name: 示35-停车位
+}
+
+item { 
+	id: 56
+	name: 示36-允许掉头
+}
+
+item { 
+	id: 57
+	name: 路4-十字交叉路口
+}
+
+item { 
+	id: 58
+	name: 路5-丁字交叉路口
+}
+
+item { 
+	id: 59
+	name: 路7-环形交叉路口
+}
+
+item { 
+	id: 60
+	name: 路34-交通监控设备
+}
+
+item { 
+	id: 61
+	name: 路37-组合使用向右
+}
+
+item { 
+	id: 62
+	name: 路41-入口预告
+}
+
+item { 
+	id: 63
+	name: 路52-出口标志及出口地点方向
+}
+
+item { 
+	id: 64
+	name: 路67-设有电子不停车收费(ETC)车道的收费站
+}
+
+item { 
+	id: 65
+	name: 路72-服务区预告
+}
+
+item { 
+	id: 66
+	name: 右转箭头红灯
+}
+
+item { 
+	id: 67
+	name: 右转箭头绿灯
+}
+
+item { 
+	id: 68
+	name: 右转箭头黄灯
+}
+
+item { 
+	id: 69
+	name: 直行箭头红灯
+}
+
+item { 
+	id: 70
+	name: 直行箭头绿灯
+}
+
+item { 
+	id: 71
+	name: 直行箭头黄灯
+}
+
+item { 
+	id: 72
+	name: 左转箭头红灯
+}
+
+item { 
+	id: 73
+	name: 左转箭头绿灯
+}
+
+item { 
+	id: 74
+	name: 左转箭头黄灯
+}
+
+item { 
+	id: 75
+	name: 圆形红灯
+}
+
+item { 
+	id: 76
+	name: 圆形绿灯
+}
+
+item { 
+	id: 77
+	name: 圆形黄灯
+}
+
