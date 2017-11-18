@@ -78,6 +78,22 @@ flags.DEFINE_boolean('run_once', False, 'Option to only run a single pass of '
                      'provided config.')
 FLAGS = flags.FLAGS
 
+def get_label_dict(label_path):
+    label_map_dict = {}
+    label_list = []
+    with open(label_path, 'r') as f:
+        lines = f.readlines()
+        for line in lines:
+            if not line.split():
+                continue
+            line = line.strip()
+            number, name = line.split(' ', 1)
+            label_map_dict[name] = int(number)
+            label_list.append(name)
+            assert len(label_list) == int(number), str(label_list) + ' ' + number
+
+    # assert len(label_map_dict) == 77
+    return label_map_dict, label_list
 
 def main(unused_argv):
   assert FLAGS.checkpoint_dir, '`checkpoint_dir` is missing.'
@@ -114,11 +130,16 @@ def main(unused_argv):
       input_reader_builder.build,
       input_config)
 
-  label_map = label_map_util.load_labelmap(input_config.label_map_path)
-  max_num_classes = max([item.id for item in label_map.item])
-  categories = label_map_util.convert_label_map_to_categories(
-      label_map, max_num_classes)
+  # label_map = label_map_util.load_labelmap(input_config.label_map_path)
+  # max_num_classes = max([item.id for item in label_map.item])
+  # categories = label_map_util.convert_label_map_to_categories(
+  #     label_map, max_num_classes)  
+  label_map, label_list = get_label_dict(input_config.label_map_path)
+  categories = []
+  for i in range(len(label_list)):
+    categories.append({'id': i+1, 'name': label_list[i]})
 
+  # print(categories)
   if FLAGS.run_once:
     eval_config.max_evals = 1
 

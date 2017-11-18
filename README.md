@@ -35,6 +35,20 @@
         
     4. 运行inference.py测试模型结果，得到带标注框的图片。
         python inference.py
+
+    5. 运行eval.py进行验证：   
+        python eval.py     --logtostderr     \
+        --pipeline_config_path=../config/ssd_mobilenet_v1.config   \
+        --checkpoint_dir=model_cpkt     \
+        --eval_dir=./model_cpkt/eval_log
+        
+    6. Tensorboard可视化log：  
+        查看训练log:
+            tensorboard logdir ./model_cpkt/  
+        查看验证log:
+            tensorboard logdir ./model_cpkt/eval_log/  
+        同时查看2种log:
+            tensorboard logdir .
         
 ### 模型配置文件更改：  
     注：   

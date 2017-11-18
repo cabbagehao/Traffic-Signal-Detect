@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.cpython-35.pyc
 
 # C extensions
 *.so

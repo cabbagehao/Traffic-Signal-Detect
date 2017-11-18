@@ -11,8 +11,8 @@ with open(output_file, 'w+') as output:
             line = line.strip()
             number, name = line.split(' ', 1)
             output_str = "item { \n" + \
-                        "\tid: " + number + "\n" + \
-                        "\tname: " + name + \
+                        "  id: " + number + "\n" + \
+                        "  name: \'" + name + '\'' + \
                         "\n}\n\n"
             # output_str = "item { \n \tid: " + number + "\n \t" + "name: " + name + "}\n"  
             # print(type(output_str))
@@ -23,3 +23,4 @@ with open(output_file, 'w+') as output:
         #     number, name = line.split()
             
         #     print(number, name)
+print("Create success.")
