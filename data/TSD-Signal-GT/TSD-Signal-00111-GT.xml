@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>13</FrameNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    888 158 36 31</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    731 201 60 39</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    730 201 59 38</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    893 154 36 33</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    898 149 37 34</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    729 200 60 39</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    728 198 60 40</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    903 145 38 33</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    907 137 42 35</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    728 196 60 41</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    726 194 62 40</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    914 129 41 37</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    920 118 44 39</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    724 192 63 41</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    724 190 63 39</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    927 111 44 41</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    934 103 46 43</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    724 192 61 40</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    721 192 64 40</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    943 96 49 44</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    952 86 52 45</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    722 190 64 42</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    721 190 66 40</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    964 72 56 50</Position></Frame00011Target00001>
+<Frame00012TargetNumber>2</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"警35-慢行"</Type>
+  <Position>
+    979 61 57 50</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"路4-十字交叉路口"</Type>
+  <Position>
+    723 188 65 41</Position></Frame00012Target00001>
+</opencv_storage>

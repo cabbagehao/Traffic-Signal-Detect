@@ -1,0 +1,1819 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>151</FrameNumber>
+<Frame00000TargetNumber>0</Frame00000TargetNumber>
+<Frame00001TargetNumber>0</Frame00001TargetNumber>
+<Frame00002TargetNumber>0</Frame00002TargetNumber>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    885 311 10 7</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    875 331 10 11</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    876 330 9 10</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    886 309 9 8</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    886 308 10 7</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    877 329 9 10</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    876 323 9 11</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    886 303 9 8</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    886 302 9 11</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    876 325 9 10</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    875 324 12 10</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    887 301 8 10</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    886 302 10 9</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    876 324 11 11</Position></Frame00009Target00001>
+<Frame00010TargetNumber>3</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    628 298 12 12</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    886 304 11 8</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    876 325 10 11</Position></Frame00010Target00002>
+<Frame00011TargetNumber>3</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    876 325 10 11</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    888 302 8 10</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    628 296 10 10</Position></Frame00011Target00002>
+<Frame00012TargetNumber>3</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    625 299 12 13</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    885 305 13 11</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    876 329 11 11</Position></Frame00012Target00002>
+<Frame00013TargetNumber>3</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    875 329 12 12</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    887 306 10 11</Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    624 300 13 11</Position></Frame00013Target00002>
+<Frame00014TargetNumber>3</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    624 305 11 9</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    888 309 8 10</Position></Frame00014Target00001>
+<Frame00014Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    876 332 10 12</Position></Frame00014Target00002>
+<Frame00015TargetNumber>3</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    877 326 9 11</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    889 304 8 8</Position></Frame00015Target00001>
+<Frame00015Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    622 298 9 9</Position></Frame00015Target00002>
+<Frame00016TargetNumber>3</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    623 290 8 12</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    889 297 11 9</Position></Frame00016Target00001>
+<Frame00016Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    878 318 11 14</Position></Frame00016Target00002>
+<Frame00017TargetNumber>3</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    877 314 12 12</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    890 291 11 11</Position></Frame00017Target00001>
+<Frame00017Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    621 284 11 11</Position></Frame00017Target00002>
+<Frame00018TargetNumber>3</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    621 288 8 10</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    890 292 11 12</Position></Frame00018Target00001>
+<Frame00018Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    877 316 11 12</Position></Frame00018Target00002>
+<Frame00019TargetNumber>3</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    878 324 11 11</Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    889 301 9 10</Position></Frame00019Target00001>
+<Frame00019Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    619 295 10 12</Position></Frame00019Target00002>
+<Frame00020TargetNumber>2</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    890 306 11 10</Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    878 330 11 11</Position></Frame00020Target00001>
+<Frame00021TargetNumber>2</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    879 329 11 12</Position></Frame00021Target00000>
+<Frame00021Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    892 306 8 10</Position></Frame00021Target00001>
+<Frame00022TargetNumber>3</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    891 304 10 9</Position></Frame00022Target00000>
+<Frame00022Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    880 328 11 10</Position></Frame00022Target00001>
+<Frame00022Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    616 300 9 9</Position></Frame00022Target00002>
+<Frame00023TargetNumber>2</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    616 296 9 11</Position></Frame00023Target00000>
+<Frame00023Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    893 302 9 9</Position></Frame00023Target00001>
+<Frame00024TargetNumber>2</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    893 301 9 10</Position></Frame00024Target00000>
+<Frame00024Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    616 296 9 10</Position></Frame00024Target00001>
+<Frame00025TargetNumber>2</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    894 300 10 12</Position></Frame00025Target00000>
+<Frame00025Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    882 326 12 11</Position></Frame00025Target00001>
+<Frame00026TargetNumber>3</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    882 326 13 11</Position></Frame00026Target00000>
+<Frame00026Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    894 303 10 9</Position></Frame00026Target00001>
+<Frame00026Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    613 295 10 13</Position></Frame00026Target00002>
+<Frame00027TargetNumber>3</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    613 292 10 13</Position></Frame00027Target00000>
+<Frame00027Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    895 299 11 10</Position></Frame00027Target00001>
+<Frame00027Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    882 324 14 13</Position></Frame00027Target00002>
+<Frame00028TargetNumber>3</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    884 321 12 13</Position></Frame00028Target00000>
+<Frame00028Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    897 298 10 10</Position></Frame00028Target00001>
+<Frame00028Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    613 291 9 10</Position></Frame00028Target00002>
+<Frame00029TargetNumber>3</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    611 288 11 13</Position></Frame00029Target00000>
+<Frame00029Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    897 294 11 12</Position></Frame00029Target00001>
+<Frame00029Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    885 318 13 13</Position></Frame00029Target00002>
+<Frame00030TargetNumber>3</Frame00030TargetNumber>
+<Frame00030Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    884 320 14 15</Position></Frame00030Target00000>
+<Frame00030Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    899 298 10 10</Position></Frame00030Target00001>
+<Frame00030Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    609 292 12 12</Position></Frame00030Target00002>
+<Frame00031TargetNumber>3</Frame00031TargetNumber>
+<Frame00031Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    608 299 11 11</Position></Frame00031Target00000>
+<Frame00031Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    897 304 11 10</Position></Frame00031Target00001>
+<Frame00031Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    885 327 13 14</Position></Frame00031Target00002>
+<Frame00032TargetNumber>3</Frame00032TargetNumber>
+<Frame00032Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    884 337 12 12</Position></Frame00032Target00000>
+<Frame00032Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    897 312 11 10</Position></Frame00032Target00001>
+<Frame00032Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    605 304 14 14</Position></Frame00032Target00002>
+<Frame00033TargetNumber>3</Frame00033TargetNumber>
+<Frame00033Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    607 307 12 11</Position></Frame00033Target00000>
+<Frame00033Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    899 312 11 12</Position></Frame00033Target00001>
+<Frame00033Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    886 337 11 13</Position></Frame00033Target00002>
+<Frame00034TargetNumber>3</Frame00034TargetNumber>
+<Frame00034Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    887 332 10 13</Position></Frame00034Target00000>
+<Frame00034Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    900 307 11 10</Position></Frame00034Target00001>
+<Frame00034Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    607 301 9 11</Position></Frame00034Target00002>
+<Frame00035TargetNumber>3</Frame00035TargetNumber>
+<Frame00035Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    604 292 12 12</Position></Frame00035Target00000>
+<Frame00035Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    899 296 12 11</Position></Frame00035Target00001>
+<Frame00035Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    888 323 13 12</Position></Frame00035Target00002>
+<Frame00036TargetNumber>3</Frame00036TargetNumber>
+<Frame00036Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    887 314 13 13</Position></Frame00036Target00000>
+<Frame00036Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    901 290 10 9</Position></Frame00036Target00001>
+<Frame00036Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    602 285 12 12</Position></Frame00036Target00002>
+<Frame00037TargetNumber>3</Frame00037TargetNumber>
+<Frame00037Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    600 285 11 13</Position></Frame00037Target00000>
+<Frame00037Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    900 291 11 11</Position></Frame00037Target00001>
+<Frame00037Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    886 314 13 15</Position></Frame00037Target00002>
+<Frame00038TargetNumber>3</Frame00038TargetNumber>
+<Frame00038Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    887 318 13 13</Position></Frame00038Target00000>
+<Frame00038Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    901 293 10 11</Position></Frame00038Target00001>
+<Frame00038Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    599 286 10 13</Position></Frame00038Target00002>
+<Frame00039TargetNumber>3</Frame00039TargetNumber>
+<Frame00039Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    598 292 14 12</Position></Frame00039Target00000>
+<Frame00039Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    900 298 12 11</Position></Frame00039Target00001>
+<Frame00039Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    887 325 14 12</Position></Frame00039Target00002>
+<Frame00040TargetNumber>3</Frame00040TargetNumber>
+<Frame00040Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    889 329 13 14</Position></Frame00040Target00000>
+<Frame00040Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    901 303 14 13</Position></Frame00040Target00001>
+<Frame00040Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    599 298 11 13</Position></Frame00040Target00002>
+<Frame00041TargetNumber>3</Frame00041TargetNumber>
+<Frame00041Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    596 303 13 11</Position></Frame00041Target00000>
+<Frame00041Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    903 308 11 13</Position></Frame00041Target00001>
+<Frame00041Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    888 333 14 15</Position></Frame00041Target00002>
+<Frame00042TargetNumber>3</Frame00042TargetNumber>
+<Frame00042Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    890 337 13 12</Position></Frame00042Target00000>
+<Frame00042Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    902 310 11 12</Position></Frame00042Target00001>
+<Frame00042Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    596 305 10 10</Position></Frame00042Target00002>
+<Frame00043TargetNumber>3</Frame00043TargetNumber>
+<Frame00043Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    593 301 12 12</Position></Frame00043Target00000>
+<Frame00043Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    903 308 9 13</Position></Frame00043Target00001>
+<Frame00043Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    888 332 12 16</Position></Frame00043Target00002>
+<Frame00044TargetNumber>3</Frame00044TargetNumber>
+<Frame00044Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    889 332 11 12</Position></Frame00044Target00000>
+<Frame00044Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    902 304 12 12</Position></Frame00044Target00001>
+<Frame00044Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    592 299 12 10</Position></Frame00044Target00002>
+<Frame00045TargetNumber>3</Frame00045TargetNumber>
+<Frame00045Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    591 296 13 14</Position></Frame00045Target00000>
+<Frame00045Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    902 303 15 12</Position></Frame00045Target00001>
+<Frame00045Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    889 329 13 15</Position></Frame00045Target00002>
+<Frame00046TargetNumber>3</Frame00046TargetNumber>
+<Frame00046Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    888 330 14 14</Position></Frame00046Target00000>
+<Frame00046Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    906 306 9 9</Position></Frame00046Target00001>
+<Frame00046Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    589 297 13 13</Position></Frame00046Target00002>
+<Frame00047TargetNumber>3</Frame00047TargetNumber>
+<Frame00047Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    590 296 11 11</Position></Frame00047Target00000>
+<Frame00047Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    906 305 12 11</Position></Frame00047Target00001>
+<Frame00047Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    889 331 14 12</Position></Frame00047Target00002>
+<Frame00048TargetNumber>3</Frame00048TargetNumber>
+<Frame00048Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    890 331 13 13</Position></Frame00048Target00000>
+<Frame00048Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    905 303 11 11</Position></Frame00048Target00001>
+<Frame00048Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    588 294 12 13</Position></Frame00048Target00002>
+<Frame00049TargetNumber>3</Frame00049TargetNumber>
+<Frame00049Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    585 295 17 13</Position></Frame00049Target00000>
+<Frame00049Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    905 302 13 12</Position></Frame00049Target00001>
+<Frame00049Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    891 329 13 13</Position></Frame00049Target00002>
+<Frame00050TargetNumber>3</Frame00050TargetNumber>
+<Frame00050Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    891 332 14 13</Position></Frame00050Target00000>
+<Frame00050Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    905 302 15 13</Position></Frame00050Target00001>
+<Frame00050Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    583 295 15 13</Position></Frame00050Target00002>
+<Frame00051TargetNumber>3</Frame00051TargetNumber>
+<Frame00051Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    583 294 13 15</Position></Frame00051Target00000>
+<Frame00051Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    907 303 11 11</Position></Frame00051Target00001>
+<Frame00051Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    891 331 13 15</Position></Frame00051Target00002>
+<Frame00052TargetNumber>3</Frame00052TargetNumber>
+<Frame00052Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    892 329 12 13</Position></Frame00052Target00000>
+<Frame00052Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    906 301 14 13</Position></Frame00052Target00001>
+<Frame00052Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    581 292 13 14</Position></Frame00052Target00002>
+<Frame00053TargetNumber>3</Frame00053TargetNumber>
+<Frame00053Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    581 290 14 12</Position></Frame00053Target00000>
+<Frame00053Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    908 295 12 14</Position></Frame00053Target00001>
+<Frame00053Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    892 322 14 16</Position></Frame00053Target00002>
+<Frame00054TargetNumber>3</Frame00054TargetNumber>
+<Frame00054Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 322 12 13</Position></Frame00054Target00000>
+<Frame00054Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    909 292 14 14</Position></Frame00054Target00001>
+<Frame00054Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    579 285 15 13</Position></Frame00054Target00002>
+<Frame00055TargetNumber>3</Frame00055TargetNumber>
+<Frame00055Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    577 285 16 16</Position></Frame00055Target00000>
+<Frame00055Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    907 292 17 16</Position></Frame00055Target00001>
+<Frame00055Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 321 15 13</Position></Frame00055Target00002>
+<Frame00056TargetNumber>3</Frame00056TargetNumber>
+<Frame00056Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 324 13 13</Position></Frame00056Target00000>
+<Frame00056Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    910 297 10 12</Position></Frame00056Target00001>
+<Frame00056Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    577 290 12 12</Position></Frame00056Target00002>
+<Frame00057TargetNumber>3</Frame00057TargetNumber>
+<Frame00057Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    576 293 11 13</Position></Frame00057Target00000>
+<Frame00057Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    908 300 15 13</Position></Frame00057Target00001>
+<Frame00057Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 328 15 14</Position></Frame00057Target00002>
+<Frame00058TargetNumber>3</Frame00058TargetNumber>
+<Frame00058Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 329 13 15</Position></Frame00058Target00000>
+<Frame00058Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    909 300 13 13</Position></Frame00058Target00001>
+<Frame00058Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    573 291 13 17</Position></Frame00058Target00002>
+<Frame00059TargetNumber>3</Frame00059TargetNumber>
+<Frame00059Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    572 294 15 18</Position></Frame00059Target00000>
+<Frame00059Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    909 301 17 16</Position></Frame00059Target00001>
+<Frame00059Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 333 15 15</Position></Frame00059Target00002>
+<Frame00060TargetNumber>3</Frame00060TargetNumber>
+<Frame00060Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 332 14 15</Position></Frame00060Target00000>
+<Frame00060Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    910 304 12 12</Position></Frame00060Target00001>
+<Frame00060Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    571 297 12 11</Position></Frame00060Target00002>
+<Frame00061TargetNumber>3</Frame00061TargetNumber>
+<Frame00061Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    568 298 13 12</Position></Frame00061Target00000>
+<Frame00061Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    910 305 11 11</Position></Frame00061Target00001>
+<Frame00061Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    892 333 15 15</Position></Frame00061Target00002>
+<Frame00062TargetNumber>3</Frame00062TargetNumber>
+<Frame00062Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 330 14 18</Position></Frame00062Target00000>
+<Frame00062Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    909 304 14 11</Position></Frame00062Target00001>
+<Frame00062Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    567 295 11 15</Position></Frame00062Target00002>
+<Frame00063TargetNumber>3</Frame00063TargetNumber>
+<Frame00063Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    564 293 12 12</Position></Frame00063Target00000>
+<Frame00063Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    911 300 11 14</Position></Frame00063Target00001>
+<Frame00063Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 330 13 14</Position></Frame00063Target00002>
+<Frame00064TargetNumber>3</Frame00064TargetNumber>
+<Frame00064Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    892 327 15 15</Position></Frame00064Target00000>
+<Frame00064Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    913 299 9 9</Position></Frame00064Target00001>
+<Frame00064Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    564 292 9 11</Position></Frame00064Target00002>
+<Frame00065TargetNumber>3</Frame00065TargetNumber>
+<Frame00065Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    560 289 13 12</Position></Frame00065Target00000>
+<Frame00065Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    911 295 11 13</Position></Frame00065Target00001>
+<Frame00065Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 323 15 15</Position></Frame00065Target00002>
+<Frame00066TargetNumber>3</Frame00066TargetNumber>
+<Frame00066Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    891 326 16 15</Position></Frame00066Target00000>
+<Frame00066Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    910 297 14 11</Position></Frame00066Target00001>
+<Frame00066Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    559 288 15 14</Position></Frame00066Target00002>
+<Frame00067TargetNumber>3</Frame00067TargetNumber>
+<Frame00067Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    556 296 16 12</Position></Frame00067Target00000>
+<Frame00067Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    912 301 10 14</Position></Frame00067Target00001>
+<Frame00067Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 332 14 13</Position></Frame00067Target00002>
+<Frame00068TargetNumber>3</Frame00068TargetNumber>
+<Frame00068Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    895 335 12 14</Position></Frame00068Target00000>
+<Frame00068Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    912 306 11 10</Position></Frame00068Target00001>
+<Frame00068Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    555 298 12 13</Position></Frame00068Target00002>
+<Frame00069TargetNumber>3</Frame00069TargetNumber>
+<Frame00069Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    554 301 15 14</Position></Frame00069Target00000>
+<Frame00069Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    911 309 13 12</Position></Frame00069Target00001>
+<Frame00069Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 340 15 15</Position></Frame00069Target00002>
+<Frame00070TargetNumber>3</Frame00070TargetNumber>
+<Frame00070Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 339 15 16</Position></Frame00070Target00000>
+<Frame00070Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    911 308 14 13</Position></Frame00070Target00001>
+<Frame00070Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    551 301 17 13</Position></Frame00070Target00002>
+<Frame00071TargetNumber>3</Frame00071TargetNumber>
+<Frame00071Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    551 298 11 14</Position></Frame00071Target00000>
+<Frame00071Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    914 306 10 13</Position></Frame00071Target00001>
+<Frame00071Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 338 14 13</Position></Frame00071Target00002>
+<Frame00072TargetNumber>3</Frame00072TargetNumber>
+<Frame00072Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 335 15 13</Position></Frame00072Target00000>
+<Frame00072Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    913 305 10 10</Position></Frame00072Target00001>
+<Frame00072Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    548 297 12 12</Position></Frame00072Target00002>
+<Frame00073TargetNumber>3</Frame00073TargetNumber>
+<Frame00073Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    546 296 13 12</Position></Frame00073Target00000>
+<Frame00073Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    913 301 12 13</Position></Frame00073Target00001>
+<Frame00073Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 332 16 15</Position></Frame00073Target00002>
+<Frame00074TargetNumber>3</Frame00074TargetNumber>
+<Frame00074Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 333 15 16</Position></Frame00074Target00000>
+<Frame00074Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    913 304 11 13</Position></Frame00074Target00001>
+<Frame00074Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    546 297 10 13</Position></Frame00074Target00002>
+<Frame00075TargetNumber>3</Frame00075TargetNumber>
+<Frame00075Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    542 297 12 15</Position></Frame00075Target00000>
+<Frame00075Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    913 306 13 13</Position></Frame00075Target00001>
+<Frame00075Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 335 17 15</Position></Frame00075Target00002>
+<Frame00076TargetNumber>3</Frame00076TargetNumber>
+<Frame00076Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 336 15 15</Position></Frame00076Target00000>
+<Frame00076Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    914 304 12 15</Position></Frame00076Target00001>
+<Frame00076Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    540 299 17 13</Position></Frame00076Target00002>
+<Frame00077TargetNumber>3</Frame00077TargetNumber>
+<Frame00077Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    539 295 14 13</Position></Frame00077Target00000>
+<Frame00077Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    914 301 13 15</Position></Frame00077Target00001>
+<Frame00077Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    895 331 14 18</Position></Frame00077Target00002>
+<Frame00078TargetNumber>3</Frame00078TargetNumber>
+<Frame00078Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 328 16 18</Position></Frame00078Target00000>
+<Frame00078Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    914 298 15 13</Position></Frame00078Target00001>
+<Frame00078Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    537 291 16 13</Position></Frame00078Target00002>
+<Frame00079TargetNumber>3</Frame00079TargetNumber>
+<Frame00079Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    537 284 12 15</Position></Frame00079Target00000>
+<Frame00079Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    915 290 12 16</Position></Frame00079Target00001>
+<Frame00079Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 322 16 17</Position></Frame00079Target00002>
+<Frame00080TargetNumber>3</Frame00080TargetNumber>
+<Frame00080Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    893 319 17 15</Position></Frame00080Target00000>
+<Frame00080Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    915 285 14 15</Position></Frame00080Target00001>
+<Frame00080Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    533 278 15 15</Position></Frame00080Target00002>
+<Frame00081TargetNumber>3</Frame00081TargetNumber>
+<Frame00081Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    532 276 14 16</Position></Frame00081Target00000>
+<Frame00081Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    916 284 14 15</Position></Frame00081Target00001>
+<Frame00081Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 316 17 18</Position></Frame00081Target00002>
+<Frame00082TargetNumber>3</Frame00082TargetNumber>
+<Frame00082Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    895 319 15 16</Position></Frame00082Target00000>
+<Frame00082Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    917 288 11 13</Position></Frame00082Target00001>
+<Frame00082Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    531 278 11 14</Position></Frame00082Target00002>
+<Frame00083TargetNumber>3</Frame00083TargetNumber>
+<Frame00083Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    528 280 15 14</Position></Frame00083Target00000>
+<Frame00083Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    913 288 20 15</Position></Frame00083Target00001>
+<Frame00083Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 322 17 15</Position></Frame00083Target00002>
+<Frame00084TargetNumber>3</Frame00084TargetNumber>
+<Frame00084Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    894 321 18 15</Position></Frame00084Target00000>
+<Frame00084Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    916 287 16 14</Position></Frame00084Target00001>
+<Frame00084Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    525 280 15 15</Position></Frame00084Target00002>
+<Frame00085TargetNumber>3</Frame00085TargetNumber>
+<Frame00085Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    525 279 13 15</Position></Frame00085Target00000>
+<Frame00085Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    916 287 16 14</Position></Frame00085Target00001>
+<Frame00085Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    896 320 14 14</Position></Frame00085Target00002>
+<Frame00086TargetNumber>3</Frame00086TargetNumber>
+<Frame00086Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    896 321 16 16</Position></Frame00086Target00000>
+<Frame00086Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    916 285 15 16</Position></Frame00086Target00001>
+<Frame00086Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    521 276 15 18</Position></Frame00086Target00002>
+<Frame00087TargetNumber>3</Frame00087TargetNumber>
+<Frame00087Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    518 277 16 17</Position></Frame00087Target00000>
+<Frame00087Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    914 286 17 16</Position></Frame00087Target00001>
+<Frame00087Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    895 320 16 15</Position></Frame00087Target00002>
+<Frame00088TargetNumber>3</Frame00088TargetNumber>
+<Frame00088Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    895 321 18 15</Position></Frame00088Target00000>
+<Frame00088Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    918 288 11 13</Position></Frame00088Target00001>
+<Frame00088Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    520 279 13 16</Position></Frame00088Target00002>
+<Frame00089TargetNumber>3</Frame00089TargetNumber>
+<Frame00089Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    517 280 17 15</Position></Frame00089Target00000>
+<Frame00089Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    916 284 16 20</Position></Frame00089Target00001>
+<Frame00089Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    897 321 16 17</Position></Frame00089Target00002>
+<Frame00090TargetNumber>3</Frame00090TargetNumber>
+<Frame00090Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    896 320 17 17</Position></Frame00090Target00000>
+<Frame00090Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    919 290 14 12</Position></Frame00090Target00001>
+<Frame00090Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    517 281 14 13</Position></Frame00090Target00002>
+<Frame00091TargetNumber>3</Frame00091TargetNumber>
+<Frame00091Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    514 279 14 17</Position></Frame00091Target00000>
+<Frame00091Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    918 289 16 14</Position></Frame00091Target00001>
+<Frame00091Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    895 321 16 20</Position></Frame00091Target00002>
+<Frame00092TargetNumber>3</Frame00092TargetNumber>
+<Frame00092Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    897 323 15 17</Position></Frame00092Target00000>
+<Frame00092Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    916 287 19 19</Position></Frame00092Target00001>
+<Frame00092Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    510 282 20 20</Position></Frame00092Target00002>
+<Frame00093TargetNumber>3</Frame00093TargetNumber>
+<Frame00093Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    513 280 14 15</Position></Frame00093Target00000>
+<Frame00093Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    919 287 18 17</Position></Frame00093Target00001>
+<Frame00093Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    897 323 17 16</Position></Frame00093Target00002>
+<Frame00094TargetNumber>3</Frame00094TargetNumber>
+<Frame00094Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    897 323 17 17</Position></Frame00094Target00000>
+<Frame00094Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    921 287 15 13</Position></Frame00094Target00001>
+<Frame00094Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    509 280 18 18</Position></Frame00094Target00002>
+<Frame00095TargetNumber>3</Frame00095TargetNumber>
+<Frame00095Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    507 279 17 17</Position></Frame00095Target00000>
+<Frame00095Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    919 288 18 17</Position></Frame00095Target00001>
+<Frame00095Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    899 325 16 13</Position></Frame00095Target00002>
+<Frame00096TargetNumber>2</Frame00096TargetNumber>
+<Frame00096Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    900 324 15 17</Position></Frame00096Target00000>
+<Frame00096Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    921 292 14 11</Position></Frame00096Target00001>
+<Frame00097TargetNumber>2</Frame00097TargetNumber>
+<Frame00097Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    923 291 17 13</Position></Frame00097Target00000>
+<Frame00097Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    898 324 19 18</Position></Frame00097Target00001>
+<Frame00098TargetNumber>2</Frame00098TargetNumber>
+<Frame00098Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    901 324 18 17</Position></Frame00098Target00000>
+<Frame00098Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    925 291 13 12</Position></Frame00098Target00001>
+<Frame00099TargetNumber>2</Frame00099TargetNumber>
+<Frame00099Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    926 290 14 13</Position></Frame00099Target00000>
+<Frame00099Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    901 324 16 18</Position></Frame00099Target00001>
+<Frame00100TargetNumber>2</Frame00100TargetNumber>
+<Frame00100Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    902 322 16 18</Position></Frame00100Target00000>
+<Frame00100Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    927 288 14 17</Position></Frame00100Target00001>
+<Frame00101TargetNumber>2</Frame00101TargetNumber>
+<Frame00101Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    926 289 15 13</Position></Frame00101Target00000>
+<Frame00101Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    902 323 19 21</Position></Frame00101Target00001>
+<Frame00102TargetNumber>2</Frame00102TargetNumber>
+<Frame00102Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    903 325 16 17</Position></Frame00102Target00000>
+<Frame00102Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    927 290 15 13</Position></Frame00102Target00001>
+<Frame00103TargetNumber>2</Frame00103TargetNumber>
+<Frame00103Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    928 289 12 14</Position></Frame00103Target00000>
+<Frame00103Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    903 323 19 17</Position></Frame00103Target00001>
+<Frame00104TargetNumber>2</Frame00104TargetNumber>
+<Frame00104Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    904 321 18 18</Position></Frame00104Target00000>
+<Frame00104Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    928 287 17 14</Position></Frame00104Target00001>
+<Frame00105TargetNumber>2</Frame00105TargetNumber>
+<Frame00105Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    928 285 17 14</Position></Frame00105Target00000>
+<Frame00105Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    906 322 17 17</Position></Frame00105Target00001>
+<Frame00106TargetNumber>2</Frame00106TargetNumber>
+<Frame00106Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    906 321 15 14</Position></Frame00106Target00000>
+<Frame00106Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    931 284 15 14</Position></Frame00106Target00001>
+<Frame00107TargetNumber>2</Frame00107TargetNumber>
+<Frame00107Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    932 282 16 15</Position></Frame00107Target00000>
+<Frame00107Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    907 319 16 17</Position></Frame00107Target00001>
+<Frame00108TargetNumber>2</Frame00108TargetNumber>
+<Frame00108Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    909 320 14 16</Position></Frame00108Target00000>
+<Frame00108Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    933 285 12 11</Position></Frame00108Target00001>
+<Frame00109TargetNumber>2</Frame00109TargetNumber>
+<Frame00109Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    934 285 13 13</Position></Frame00109Target00000>
+<Frame00109Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    908 319 17 17</Position></Frame00109Target00001>
+<Frame00110TargetNumber>2</Frame00110TargetNumber>
+<Frame00110Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    910 319 15 15</Position></Frame00110Target00000>
+<Frame00110Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    934 283 14 13</Position></Frame00110Target00001>
+<Frame00111TargetNumber>2</Frame00111TargetNumber>
+<Frame00111Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    936 281 13 17</Position></Frame00111Target00000>
+<Frame00111Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    910 318 16 18</Position></Frame00111Target00001>
+<Frame00112TargetNumber>3</Frame00112TargetNumber>
+<Frame00112Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    912 319 14 17</Position></Frame00112Target00000>
+<Frame00112Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    936 281 14 15</Position></Frame00112Target00001>
+<Frame00112Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    493 275 12 14</Position></Frame00112Target00002>
+<Frame00113TargetNumber>3</Frame00113TargetNumber>
+<Frame00113Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    492 275 12 14</Position></Frame00113Target00000>
+<Frame00113Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    937 283 13 12</Position></Frame00113Target00001>
+<Frame00113Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    911 320 17 19</Position></Frame00113Target00002>
+<Frame00114TargetNumber>3</Frame00114TargetNumber>
+<Frame00114Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    910 321 19 18</Position></Frame00114Target00000>
+<Frame00114Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    939 285 13 14</Position></Frame00114Target00001>
+<Frame00114Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    491 279 13 10</Position></Frame00114Target00002>
+<Frame00115TargetNumber>3</Frame00115TargetNumber>
+<Frame00115Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    488 277 15 15</Position></Frame00115Target00000>
+<Frame00115Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    936 283 19 17</Position></Frame00115Target00001>
+<Frame00115Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    911 322 17 17</Position></Frame00115Target00002>
+<Frame00116TargetNumber>3</Frame00116TargetNumber>
+<Frame00116Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    912 321 19 20</Position></Frame00116Target00000>
+<Frame00116Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    938 285 16 14</Position></Frame00116Target00001>
+<Frame00116Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    487 276 16 16</Position></Frame00116Target00002>
+<Frame00117TargetNumber>3</Frame00117TargetNumber>
+<Frame00117Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    487 278 14 16</Position></Frame00117Target00000>
+<Frame00117Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    941 286 12 14</Position></Frame00117Target00001>
+<Frame00117Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    914 323 16 16</Position></Frame00117Target00002>
+<Frame00118TargetNumber>3</Frame00118TargetNumber>
+<Frame00118Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    912 322 20 21</Position></Frame00118Target00000>
+<Frame00118Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    940 287 13 14</Position></Frame00118Target00001>
+<Frame00118Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    487 277 14 15</Position></Frame00118Target00002>
+<Frame00119TargetNumber>3</Frame00119TargetNumber>
+<Frame00119Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    484 278 18 16</Position></Frame00119Target00000>
+<Frame00119Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    942 288 15 15</Position></Frame00119Target00001>
+<Frame00119Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    913 323 17 17</Position></Frame00119Target00002>
+<Frame00120TargetNumber>3</Frame00120TargetNumber>
+<Frame00120Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    914 326 17 16</Position></Frame00120Target00000>
+<Frame00120Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    942 287 13 14</Position></Frame00120Target00001>
+<Frame00120Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    484 280 16 15</Position></Frame00120Target00002>
+<Frame00121TargetNumber>3</Frame00121TargetNumber>
+<Frame00121Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    483 277 15 18</Position></Frame00121Target00000>
+<Frame00121Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    944 289 14 13</Position></Frame00121Target00001>
+<Frame00121Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    915 324 18 19</Position></Frame00121Target00002>
+<Frame00122TargetNumber>3</Frame00122TargetNumber>
+<Frame00122Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    915 327 20 17</Position></Frame00122Target00000>
+<Frame00122Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    943 289 14 15</Position></Frame00122Target00001>
+<Frame00122Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    483 280 17 15</Position></Frame00122Target00002>
+<Frame00123TargetNumber>3</Frame00123TargetNumber>
+<Frame00123Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    483 282 13 15</Position></Frame00123Target00000>
+<Frame00123Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    944 289 14 14</Position></Frame00123Target00001>
+<Frame00123Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    916 329 19 18</Position></Frame00123Target00002>
+<Frame00124TargetNumber>3</Frame00124TargetNumber>
+<Frame00124Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    918 326 17 21</Position></Frame00124Target00000>
+<Frame00124Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    944 289 17 17</Position></Frame00124Target00001>
+<Frame00124Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    482 278 16 18</Position></Frame00124Target00002>
+<Frame00125TargetNumber>3</Frame00125TargetNumber>
+<Frame00125Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    481 280 18 17</Position></Frame00125Target00000>
+<Frame00125Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    946 287 16 15</Position></Frame00125Target00001>
+<Frame00125Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    918 325 20 19</Position></Frame00125Target00002>
+<Frame00126TargetNumber>3</Frame00126TargetNumber>
+<Frame00126Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    919 325 17 20</Position></Frame00126Target00000>
+<Frame00126Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    944 288 18 14</Position></Frame00126Target00001>
+<Frame00126Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    480 280 16 13</Position></Frame00126Target00002>
+<Frame00127TargetNumber>3</Frame00127TargetNumber>
+<Frame00127Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    480 278 14 16</Position></Frame00127Target00000>
+<Frame00127Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    946 286 17 18</Position></Frame00127Target00001>
+<Frame00127Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    919 325 18 21</Position></Frame00127Target00002>
+<Frame00128TargetNumber>3</Frame00128TargetNumber>
+<Frame00128Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    919 326 19 21</Position></Frame00128Target00000>
+<Frame00128Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    946 287 16 17</Position></Frame00128Target00001>
+<Frame00128Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    479 278 14 15</Position></Frame00128Target00002>
+<Frame00129TargetNumber>3</Frame00129TargetNumber>
+<Frame00129Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    477 279 17 17</Position></Frame00129Target00000>
+<Frame00129Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    948 288 15 14</Position></Frame00129Target00001>
+<Frame00129Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    919 328 19 16</Position></Frame00129Target00002>
+<Frame00130TargetNumber>3</Frame00130TargetNumber>
+<Frame00130Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    920 327 17 19</Position></Frame00130Target00000>
+<Frame00130Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    949 290 15 13</Position></Frame00130Target00001>
+<Frame00130Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    476 281 18 14</Position></Frame00130Target00002>
+<Frame00131TargetNumber>3</Frame00131TargetNumber>
+<Frame00131Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    476 278 16 19</Position></Frame00131Target00000>
+<Frame00131Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    948 292 17 16</Position></Frame00131Target00001>
+<Frame00131Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    921 330 18 20</Position></Frame00131Target00002>
+<Frame00132TargetNumber>3</Frame00132TargetNumber>
+<Frame00132Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    921 328 17 21</Position></Frame00132Target00000>
+<Frame00132Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    950 292 13 13</Position></Frame00132Target00001>
+<Frame00132Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    474 281 17 15</Position></Frame00132Target00002>
+<Frame00133TargetNumber>3</Frame00133TargetNumber>
+<Frame00133Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    474 281 15 16</Position></Frame00133Target00000>
+<Frame00133Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    949 289 20 19</Position></Frame00133Target00001>
+<Frame00133Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    920 326 20 21</Position></Frame00133Target00002>
+<Frame00134TargetNumber>3</Frame00134TargetNumber>
+<Frame00134Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    920 324 23 24</Position></Frame00134Target00000>
+<Frame00134Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    950 288 16 14</Position></Frame00134Target00001>
+<Frame00134Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    474 277 15 15</Position></Frame00134Target00002>
+<Frame00135TargetNumber>3</Frame00135TargetNumber>
+<Frame00135Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    473 276 15 16</Position></Frame00135Target00000>
+<Frame00135Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    949 287 22 16</Position></Frame00135Target00001>
+<Frame00135Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    923 325 19 19</Position></Frame00135Target00002>
+<Frame00136TargetNumber>3</Frame00136TargetNumber>
+<Frame00136Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    924 325 17 21</Position></Frame00136Target00000>
+<Frame00136Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    953 285 17 16</Position></Frame00136Target00001>
+<Frame00136Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    474 277 13 16</Position></Frame00136Target00002>
+<Frame00137TargetNumber>3</Frame00137TargetNumber>
+<Frame00137Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    474 275 14 15</Position></Frame00137Target00000>
+<Frame00137Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    952 284 18 17</Position></Frame00137Target00001>
+<Frame00137Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    925 326 19 19</Position></Frame00137Target00002>
+<Frame00138TargetNumber>3</Frame00138TargetNumber>
+<Frame00138Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    923 321 18 23</Position></Frame00138Target00000>
+<Frame00138Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    953 284 14 15</Position></Frame00138Target00001>
+<Frame00138Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    472 272 17 19</Position></Frame00138Target00002>
+<Frame00139TargetNumber>3</Frame00139TargetNumber>
+<Frame00139Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    469 273 18 16</Position></Frame00139Target00000>
+<Frame00139Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    952 282 18 15</Position></Frame00139Target00001>
+<Frame00139Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    924 322 17 21</Position></Frame00139Target00002>
+<Frame00140TargetNumber>3</Frame00140TargetNumber>
+<Frame00140Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    924 321 20 20</Position></Frame00140Target00000>
+<Frame00140Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    955 284 17 12</Position></Frame00140Target00001>
+<Frame00140Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    470 273 15 17</Position></Frame00140Target00002>
+<Frame00141TargetNumber>3</Frame00141TargetNumber>
+<Frame00141Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    470 274 16 14</Position></Frame00141Target00000>
+<Frame00141Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    955 283 18 14</Position></Frame00141Target00001>
+<Frame00141Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    924 324 20 18</Position></Frame00141Target00002>
+<Frame00142TargetNumber>3</Frame00142TargetNumber>
+<Frame00142Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    926 320 18 22</Position></Frame00142Target00000>
+<Frame00142Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    955 283 16 15</Position></Frame00142Target00001>
+<Frame00142Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    467 272 20 17</Position></Frame00142Target00002>
+<Frame00143TargetNumber>3</Frame00143TargetNumber>
+<Frame00143Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    469 269 13 17</Position></Frame00143Target00000>
+<Frame00143Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    957 279 17 16</Position></Frame00143Target00001>
+<Frame00143Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    926 320 18 20</Position></Frame00143Target00002>
+<Frame00144TargetNumber>3</Frame00144TargetNumber>
+<Frame00144Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    927 319 17 20</Position></Frame00144Target00000>
+<Frame00144Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    955 279 18 14</Position></Frame00144Target00001>
+<Frame00144Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    470 268 16 15</Position></Frame00144Target00002>
+<Frame00145TargetNumber>3</Frame00145TargetNumber>
+<Frame00145Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    468 268 16 16</Position></Frame00145Target00000>
+<Frame00145Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    957 278 17 15</Position></Frame00145Target00001>
+<Frame00145Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    927 319 19 20</Position></Frame00145Target00002>
+<Frame00146TargetNumber>3</Frame00146TargetNumber>
+<Frame00146Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    927 319 18 20</Position></Frame00146Target00000>
+<Frame00146Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    960 278 13 14</Position></Frame00146Target00001>
+<Frame00146Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    468 268 15 15</Position></Frame00146Target00002>
+<Frame00147TargetNumber>3</Frame00147TargetNumber>
+<Frame00147Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    467 269 12 12</Position></Frame00147Target00000>
+<Frame00147Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    958 276 15 16</Position></Frame00147Target00001>
+<Frame00147Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    927 318 18 19</Position></Frame00147Target00002>
+<Frame00148TargetNumber>3</Frame00148TargetNumber>
+<Frame00148Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    926 317 19 20</Position></Frame00148Target00000>
+<Frame00148Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    958 277 13 15</Position></Frame00148Target00001>
+<Frame00148Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    465 266 15 17</Position></Frame00148Target00002>
+<Frame00149TargetNumber>3</Frame00149TargetNumber>
+<Frame00149Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    466 267 15 12</Position></Frame00149Target00000>
+<Frame00149Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    961 277 13 14</Position></Frame00149Target00001>
+<Frame00149Target00002>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    928 316 19 20</Position></Frame00149Target00002>
+<Frame00150TargetNumber>3</Frame00150TargetNumber>
+<Frame00150Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    930 316 18 21</Position></Frame00150Target00000>
+<Frame00150Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    960 276 17 16</Position></Frame00150Target00001>
+<Frame00150Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    465 265 18 16</Position></Frame00150Target00002>
+</opencv_storage>

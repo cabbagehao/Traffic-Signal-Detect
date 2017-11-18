@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>28</FrameNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    7 257 20 18</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    7 275 20 14</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    29 272 13 12</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    26 258 15 13</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    46 257 14 17</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    45 274 14 14</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    64 275 17 14</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    65 261 18 15</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    86 260 15 17</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    88 276 15 16</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    111 275 15 16</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    113 264 13 12</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    138 259 19 11</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    139 271 13 18</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    168 268 11 15</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    165 251 16 15</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    194 244 14 17</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    196 261 13 15</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    220 241 19 14</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    223 256 15 13</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    251 255 15 15</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    247 241 23 15</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    276 241 20 13</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    281 254 13 19</Position></Frame00011Target00001>
+<Frame00012TargetNumber>3</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    310 251 15 15</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    308 234 22 17</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    308 234 22 17</Position></Frame00012Target00002>
+<Frame00013TargetNumber>2</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    337 236 23 16</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    339 254 17 17</Position></Frame00013Target00001>
+<Frame00014TargetNumber>2</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    368 253 21 17</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    369 237 16 17</Position></Frame00014Target00001>
+<Frame00015TargetNumber>2</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    398 233 24 17</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    402 249 20 18</Position></Frame00015Target00001>
+<Frame00016TargetNumber>2</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    438 244 16 19</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    434 227 24 21</Position></Frame00016Target00001>
+<Frame00017TargetNumber>2</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    471 230 14 15</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    470 244 18 16</Position></Frame00017Target00001>
+<Frame00018TargetNumber>2</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    506 243 18 16</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    503 229 18 13</Position></Frame00018Target00001>
+<Frame00019TargetNumber>2</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    543 224 12 15</Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    541 240 19 19</Position></Frame00019Target00001>
+<Frame00020TargetNumber>2</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    580 232 15 21</Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    579 217 20 20</Position></Frame00020Target00001>
+<Frame00021TargetNumber>2</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    618 213 15 15</Position></Frame00021Target00000>
+<Frame00021Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    617 229 19 18</Position></Frame00021Target00001>
+<Frame00022TargetNumber>2</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    655 228 19 15</Position></Frame00022Target00000>
+<Frame00022Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    655 211 19 17</Position></Frame00022Target00001>
+<Frame00023TargetNumber>2</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    697 202 19 17</Position></Frame00023Target00000>
+<Frame00023Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    697 220 17 17</Position></Frame00023Target00001>
+<Frame00024TargetNumber>2</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    738 210 16 22</Position></Frame00024Target00000>
+<Frame00024Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    737 193 17 21</Position></Frame00024Target00001>
+<Frame00025TargetNumber>2</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    777 190 23 20</Position></Frame00025Target00000>
+<Frame00025Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    780 211 18 19</Position></Frame00025Target00001>
+<Frame00026TargetNumber>2</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    826 209 19 20</Position></Frame00026Target00000>
+<Frame00026Target00001>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    826 191 16 16</Position></Frame00026Target00001>
+<Frame00027TargetNumber>2</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"左转箭头绿灯"</Type>
+  <Position>
+    871 189 20 20</Position></Frame00027Target00000>
+<Frame00027Target00001>
+  <Type>"直行箭头绿灯"</Type>
+  <Position>
+    871 207 23 20</Position></Frame00027Target00001>
+</opencv_storage>

@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>19</FrameNumber>
+<Frame00000TargetNumber>3</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    788 245 29 28</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    822 244 28 27</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    871 367 34 32</Position></Frame00000Target00002>
+<Frame00001TargetNumber>3</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    878 366 35 35</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    829 241 28 29</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    794 242 29 29</Position></Frame00001Target00002>
+<Frame00002TargetNumber>3</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    802 239 30 27</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    837 237 27 29</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    889 366 35 37</Position></Frame00002Target00002>
+<Frame00003TargetNumber>3</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    899 359 32 35</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    842 226 34 30</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    807 228 33 27</Position></Frame00003Target00002>
+<Frame00004TargetNumber>3</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    814 221 33 29</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    852 220 34 31</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    907 358 41 39</Position></Frame00004Target00002>
+<Frame00005TargetNumber>3</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    920 360 40 42</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    863 220 33 31</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    824 221 31 31</Position></Frame00005Target00002>
+<Frame00006TargetNumber>3</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    833 215 35 33</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    872 214 35 33</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    931 363 43 39</Position></Frame00006Target00002>
+<Frame00007TargetNumber>3</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    944 360 42 43</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    881 208 36 32</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    842 205 35 36</Position></Frame00007Target00002>
+<Frame00008TargetNumber>3</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    850 199 38 34</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    893 198 36 37</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    958 358 48 44</Position></Frame00008Target00002>
+<Frame00009TargetNumber>3</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    972 353 47 47</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    903 189 39 37</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    859 189 40 35</Position></Frame00009Target00002>
+<Frame00010TargetNumber>3</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    871 173 38 38</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    917 174 40 37</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    988 345 49 46</Position></Frame00010Target00002>
+<Frame00011TargetNumber>3</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    1007 336 50 49</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    928 157 42 39</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    882 157 40 37</Position></Frame00011Target00002>
+<Frame00012TargetNumber>3</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    892 145 44 43</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    941 147 45 40</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    1025 336 52 49</Position></Frame00012Target00002>
+<Frame00013TargetNumber>3</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    1047 332 54 53</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    957 134 46 45</Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    904 135 46 42</Position></Frame00013Target00002>
+<Frame00014TargetNumber>3</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    917 125 49 45</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    973 130 47 38</Position></Frame00014Target00001>
+<Frame00014Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    1068 330 59 59</Position></Frame00014Target00002>
+<Frame00015TargetNumber>3</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    933 114 52 47</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    992 115 50 46</Position></Frame00015Target00001>
+<Frame00015Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    1095 335 59 59</Position></Frame00015Target00002>
+<Frame00016TargetNumber>3</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    1122 330 64 64</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    1010 99 58 51</Position></Frame00016Target00001>
+<Frame00016Target00002>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    951 100 54 50</Position></Frame00016Target00002>
+<Frame00017TargetNumber>3</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    970 79 57 53</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    1036 79 58 54</Position></Frame00017Target00001>
+<Frame00017Target00002>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    1157 322 64 69</Position></Frame00017Target00002>
+<Frame00018TargetNumber>3</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"警1-T型交叉左"</Type>
+  <Position>
+    1193 313 70 76</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"警4-连续弯路"</Type>
+  <Position>
+    1062 59 60 56</Position></Frame00018Target00001>
+<Frame00018Target00002>
+  <Type>"警5-上陡坡"</Type>
+  <Position>
+    993 59 59 56</Position></Frame00018Target00002>
+</opencv_storage>

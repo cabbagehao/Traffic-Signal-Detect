@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>12</FrameNumber>
+<Frame00000TargetNumber>1</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    538 281 57 51</Position></Frame00000Target00000>
+<Frame00001TargetNumber>1</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    521 281 55 48</Position></Frame00001Target00000>
+<Frame00002TargetNumber>1</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    497 275 68 56</Position></Frame00002Target00000>
+<Frame00003TargetNumber>1</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    473 261 65 60</Position></Frame00003Target00000>
+<Frame00004TargetNumber>1</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    431 246 90 69</Position></Frame00004Target00000>
+<Frame00005TargetNumber>1</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    392 226 96 84</Position></Frame00005Target00000>
+<Frame00006TargetNumber>1</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    345 210 106 102</Position></Frame00006Target00000>
+<Frame00007TargetNumber>1</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    282 184 128 108</Position></Frame00007Target00000>
+<Frame00008TargetNumber>1</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    206 152 143 127</Position></Frame00008Target00000>
+<Frame00009TargetNumber>1</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    97 110 176 149</Position></Frame00009Target00000>
+<Frame00010TargetNumber>1</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"警10-注意行人"</Type>
+  <Position>
+    4 53 150 191</Position></Frame00010Target00000>
+<Frame00011TargetNumber>0</Frame00011TargetNumber>
+</opencv_storage>

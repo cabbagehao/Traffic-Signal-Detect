@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>26</FrameNumber>
+<Frame00000TargetNumber>0</Frame00000TargetNumber>
+<Frame00001TargetNumber>0</Frame00001TargetNumber>
+<Frame00002TargetNumber>0</Frame00002TargetNumber>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    162 362 39 33</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    628 362 18 15</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    696 356 13 16</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    219 363 41 27</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    276 358 42 30</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    762 356 22 14</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    831 348 17 20</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    332 355 37 30</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    376 348 38 31</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    890 347 19 20</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    936 347 18 17</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    404 345 40 30</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    413 339 42 33</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    962 345 20 19</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    983 344 20 19</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    413 336 45 36</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    411 332 48 37</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1001 342 22 21</Position></Frame00011Target00001>
+<Frame00012TargetNumber>2</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1022 340 25 18</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    410 329 49 37</Position></Frame00012Target00001>
+<Frame00013TargetNumber>2</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    409 325 49 38</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1041 334 23 23</Position></Frame00013Target00001>
+<Frame00014TargetNumber>2</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1062 336 20 22</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    400 320 53 45</Position></Frame00014Target00001>
+<Frame00015TargetNumber>2</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    390 317 57 44</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1075 335 30 23</Position></Frame00015Target00001>
+<Frame00016TargetNumber>2</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1089 331 25 23</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    373 307 57 52</Position></Frame00016Target00001>
+<Frame00017TargetNumber>2</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    351 305 60 49</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1100 325 30 24</Position></Frame00017Target00001>
+<Frame00018TargetNumber>2</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1113 328 28 26</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    330 307 65 49</Position></Frame00018Target00001>
+<Frame00019TargetNumber>2</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    295 295 69 59</Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1122 324 28 26</Position></Frame00019Target00001>
+<Frame00020TargetNumber>2</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1136 325 24 23</Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    263 293 78 54</Position></Frame00020Target00001>
+<Frame00021TargetNumber>2</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    230 280 73 70</Position></Frame00021Target00000>
+<Frame00021Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1144 325 27 25</Position></Frame00021Target00001>
+<Frame00022TargetNumber>2</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1157 320 29 29</Position></Frame00022Target00000>
+<Frame00022Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    180 277 84 70</Position></Frame00022Target00001>
+<Frame00023TargetNumber>2</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    135 263 79 77</Position></Frame00023Target00000>
+<Frame00023Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1170 318 28 26</Position></Frame00023Target00001>
+<Frame00024TargetNumber>2</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1180 311 33 26</Position></Frame00024Target00000>
+<Frame00024Target00001>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    67 253 97 79</Position></Frame00024Target00001>
+<Frame00025TargetNumber>2</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"警7-左侧变窄"</Type>
+  <Position>
+    1 239 96 84</Position></Frame00025Target00000>
+<Frame00025Target00001>
+  <Type>"禁38-限制速度"</Type>
+  <Position>
+    1200 311 30 27</Position></Frame00025Target00001>
+</opencv_storage>

@@ -1,0 +1,708 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>60</FrameNumber>
+<Frame00000TargetNumber>3</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    698 338 8 10</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    731 342 7 6</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    763 342 6 9</Position></Frame00000Target00002>
+<Frame00001TargetNumber>3</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    755 338 8 9</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    723 334 8 10</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    689 334 9 9</Position></Frame00001Target00002>
+<Frame00002TargetNumber>3</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    681 332 10 14</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    714 334 12 8</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    747 334 13 12</Position></Frame00002Target00002>
+<Frame00003TargetNumber>3</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    720 325 10 12</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    754 326 10 12</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    787 327 11 13</Position></Frame00003Target00002>
+<Frame00004TargetNumber>3</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    763 319 11 11</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    798 320 11 11</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    832 320 12 9</Position></Frame00004Target00002>
+<Frame00005TargetNumber>3</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    790 323 12 9</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    824 323 15 12</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    862 323 11 11</Position></Frame00005Target00002>
+<Frame00006TargetNumber>3</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    807 326 10 12</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    841 326 13 13</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    877 330 9 8</Position></Frame00006Target00002>
+<Frame00007TargetNumber>3</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    879 324 11 11</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    808 324 9 9</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    844 324 9 8</Position></Frame00007Target00002>
+<Frame00008TargetNumber>3</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    807 323 8 8</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    841 323 13 10</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    880 323 7 12</Position></Frame00008Target00002>
+<Frame00009TargetNumber>3</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    876 322 11 10</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    839 322 11 8</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    804 321 9 9</Position></Frame00009Target00002>
+<Frame00010TargetNumber>3</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    875 312 9 9</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    797 310 9 10</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    836 312 7 6</Position></Frame00010Target00002>
+<Frame00011TargetNumber>3</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    869 306 10 8</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    833 306 8 8</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    793 305 7 8</Position></Frame00011Target00002>
+<Frame00012TargetNumber>3</Frame00012TargetNumber>
+<Frame00012Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    869 307 8 10</Position></Frame00012Target00000>
+<Frame00012Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    829 303 8 12</Position></Frame00012Target00001>
+<Frame00012Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    789 305 8 8</Position></Frame00012Target00002>
+<Frame00013TargetNumber>3</Frame00013TargetNumber>
+<Frame00013Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    865 306 8 8</Position></Frame00013Target00000>
+<Frame00013Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    825 304 10 11</Position></Frame00013Target00001>
+<Frame00013Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    785 305 9 8</Position></Frame00013Target00002>
+<Frame00014TargetNumber>3</Frame00014TargetNumber>
+<Frame00014Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    862 300 8 12</Position></Frame00014Target00000>
+<Frame00014Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    819 301 12 7</Position></Frame00014Target00001>
+<Frame00014Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    780 298 7 14</Position></Frame00014Target00002>
+<Frame00015TargetNumber>3</Frame00015TargetNumber>
+<Frame00015Target00000>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    775 296 11 11</Position></Frame00015Target00000>
+<Frame00015Target00001>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    817 294 11 14</Position></Frame00015Target00001>
+<Frame00015Target00002>
+  <Type>"圆形黄灯"</Type>
+  <Position>
+    858 296 9 11</Position></Frame00015Target00002>
+<Frame00016TargetNumber>2</Frame00016TargetNumber>
+<Frame00016Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    859 290 10 11</Position></Frame00016Target00000>
+<Frame00016Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    817 289 9 11</Position></Frame00016Target00001>
+<Frame00017TargetNumber>2</Frame00017TargetNumber>
+<Frame00017Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    814 286 16 12</Position></Frame00017Target00000>
+<Frame00017Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    859 287 10 13</Position></Frame00017Target00001>
+<Frame00018TargetNumber>2</Frame00018TargetNumber>
+<Frame00018Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    864 289 9 13</Position></Frame00018Target00000>
+<Frame00018Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    820 288 11 10</Position></Frame00018Target00001>
+<Frame00019TargetNumber>2</Frame00019TargetNumber>
+<Frame00019Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    825 293 13 8</Position></Frame00019Target00000>
+<Frame00019Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    869 291 11 13</Position></Frame00019Target00001>
+<Frame00020TargetNumber>2</Frame00020TargetNumber>
+<Frame00020Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    832 296 11 10</Position></Frame00020Target00000>
+<Frame00020Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    877 298 9 12</Position></Frame00020Target00001>
+<Frame00021TargetNumber>2</Frame00021TargetNumber>
+<Frame00021Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    839 297 12 9</Position></Frame00021Target00000>
+<Frame00021Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    883 297 11 14</Position></Frame00021Target00001>
+<Frame00022TargetNumber>3</Frame00022TargetNumber>
+<Frame00022Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    843 299 12 11</Position></Frame00022Target00000>
+<Frame00022Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    891 301 9 9</Position></Frame00022Target00001>
+<Frame00022Target00002>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    891 301 9 9</Position></Frame00022Target00002>
+<Frame00023TargetNumber>2</Frame00023TargetNumber>
+<Frame00023Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    851 298 11 9</Position></Frame00023Target00000>
+<Frame00023Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    897 301 10 8</Position></Frame00023Target00001>
+<Frame00024TargetNumber>2</Frame00024TargetNumber>
+<Frame00024Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    858 302 9 7</Position></Frame00024Target00000>
+<Frame00024Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    905 303 8 8</Position></Frame00024Target00001>
+<Frame00025TargetNumber>2</Frame00025TargetNumber>
+<Frame00025Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    859 307 9 10</Position></Frame00025Target00000>
+<Frame00025Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    904 308 11 9</Position></Frame00025Target00001>
+<Frame00026TargetNumber>2</Frame00026TargetNumber>
+<Frame00026Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    859 306 9 11</Position></Frame00026Target00000>
+<Frame00026Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    905 307 11 12</Position></Frame00026Target00001>
+<Frame00027TargetNumber>2</Frame00027TargetNumber>
+<Frame00027Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    857 312 9 10</Position></Frame00027Target00000>
+<Frame00027Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    908 313 9 10</Position></Frame00027Target00001>
+<Frame00028TargetNumber>2</Frame00028TargetNumber>
+<Frame00028Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    856 314 11 11</Position></Frame00028Target00000>
+<Frame00028Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    903 315 14 9</Position></Frame00028Target00001>
+<Frame00029TargetNumber>2</Frame00029TargetNumber>
+<Frame00029Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    856 305 9 13</Position></Frame00029Target00000>
+<Frame00029Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    905 305 11 11</Position></Frame00029Target00001>
+<Frame00030TargetNumber>2</Frame00030TargetNumber>
+<Frame00030Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    856 288 14 13</Position></Frame00030Target00000>
+<Frame00030Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    908 290 9 12</Position></Frame00030Target00001>
+<Frame00031TargetNumber>2</Frame00031TargetNumber>
+<Frame00031Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    863 274 10 10</Position></Frame00031Target00000>
+<Frame00031Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    914 276 7 11</Position></Frame00031Target00001>
+<Frame00032TargetNumber>2</Frame00032TargetNumber>
+<Frame00032Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    865 275 11 14</Position></Frame00032Target00000>
+<Frame00032Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    917 277 11 10</Position></Frame00032Target00001>
+<Frame00033TargetNumber>2</Frame00033TargetNumber>
+<Frame00033Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    872 277 8 12</Position></Frame00033Target00000>
+<Frame00033Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    923 278 10 9</Position></Frame00033Target00001>
+<Frame00034TargetNumber>2</Frame00034TargetNumber>
+<Frame00034Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    876 282 9 10</Position></Frame00034Target00000>
+<Frame00034Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    929 281 8 13</Position></Frame00034Target00001>
+<Frame00035TargetNumber>2</Frame00035TargetNumber>
+<Frame00035Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    931 278 10 14</Position></Frame00035Target00000>
+<Frame00035Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    877 277 12 10</Position></Frame00035Target00001>
+<Frame00036TargetNumber>3</Frame00036TargetNumber>
+<Frame00036Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    830 299 11 11</Position></Frame00036Target00000>
+<Frame00036Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    883 299 12 13</Position></Frame00036Target00001>
+<Frame00036Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    938 301 11 16</Position></Frame00036Target00002>
+<Frame00037TargetNumber>3</Frame00037TargetNumber>
+<Frame00037Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    805 301 14 12</Position></Frame00037Target00000>
+<Frame00037Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    862 303 10 12</Position></Frame00037Target00001>
+<Frame00037Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    915 308 14 11</Position></Frame00037Target00002>
+<Frame00038TargetNumber>3</Frame00038TargetNumber>
+<Frame00038Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    795 294 12 11</Position></Frame00038Target00000>
+<Frame00038Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    850 296 15 15</Position></Frame00038Target00001>
+<Frame00038Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    908 299 11 13</Position></Frame00038Target00002>
+<Frame00039TargetNumber>3</Frame00039TargetNumber>
+<Frame00039Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    793 290 14 14</Position></Frame00039Target00000>
+<Frame00039Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    854 292 11 15</Position></Frame00039Target00001>
+<Frame00039Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    911 297 11 11</Position></Frame00039Target00002>
+<Frame00040TargetNumber>3</Frame00040TargetNumber>
+<Frame00040Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    782 278 11 13</Position></Frame00040Target00000>
+<Frame00040Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    839 280 13 14</Position></Frame00040Target00001>
+<Frame00040Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    896 283 17 17</Position></Frame00040Target00002>
+<Frame00041TargetNumber>3</Frame00041TargetNumber>
+<Frame00041Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    748 280 13 13</Position></Frame00041Target00000>
+<Frame00041Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    809 284 10 11</Position></Frame00041Target00001>
+<Frame00041Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    866 287 16 10</Position></Frame00041Target00002>
+<Frame00042TargetNumber>3</Frame00042TargetNumber>
+<Frame00042Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    733 274 14 13</Position></Frame00042Target00000>
+<Frame00042Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    795 275 13 13</Position></Frame00042Target00001>
+<Frame00042Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    857 277 16 15</Position></Frame00042Target00002>
+<Frame00043TargetNumber>3</Frame00043TargetNumber>
+<Frame00043Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    741 251 16 16</Position></Frame00043Target00000>
+<Frame00043Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    806 256 10 13</Position></Frame00043Target00001>
+<Frame00043Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    871 258 14 11</Position></Frame00043Target00002>
+<Frame00044TargetNumber>3</Frame00044TargetNumber>
+<Frame00044Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    737 256 12 11</Position></Frame00044Target00000>
+<Frame00044Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    801 258 16 13</Position></Frame00044Target00001>
+<Frame00044Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    871 261 11 13</Position></Frame00044Target00002>
+<Frame00045TargetNumber>3</Frame00045TargetNumber>
+<Frame00045Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    736 253 15 11</Position></Frame00045Target00000>
+<Frame00045Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    804 256 10 13</Position></Frame00045Target00001>
+<Frame00045Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    872 259 14 12</Position></Frame00045Target00002>
+<Frame00046TargetNumber>3</Frame00046TargetNumber>
+<Frame00046Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    728 262 16 18</Position></Frame00046Target00000>
+<Frame00046Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    800 265 13 14</Position></Frame00046Target00001>
+<Frame00046Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    870 267 13 15</Position></Frame00046Target00002>
+<Frame00047TargetNumber>3</Frame00047TargetNumber>
+<Frame00047Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    726 268 14 13</Position></Frame00047Target00000>
+<Frame00047Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    796 269 18 17</Position></Frame00047Target00001>
+<Frame00047Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    869 274 13 15</Position></Frame00047Target00002>
+<Frame00048TargetNumber>3</Frame00048TargetNumber>
+<Frame00048Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    715 277 16 15</Position></Frame00048Target00000>
+<Frame00048Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    788 280 14 18</Position></Frame00048Target00001>
+<Frame00048Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    859 285 16 17</Position></Frame00048Target00002>
+<Frame00049TargetNumber>3</Frame00049TargetNumber>
+<Frame00049Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    705 275 14 18</Position></Frame00049Target00000>
+<Frame00049Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    779 280 14 15</Position></Frame00049Target00001>
+<Frame00049Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    852 288 18 12</Position></Frame00049Target00002>
+<Frame00050TargetNumber>3</Frame00050TargetNumber>
+<Frame00050Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    689 259 16 23</Position></Frame00050Target00000>
+<Frame00050Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    766 265 15 16</Position></Frame00050Target00001>
+<Frame00050Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    839 272 17 13</Position></Frame00050Target00002>
+<Frame00051TargetNumber>3</Frame00051TargetNumber>
+<Frame00051Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    672 262 16 18</Position></Frame00051Target00000>
+<Frame00051Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    746 267 19 14</Position></Frame00051Target00001>
+<Frame00051Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    827 272 14 15</Position></Frame00051Target00002>
+<Frame00052TargetNumber>3</Frame00052TargetNumber>
+<Frame00052Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    646 278 18 15</Position></Frame00052Target00000>
+<Frame00052Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    726 280 16 17</Position></Frame00052Target00001>
+<Frame00052Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    805 287 16 16</Position></Frame00052Target00002>
+<Frame00053TargetNumber>3</Frame00053TargetNumber>
+<Frame00053Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    632 284 17 13</Position></Frame00053Target00000>
+<Frame00053Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    715 286 16 15</Position></Frame00053Target00001>
+<Frame00053Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    795 294 16 11</Position></Frame00053Target00002>
+<Frame00054TargetNumber>3</Frame00054TargetNumber>
+<Frame00054Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    617 263 18 20</Position></Frame00054Target00000>
+<Frame00054Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    699 268 19 18</Position></Frame00054Target00001>
+<Frame00054Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    786 272 16 16</Position></Frame00054Target00002>
+<Frame00055TargetNumber>3</Frame00055TargetNumber>
+<Frame00055Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    608 245 18 18</Position></Frame00055Target00000>
+<Frame00055Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    690 248 20 18</Position></Frame00055Target00001>
+<Frame00055Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    779 253 18 19</Position></Frame00055Target00002>
+<Frame00056TargetNumber>3</Frame00056TargetNumber>
+<Frame00056Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    603 235 21 21</Position></Frame00056Target00000>
+<Frame00056Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    691 237 22 18</Position></Frame00056Target00001>
+<Frame00056Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    784 242 15 18</Position></Frame00056Target00002>
+<Frame00057TargetNumber>3</Frame00057TargetNumber>
+<Frame00057Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    605 223 18 15</Position></Frame00057Target00000>
+<Frame00057Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    695 226 16 15</Position></Frame00057Target00001>
+<Frame00057Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    787 231 16 14</Position></Frame00057Target00002>
+<Frame00058TargetNumber>3</Frame00058TargetNumber>
+<Frame00058Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    612 214 15 15</Position></Frame00058Target00000>
+<Frame00058Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    704 213 16 18</Position></Frame00058Target00001>
+<Frame00058Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    802 221 14 12</Position></Frame00058Target00002>
+<Frame00059TargetNumber>3</Frame00059TargetNumber>
+<Frame00059Target00000>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    620 209 18 16</Position></Frame00059Target00000>
+<Frame00059Target00001>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    721 211 17 18</Position></Frame00059Target00001>
+<Frame00059Target00002>
+  <Type>"圆形绿灯"</Type>
+  <Position>
+    817 214 15 20</Position></Frame00059Target00002>
+</opencv_storage>

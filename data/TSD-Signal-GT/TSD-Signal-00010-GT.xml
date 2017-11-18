@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<FrameNumber>12</FrameNumber>
+<Frame00000TargetNumber>4</Frame00000TargetNumber>
+<Frame00000Target00000>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    586 242 25 41</Position></Frame00000Target00000>
+<Frame00000Target00001>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    586 188 29 43</Position></Frame00000Target00001>
+<Frame00000Target00002>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    218 41 21 22</Position></Frame00000Target00002>
+<Frame00000Target00003>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    349 62 20 23</Position></Frame00000Target00003>
+<Frame00001TargetNumber>4</Frame00001TargetNumber>
+<Frame00001Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    256 41 24 23</Position></Frame00001Target00000>
+<Frame00001Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    390 59 21 27</Position></Frame00001Target00001>
+<Frame00001Target00002>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    635 190 25 40</Position></Frame00001Target00002>
+<Frame00001Target00003>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    632 246 27 40</Position></Frame00001Target00003>
+<Frame00002TargetNumber>4</Frame00002TargetNumber>
+<Frame00002Target00000>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    680 245 26 42</Position></Frame00002Target00000>
+<Frame00002Target00001>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    681 189 30 43</Position></Frame00002Target00001>
+<Frame00002Target00002>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    438 61 16 21</Position></Frame00002Target00002>
+<Frame00002Target00003>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    297 35 21 22</Position></Frame00002Target00003>
+<Frame00003TargetNumber>4</Frame00003TargetNumber>
+<Frame00003Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    339 25 19 24</Position></Frame00003Target00000>
+<Frame00003Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    480 53 19 21</Position></Frame00003Target00001>
+<Frame00003Target00002>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    732 182 28 43</Position></Frame00003Target00002>
+<Frame00003Target00003>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    727 237 30 48</Position></Frame00003Target00003>
+<Frame00004TargetNumber>4</Frame00004TargetNumber>
+<Frame00004Target00000>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    780 240 28 44</Position></Frame00004Target00000>
+<Frame00004Target00001>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    783 180 29 44</Position></Frame00004Target00001>
+<Frame00004Target00002>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    523 43 20 26</Position></Frame00004Target00002>
+<Frame00004Target00003>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    378 17 21 25</Position></Frame00004Target00003>
+<Frame00005TargetNumber>4</Frame00005TargetNumber>
+<Frame00005Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    422 12 24 25</Position></Frame00005Target00000>
+<Frame00005Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    570 37 23 27</Position></Frame00005Target00001>
+<Frame00005Target00002>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    835 174 28 51</Position></Frame00005Target00002>
+<Frame00005Target00003>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    832 234 29 47</Position></Frame00005Target00003>
+<Frame00006TargetNumber>4</Frame00006TargetNumber>
+<Frame00006Target00000>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    888 236 30 46</Position></Frame00006Target00000>
+<Frame00006Target00001>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    889 173 32 47</Position></Frame00006Target00001>
+<Frame00006Target00002>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    619 33 22 23</Position></Frame00006Target00002>
+<Frame00006Target00003>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    468 5 23 24</Position></Frame00006Target00003>
+<Frame00007TargetNumber>4</Frame00007TargetNumber>
+<Frame00007Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    516 1 21 24</Position></Frame00007Target00000>
+<Frame00007Target00001>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    667 25 23 26</Position></Frame00007Target00001>
+<Frame00007Target00002>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    947 170 34 51</Position></Frame00007Target00002>
+<Frame00007Target00003>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    943 233 33 51</Position></Frame00007Target00003>
+<Frame00008TargetNumber>4</Frame00008TargetNumber>
+<Frame00008Target00000>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    1004 233 32 49</Position></Frame00008Target00000>
+<Frame00008Target00001>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    1007 165 33 53</Position></Frame00008Target00001>
+<Frame00008Target00002>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    714 18 27 24</Position></Frame00008Target00002>
+<Frame00008Target00003>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    559 0 18 16</Position></Frame00008Target00003>
+<Frame00009TargetNumber>3</Frame00009TargetNumber>
+<Frame00009Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    770 15 19 23</Position></Frame00009Target00000>
+<Frame00009Target00001>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    1067 164 33 56</Position></Frame00009Target00001>
+<Frame00009Target00002>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    1061 234 35 52</Position></Frame00009Target00002>
+<Frame00010TargetNumber>3</Frame00010TargetNumber>
+<Frame00010Target00000>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    1118 232 37 57</Position></Frame00010Target00000>
+<Frame00010Target00001>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    1124 163 38 55</Position></Frame00010Target00001>
+<Frame00010Target00002>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    812 6 26 27</Position></Frame00010Target00002>
+<Frame00011TargetNumber>3</Frame00011TargetNumber>
+<Frame00011Target00000>
+  <Type>"圆形红灯"</Type>
+  <Position>
+    862 4 24 21</Position></Frame00011Target00000>
+<Frame00011Target00001>
+  <Type>"禁9-禁止大型客车驶入"</Type>
+  <Position>
+    1183 157 39 60</Position></Frame00011Target00001>
+<Frame00011Target00002>
+  <Type>"禁7-禁止载货汽车驶入"</Type>
+  <Position>
+    1179 232 37 60</Position></Frame00011Target00002>
+</opencv_storage>
