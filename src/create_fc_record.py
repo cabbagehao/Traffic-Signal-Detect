@@ -205,7 +205,7 @@ def main():
     random.seed(42)
     random.shuffle(examples_list)
     num_examples = len(examples_list)
-    num_train = int(0.7 * num_examples)
+    num_train = int(0.9 * num_examples)
     train_examples = examples_list[:num_train]
     val_examples = examples_list[num_train:]
     print("train numbers: ", num_examples, " val numbers: ", len(val_examples))

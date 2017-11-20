@@ -128,7 +128,7 @@ output_dir = os.path.join(data_dir, '../output/test_result')
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
-pb_path = './model_pb/frozen_inference_graph.pb'
+pb_path = './model_pb/resnet_50_coco/frozen_inference_graph.pb'
 
 min_score = 0
 all_test_images=glob.glob(os.path.join(test_dir, '*/*.png'))
