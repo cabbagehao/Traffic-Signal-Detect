@@ -35,16 +35,16 @@ def get_info():
                         label_dict[label] = 0
                     label_dict[label] += 1
 
-    # # 处理数据集2
-    # for label_dir in os.listdir(TrafficNorm):
-    #     label = label_dir
-    #     img_dir = os.path.join(TrafficNorm, label_dir)
-    #     num = len(os.listdir(img_dir))
+    # 处理数据集2
+    for label_dir in os.listdir(TrafficNorm):
+        label = label_dir
+        img_dir = os.path.join(TrafficNorm, label_dir)
+        num = len(os.listdir(img_dir))
 
-    #     if not label in label_dict:
-    #         label_dict[label] = 0
-    #     label_dict[label] += num
-    #     picture_count += num
+        if not label in label_dict:
+            label_dict[label] = 0
+        label_dict[label] += num
+        picture_count += num
 
     return picture_count, label_dict, obj_per_frame
 
