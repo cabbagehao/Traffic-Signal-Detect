@@ -143,7 +143,7 @@ def main():
                             image = draw_box_and_text(image, box, label, pred, font_size, font)
                     
                     # 计算score, 保存预测失败的图片
-                    is_pass = score.update(image_name, targets)
+                    is_pass = score.update(image_name, img_dir, targets)
                     if not is_pass: # TODO : 真值 box和type写入
                         cv2.imwrite(os.path.join(fail_case_dir, image_name), image)
                     
@@ -155,10 +155,7 @@ def main():
                     # 填充xml数据
                     frame_id = image_name.split('-')[-1].replace('.png', '')
                     frames_dict[frame_id] = targets
-                    ii += 1
-                    if ii == 1:
-                        # return score
-                        break
+
 
                 # 生成xml文件 eg: TSD-Signal-00120-Result.xml
                 if is_gen_xml:
@@ -166,7 +163,6 @@ def main():
                     result_xml_name = group_dir + '-Result.xml'
                     result_xml_path = os.path.join(xml_result_dir, result_xml_name)
                     build_xml(result_xml_path, frames_dict)
-
     return score
 
 data_dir = '../data'
@@ -178,16 +174,16 @@ fail_case_dir = os.path.join(img_result_dir, 'FailedCase')
 xml_result_dir = os.path.join(output_dir, 'TSD-Signal-Result-Cargo')
 
 GT_xmls_dir = os.path.join(data_dir, 'TSD-Signal-GT') 
-pb_path = './model_pb/rfcn_resnet101/frozen_inference_graph.pb'
+pb_path = './model_pb/ssd_inception/frozen_inference_graph.pb'
 
 pred_threshold = 0.5
 # all_test_images=glob.glob(os.path.join(test_dir, '*/*.png'))
 # all_test_images.sort()
 
 # 是否生成带框的结果图片
-is_gen_img = False
+is_gen_img = True
 # 是否生成提交结果的xml文件 
-is_gen_xml = False
+is_gen_xml = True
 
 if __name__ == '__main__':
 

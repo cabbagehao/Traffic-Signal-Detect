@@ -27,7 +27,39 @@ class Score():
 
         return self.xml_file_dict[xml_name], frame
 
-    def update(self, image_name, targets):
+    def _pross_not_TSD_file(self, image_name, img_dir, targets):
+        gt_label = img_dir.split('/')[-1]
+        label_txt = os.path.join(img_dir, 'labels.txt')
+        label_path = os.path.join('../data/TrafficNorm/', gt_label, 'labels.txt')
+        self.ALL += 1
+        for label, box, pred in targets:
+            x, y =  0.5*(box[0] + box[2]),  0.5*(box[1] + box[3])
+            with open(label_path) as f:
+                lines = f.readlines()
+                for i in range(len(lines)):
+                    if image_name in lines[i]:
+                        line = lines[i].split()
+                        img_name, x1, y1, w, h = line
+                        x1, y1, w, h = int(x1), int(y1), int(w), int(h)
+                        if x1 <= x <= x2 and y1 <= y <= y2:
+                            self.box_TP += 1
+                            if label == gt_label:
+                                self.TP += 1
+                            else:
+                                self.FP += 1
+                        else:
+                            self.FP += 1
+                    # 所有标注只有一个,如果匹配了直接return
+                    return
+
+        
+
+    def update(self, image_name, img_dir, targets):
+        # 新增数据集单独处理
+        if 'TSD' not in image_name:
+            self._pross_not_TSD_file(image_name, img_dir, targets)
+            return
+
         xml, frame = self._get_xml_object(image_name)
         frame_name = 'Frame' + frame
         targets_num = int(xml.xpath(frame_name + 'TargetNumber')[0].text)
