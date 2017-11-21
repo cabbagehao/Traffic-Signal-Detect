@@ -3,10 +3,12 @@ import os
 import hashlib
 import io
 import random
+import shutil
 import configparser
 import pylab as plt
 import tensorflow as tf
 
+from tqdm import tqdm
 from lxml import etree
 from PIL import Image, ImageDraw, ImageFont
 from object_detection.utils import dataset_util
@@ -18,25 +20,27 @@ def create_tf_record(examples_list, output_filename):
     
     writer = tf.python_io.TFRecordWriter(output_filename)
     for tf_example in examples_list:
-        writer.write(tf_example.SerializeToString())
+        writer.write(tf_example[0].SerializeToString())
 
-def save_img_with_box(image, box, text, img_name, i):
+def save_img_with_box(image, target_list, img_name, group):
 
-    # Save picture to debug
-    save_path = os.path.join(data_dir, 'output/images')
-    if not os.path.exists(save_path):
-        os.mkdir(save_path)    
-    font = ImageFont.truetype(cf.get('font_path', 'simsun'), 100)
-    drawObject = ImageDraw.Draw(image)  
-    drawObject.rectangle(box, outline = "red")  
-    drawObject.text([200,500+i*110], text,"red", font=font)
+    for target in target_list:
+        x1, y1, x2, y2, label = target
+        box = (x1, y1), (x2, y2)
+        font = ImageFont.truetype(cf.get('font_path', 'simsun'), 20)
+        drawObject = ImageDraw.Draw(image)  
+        drawObject.rectangle(box, outline = "red")  
+        drawObject.text([x1+50, y1+50], label,"red", font=font)
 
-    image.save(os.path.join(save_path,img_name))
+    save_dir = os.path.join(image_vis_path, group)
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir) 
+    image.save(os.path.join(save_dir, img_name))
     # plt.imshow(image) 
     # plt.show()
     # exit(0) 
 
-def process_sigle_object(data, i, frame_number, image, img_name, label_map_dict,
+def process_sigle_object(data, i, frame_number, img_name, label_map_dict,
                         xmin, ymin, xmax, ymax, classes, classes_text, width, height):
     target_order = ('00000' + str(i))[-5:]
     target_name = 'Frame' + str(frame_number) + 'Target' + target_order
@@ -52,7 +56,6 @@ def process_sigle_object(data, i, frame_number, image, img_name, label_map_dict,
     x2 = x1 + w
     y2 = y1 + h
 
-    if save_img: save_img_with_box(image, (x1, y1, x2, y2), data[target_name]['Type'].strip('\"'), img_name, i)
     # print(x1, y1, w, h)
     xmin.append(1.0*x1 / width)
     ymin.append(1.0*y1 / height)
@@ -70,7 +73,7 @@ def process_sigle_object(data, i, frame_number, image, img_name, label_map_dict,
         class_not_match[class_name] += 1
         return None 
 
-    return 0   
+    return [x1, y1, x2, y2, class_name] 
 
 def dict_to_tf_example(data,
                        label_map_dict,
@@ -86,7 +89,7 @@ def dict_to_tf_example(data,
         encoded_jpg = fid.read()
     encoded_jpg_io = io.BytesIO(encoded_jpg)
     image = Image.open(encoded_jpg_io)
-    key = hashlib.sha256(encoded_jpg).hexdigest()
+    # key = hashlib.sha256(encoded_jpg).hexdigest()
 
     width = cf.getint('image_shape', 'width')
     height = cf.getint('image_shape', 'height')
@@ -109,11 +112,16 @@ def dict_to_tf_example(data,
     if target_count == 0:
         zero_object_img.append(img_name)
         return None
+    target_list = []
     for i in range(target_count):
-        ret = process_sigle_object(data, i, frame_number, image, img_name, label_map_dict,
+        ret = process_sigle_object(data, i, frame_number, img_name, label_map_dict,
                                 xmin, ymin, xmax, ymax, classes, classes_text, width, height)
         if ret is None: return None
         if ret == 1: continue
+        target_list.append(ret)
+
+    if save_img:    
+        save_img_with_box(image, target_list, img_name, group)
 
     # 把一张图片里的所有object都装到example
     example = tf.train.Example(features=tf.train.Features(feature={
@@ -121,7 +129,7 @@ def dict_to_tf_example(data,
       'image/width': dataset_util.int64_feature(width),
       'image/filename': dataset_util.bytes_feature(img_name.encode('utf8')),
       'image/source_id': dataset_util.bytes_feature(img_name.encode('utf8')),
-      'image/key/sha256': dataset_util.bytes_feature(key.encode('utf8')),
+      # 'image/key/sha256': dataset_util.bytes_feature(key.encode('utf8')),
       'image/encoded': dataset_util.bytes_feature(encoded_jpg),
       'image/format': dataset_util.bytes_feature('png'.encode('utf8')),
       'image/object/bbox/xmin': dataset_util.float_list_feature(xmin),
@@ -147,17 +155,80 @@ def get_label_dict(label_path):
     # assert len(label_map_dict) == 77
     return label_map_dict
 
+def read_norm_data(img_data, label_map_dict):
+    new_data_path = os.path.join(data_dir, 'TrafficNorm') 
+    width = cf.getint('image_shape', 'width')
+    height = cf.getint('image_shape', 'height')
+
+    for img_dir in tqdm(os.listdir(new_data_path)):
+        current_dir_path = os.path.join(new_data_path, img_dir)
+        label_path = os.path.join(current_dir_path, 'labels.txt')
+        if not os.path.isfile(label_path):
+            print("label not exist:", label_path)
+            continue
+        with open(label_path) as f:
+            lines = f.readlines()
+            for i in range(len(lines)):
+                line = lines[i].split()
+                img_name, x1, y1, w, h = line
+                x1, y1, w, h = int(x1), int(y1), int(w), int(h)
+                x2, y2 = x1 + w, y1 + h
+                img_path = os.path.join(current_dir_path, img_name)
+                img_path_upper = os.path.join(current_dir_path, img_name.upper())
+
+                if os.path.isfile(img_path):
+                    path = img_path
+                elif os.path.isfile(img_path_upper):
+                    path = img_path_upper
+                else:
+                    continue   
+
+                with tf.gfile.GFile(path, 'rb') as fid:
+                    encoded_jpg = fid.read()
+                encoded_jpg_io = io.BytesIO(encoded_jpg)
+                image = Image.open(encoded_jpg_io)
+                xmin = [1.0*x1 / width]
+                ymin = [1.0*y1 / height]
+                xmax = [1.0*x2 / width]
+                ymax = [1.0*y2 / height]
+                
+                class_name = img_dir
+                classes_text = [class_name.encode('utf8')]
+                classes = [label_map_dict[class_name]]
+            
+                example = tf.train.Example(features=tf.train.Features(feature={
+                  'image/height': dataset_util.int64_feature(height),
+                  'image/width': dataset_util.int64_feature(width),
+                  'image/filename': dataset_util.bytes_feature(img_name.encode('utf8')),
+                  'image/source_id': dataset_util.bytes_feature(img_name.encode('utf8')),
+                  # 'image/key/sha256': dataset_util.bytes_feature(key.encode('utf8')),
+                  'image/encoded': dataset_util.bytes_feature(encoded_jpg),
+                  'image/format': dataset_util.bytes_feature('jpg'.encode('utf8')),
+                  'image/object/bbox/xmin': dataset_util.float_list_feature(xmin),
+                  'image/object/bbox/xmax': dataset_util.float_list_feature(xmax),
+                  'image/object/bbox/ymin': dataset_util.float_list_feature(ymin),
+                  'image/object/bbox/ymax': dataset_util.float_list_feature(ymax),
+                  'image/object/class/text': dataset_util.bytes_list_feature(classes_text),
+                  'image/object/class/label': dataset_util.int64_list_feature(classes),
+                }))
+                img_data.append([example, path])
+                if save_img:    
+                    target_list = [[x1, y1, x2, y2, img_dir]]
+                    save_img_with_box(image, target_list, img_name, img_dir)
+    return img_data
+
 def create_img_data_dict(images_dir, annotations_dir, label_map_path):
     # 获取TSD-Signal下每一组图片 signal000 - signal 120
     # 对每一组图片，打开对应的xml，获取每个图片的信息
     # 将图片-信息 存入到dict
     # shuffle后写入对应的record
     img_data = []
-  
+    
+    print('Prossing Traffic Sign data...')
     # label_map_dict = label_map_util.get_label_map_dict(label_map_path)
     label_map_dict = get_label_dict(label_map_path)
 
-    for group_name in os.listdir(images_dir):    
+    for group_name in tqdm(os.listdir(images_dir)):
         img_group_dir = os.path.join(images_dir, group_name)
         if not os.path.isdir(img_group_dir):
             continue
@@ -176,10 +247,14 @@ def create_img_data_dict(images_dir, annotations_dir, label_map_path):
                 if not frame_number.isdigit():
                     print('Error: image name not match. ', img_name, frame_number)
                     continue 
-
-                tf_example = dict_to_tf_example(data, label_map_dict, os.path.join(img_group_dir, img_name), img_name)
+                img_path = os.path.join(img_group_dir, img_name)
+                tf_example = dict_to_tf_example(data, label_map_dict, img_path, img_name)
                 if tf_example:
-                    img_data.append(tf_example)
+                    img_data.append([tf_example, img_path])
+
+    print('Prossing TrafficNorm data...')
+    img_data = read_norm_data(img_data, label_map_dict)
+
     return img_data
 
 def main():
@@ -197,6 +272,7 @@ def main():
     label_map_path = os.path.join(data_dir, 'traffic.label')     # traffic.pbtxt 格式读取中文字符有问题
 
     # 读取image和xml文件，得到image-xml对应字典
+    # img_data元素为[data, img_path] img_path用于复制图片到test_dir
     img_data = create_img_data_dict(images_dir, annotations_dir, label_map_path)
     examples_list = img_data
     assert len(examples_list) != 0, "Error: examples_list is empty."
@@ -210,7 +286,7 @@ def main():
     val_examples = examples_list[num_train:]
     print("train numbers: ", num_examples, " val numbers: ", len(val_examples))
 
-    # 创建record文件
+    print("Creating records files...")
     output_dir = os.path.join(data_dir, 'records')
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
@@ -219,6 +295,15 @@ def main():
     create_tf_record(train_examples, train_output)
     create_tf_record(val_examples, val_output)
 
+    print('Copy test images to test dir:')
+    for example in tqdm(val_examples):
+        img_path = example[1]
+        # if 'TSD' in img_path:
+        group = img_path.split('/')[-2]
+        group_dir = os.path.join(test_img_dir, group)
+        if not os.path.exists(group_dir):
+            os.makedirs(group_dir) 
+        shutil.copy(img_path, group_dir) 
 
 
 save_img = False
@@ -226,13 +311,24 @@ zero_object_img = []
 class_not_match = {}
 target_num_not_match = []
 data_dir = '../data'
+test_img_dir = os.path.join(data_dir, 'test_samples')
+image_vis_path = os.path.join(data_dir, 'input_img_vis_test')
 cf = configparser.ConfigParser()
 cf.read('../config/traffic.config')
+    
 
 if __name__ == '__main__':
+    if os.path.exists(test_img_dir):
+        shutil.rmtree(test_img_dir)
+    os.makedirs(test_img_dir) 
+
+    if os.path.exists(image_vis_path):
+        shutil.rmtree(image_vis_path)
+    os.mkdir(image_vis_path)  
+
     main()
     # 打印样本统计结果，输出详细结果到文件。
-    print('todo. all classes count')
+    # print('todo. all classes count')
     print('len zero_object_img: ', len(zero_object_img))
     print('len class_not_match: ', len(class_not_match))
     print('len target_num_not_match: ', len(target_num_not_match))
