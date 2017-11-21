@@ -42,11 +42,11 @@
         
     6. Tensorboard可视化log：  
         查看训练log:
-            tensorboard logdir ./model_cpkt/  
+            tensorboard --logdir ./model_cpkt/  
         查看验证log:
-            tensorboard logdir ./model_cpkt/eval_log/  
+            tensorboard --logdir ./model_cpkt/eval_log/  
         同时查看2种log:
-            tensorboard logdir .
+            tensorboard --logdir .
         
 ### 模型配置文件更改：  
     注：   
