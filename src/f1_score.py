@@ -51,6 +51,7 @@ class Score():
                             self.FP += 1
                     # 所有标注只有一个,如果匹配了直接return
                     return
+                self.FP += 1
 
         
 
@@ -115,7 +116,7 @@ class Score():
         return self.box_TP / self.ALL
 
     def get_combine_accuracy(self):
-        return self.TP / self.ALL, self.ALL
+        return (self.TP + self.FN) / self.ALL, self.ALL
 
     def get_f1_score(self):
         TP, FP, FN = self.TP, self.FP, self.FN
