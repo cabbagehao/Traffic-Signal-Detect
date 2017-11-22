@@ -114,6 +114,8 @@ def main():
             ii = 0
             for group_dir in tqdm(os.listdir(test_dir)):
                 img_dir = os.path.join(test_dir, group_dir)
+                if not is_test_norm_data and 'TSD' not in img_dir:
+                    continue
                 frames_dict = {}
                 for image_name in os.listdir(img_dir):
                     image_path = os.path.join(img_dir, image_name)
@@ -174,7 +176,7 @@ fail_case_dir = os.path.join(img_result_dir, 'FailedCase')
 xml_result_dir = os.path.join(output_dir, 'TSD-Signal-Result-Cargo')
 
 GT_xmls_dir = os.path.join(data_dir, 'TSD-Signal-GT') 
-pb_path = './model_pb/ssd_inception/frozen_inference_graph.pb'
+pb_path = 'model_pb/faster_rcnn_resnet50_lowproposals_coco/frozen_inference_graph.pb'
 
 pred_threshold = 0.5
 # all_test_images=glob.glob(os.path.join(test_dir, '*/*.png'))
@@ -184,6 +186,8 @@ pred_threshold = 0.5
 is_gen_img = True
 # 是否生成提交结果的xml文件 
 is_gen_xml = True
+# 是否测试Norm数据集
+is_test_norm_data = False
 
 if __name__ == '__main__':
 

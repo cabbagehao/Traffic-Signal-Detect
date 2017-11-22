@@ -251,9 +251,10 @@ def create_img_data_dict(images_dir, annotations_dir, label_map_path):
                 tf_example = dict_to_tf_example(data, label_map_dict, img_path, img_name)
                 if tf_example:
                     img_data.append([tf_example, img_path])
-
-    print('Prossing TrafficNorm data...')
-    img_data = read_norm_data(img_data, label_map_dict)
+    
+    if is_read_norm_data:
+        print('Prossing TrafficNorm data...')
+        img_data = read_norm_data(img_data, label_map_dict)
 
     return img_data
 
@@ -307,6 +308,7 @@ def main():
 
 
 save_img = False
+is_read_norm_data = False
 zero_object_img = []
 class_not_match = {}
 target_num_not_match = []
