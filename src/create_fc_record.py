@@ -157,8 +157,6 @@ def get_label_dict(label_path):
 
 def read_norm_data(img_data, label_map_dict):
     new_data_path = os.path.join(data_dir, 'TrafficNorm') 
-    width = 960
-    height = 640
 
     for img_dir in tqdm(os.listdir(new_data_path)):
         current_dir_path = os.path.join(new_data_path, img_dir)
@@ -185,11 +183,17 @@ def read_norm_data(img_data, label_map_dict):
 
                 with tf.gfile.GFile(path, 'rb') as fid:
                     encoded_jpg = fid.read()
+                    encoded_jpg_io = io.BytesIO(encoded_jpg)
+                    image = Image.open(encoded_jpg_io)
+                    width = image.width
+                    height = image.height
                 xmin = [1.0*x1 / width]
                 ymin = [1.0*y1 / height]
                 xmax = [1.0*x2 / width]
                 ymax = [1.0*y2 / height]
-                
+                if x2 > width or y2 > height:
+                    print(line, label_path)
+                    exit(-1)
                 class_name = img_dir
                 classes_text = [class_name.encode('utf8')]
                 classes = [label_map_dict[class_name]]
@@ -226,29 +230,29 @@ def create_img_data_dict(images_dir, annotations_dir, label_map_path):
     # label_map_dict = label_map_util.get_label_map_dict(label_map_path)
     label_map_dict = get_label_dict(label_map_path)
 
-    for group_name in tqdm(os.listdir(images_dir)):
-        img_group_dir = os.path.join(images_dir, group_name)
-        if not os.path.isdir(img_group_dir):
-            continue
+    # for group_name in tqdm(os.listdir(images_dir)):
+    #     img_group_dir = os.path.join(images_dir, group_name)
+    #     if not os.path.isdir(img_group_dir):
+    #         continue
 
-        xml_path = os.path.join(annotations_dir, group_name + '-GT.xml')
-        # xml_path = '/home/cabbage/Desktop/FC2017/任务2-交通信号检测/data/TSD-Signal-GT/TSD-Signal-00120-GT.xml'
-        with tf.gfile.FastGFile(xml_path, 'rb') as fid:
-        # with open(xml_path, 'rt', encoding='latin-1') as fid:
-            xml_str = fid.read()
-            xml = etree.fromstring(xml_str)
+    #     xml_path = os.path.join(annotations_dir, group_name + '-GT.xml')
+    #     # xml_path = '/home/cabbage/Desktop/FC2017/任务2-交通信号检测/data/TSD-Signal-GT/TSD-Signal-00120-GT.xml'
+    #     with tf.gfile.FastGFile(xml_path, 'rb') as fid:
+    #     # with open(xml_path, 'rt', encoding='latin-1') as fid:
+    #         xml_str = fid.read()
+    #         xml = etree.fromstring(xml_str)
 
-            data = dataset_util.recursive_parse_xml_to_dict(xml)['opencv_storage']  
-            frame_count = data['FrameNumber']
-            for img_name in os.listdir(img_group_dir):
-                frame_number = img_name.replace(group_name+'-', '').replace('.png', '')
-                if not frame_number.isdigit():
-                    print('Error: image name not match. ', img_name, frame_number)
-                    continue 
-                img_path = os.path.join(img_group_dir, img_name)
-                tf_example = dict_to_tf_example(data, label_map_dict, img_path, img_name)
-                if tf_example:
-                    img_data.append([tf_example, img_path])
+    #         data = dataset_util.recursive_parse_xml_to_dict(xml)['opencv_storage']  
+    #         frame_count = data['FrameNumber']
+    #         for img_name in os.listdir(img_group_dir):
+    #             frame_number = img_name.replace(group_name+'-', '').replace('.png', '')
+    #             if not frame_number.isdigit():
+    #                 print('Error: image name not match. ', img_name, frame_number)
+    #                 continue 
+    #             img_path = os.path.join(img_group_dir, img_name)
+    #             tf_example = dict_to_tf_example(data, label_map_dict, img_path, img_name)
+    #             if tf_example:
+    #                 img_data.append([tf_example, img_path])
     
     if is_read_norm_data:
         print('Prossing TrafficNorm data...')
