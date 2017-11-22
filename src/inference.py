@@ -141,8 +141,11 @@ def main():
                         label = label_list[clazz-1]   
                         box = box_coords[idx:idx+1][0]
                         targets.append([label, box, pred])
-                        for label, box, pred in targets:
-                            image = draw_box_and_text(image, box, label, pred, font_size, font)
+                    
+                    #TODO use nms.
+
+                    for label, box, pred in targets:
+                        image = draw_box_and_text(image, box, label, pred, font_size, font)
                     
                     # 计算score, 保存预测失败的图片
                     is_pass = score.update(image_name, img_dir, targets)
@@ -176,7 +179,7 @@ fail_case_dir = os.path.join(img_result_dir, 'FailedCase')
 xml_result_dir = os.path.join(output_dir, 'TSD-Signal-Result-Cargo')
 
 GT_xmls_dir = os.path.join(data_dir, 'TSD-Signal-GT') 
-pb_path = 'model_pb/faster_rcnn_resnet50_lowproposals_coco/frozen_inference_graph.pb'
+pb_path = './model_bak/model_pb/rcnn_resnet101_27941/frozen_inference_graph.pb'
 
 pred_threshold = 0.5
 # all_test_images=glob.glob(os.path.join(test_dir, '*/*.png'))

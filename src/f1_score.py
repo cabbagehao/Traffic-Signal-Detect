@@ -49,8 +49,8 @@ class Score():
                                 self.FP += 1
                         else:
                             self.FP += 1
-                    # 所有标注只有一个,如果匹配了直接return
-                    return
+                        # 所有标注只有一个,如果匹配了直接return
+                        return
                 self.FP += 1
 
         

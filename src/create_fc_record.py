@@ -183,10 +183,10 @@ def read_norm_data(img_data, label_map_dict):
 
                 with tf.gfile.GFile(path, 'rb') as fid:
                     encoded_jpg = fid.read()
-                    encoded_jpg_io = io.BytesIO(encoded_jpg)
-                    image = Image.open(encoded_jpg_io)
-                    width = image.width
-                    height = image.height
+                encoded_jpg_io = io.BytesIO(encoded_jpg)
+                image = Image.open(encoded_jpg_io)
+                width = image.width
+                height = image.height
                 xmin = [1.0*x1 / width]
                 ymin = [1.0*y1 / height]
                 xmax = [1.0*x2 / width]
