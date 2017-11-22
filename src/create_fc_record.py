@@ -230,29 +230,29 @@ def create_img_data_dict(images_dir, annotations_dir, label_map_path):
     # label_map_dict = label_map_util.get_label_map_dict(label_map_path)
     label_map_dict = get_label_dict(label_map_path)
 
-    # for group_name in tqdm(os.listdir(images_dir)):
-    #     img_group_dir = os.path.join(images_dir, group_name)
-    #     if not os.path.isdir(img_group_dir):
-    #         continue
+    for group_name in tqdm(os.listdir(images_dir)):
+        img_group_dir = os.path.join(images_dir, group_name)
+        if not os.path.isdir(img_group_dir):
+            continue
 
-    #     xml_path = os.path.join(annotations_dir, group_name + '-GT.xml')
-    #     # xml_path = '/home/cabbage/Desktop/FC2017/任务2-交通信号检测/data/TSD-Signal-GT/TSD-Signal-00120-GT.xml'
-    #     with tf.gfile.FastGFile(xml_path, 'rb') as fid:
-    #     # with open(xml_path, 'rt', encoding='latin-1') as fid:
-    #         xml_str = fid.read()
-    #         xml = etree.fromstring(xml_str)
+        xml_path = os.path.join(annotations_dir, group_name + '-GT.xml')
+        # xml_path = '/home/cabbage/Desktop/FC2017/任务2-交通信号检测/data/TSD-Signal-GT/TSD-Signal-00120-GT.xml'
+        with tf.gfile.FastGFile(xml_path, 'rb') as fid:
+        # with open(xml_path, 'rt', encoding='latin-1') as fid:
+            xml_str = fid.read()
+            xml = etree.fromstring(xml_str)
 
-    #         data = dataset_util.recursive_parse_xml_to_dict(xml)['opencv_storage']  
-    #         frame_count = data['FrameNumber']
-    #         for img_name in os.listdir(img_group_dir):
-    #             frame_number = img_name.replace(group_name+'-', '').replace('.png', '')
-    #             if not frame_number.isdigit():
-    #                 print('Error: image name not match. ', img_name, frame_number)
-    #                 continue 
-    #             img_path = os.path.join(img_group_dir, img_name)
-    #             tf_example = dict_to_tf_example(data, label_map_dict, img_path, img_name)
-    #             if tf_example:
-    #                 img_data.append([tf_example, img_path])
+            data = dataset_util.recursive_parse_xml_to_dict(xml)['opencv_storage']  
+            frame_count = data['FrameNumber']
+            for img_name in os.listdir(img_group_dir):
+                frame_number = img_name.replace(group_name+'-', '').replace('.png', '')
+                if not frame_number.isdigit():
+                    print('Error: image name not match. ', img_name, frame_number)
+                    continue 
+                img_path = os.path.join(img_group_dir, img_name)
+                tf_example = dict_to_tf_example(data, label_map_dict, img_path, img_name)
+                if tf_example:
+                    img_data.append([tf_example, img_path])
     
     if is_read_norm_data:
         print('Prossing TrafficNorm data...')
