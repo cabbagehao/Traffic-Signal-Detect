@@ -147,15 +147,16 @@ def main():
                     for label, box, pred in targets:
                         image = draw_box_and_text(image, box, label, pred, font_size, font)
                     
-                    # 计算score, 保存预测失败的图片
+                    # 计算score
                     is_pass = score.update(image_name, img_dir, targets)
-                    if not is_pass: # TODO : 真值 box和type写入
-                        cv2.imwrite(os.path.join(fail_case_dir, image_name), image)
                     
-                    # 生成结果图片
+                    # 生成结果图片 正确的和错误的分开保存
                     if is_gen_img:
-                        image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
-                        cv2.imwrite(os.path.join(img_result_dir, image_name), image)
+                        if not is_pass: # TODO : 真值 box和type写入
+                            cv2.imwrite(os.path.join(fail_case_dir, image_name), image)                        
+                        else:
+                            image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
+                            cv2.imwrite(os.path.join(img_result_dir, image_name), image)
 
                     # 填充xml数据
                     frame_id = image_name.split('-')[-1].replace('.png', '')
