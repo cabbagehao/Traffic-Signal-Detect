@@ -157,8 +157,8 @@ def get_label_dict(label_path):
 
 def read_norm_data(img_data, label_map_dict):
     new_data_path = os.path.join(data_dir, 'TrafficNorm') 
-    width = cf.getint('image_shape', 'width')
-    height = cf.getint('image_shape', 'height')
+    width = 960
+    height = 640
 
     for img_dir in tqdm(os.listdir(new_data_path)):
         current_dir_path = os.path.join(new_data_path, img_dir)
@@ -185,8 +185,6 @@ def read_norm_data(img_data, label_map_dict):
 
                 with tf.gfile.GFile(path, 'rb') as fid:
                     encoded_jpg = fid.read()
-                encoded_jpg_io = io.BytesIO(encoded_jpg)
-                image = Image.open(encoded_jpg_io)
                 xmin = [1.0*x1 / width]
                 ymin = [1.0*y1 / height]
                 xmax = [1.0*x2 / width]
@@ -203,7 +201,7 @@ def read_norm_data(img_data, label_map_dict):
                   'image/source_id': dataset_util.bytes_feature(img_name.encode('utf8')),
                   # 'image/key/sha256': dataset_util.bytes_feature(key.encode('utf8')),
                   'image/encoded': dataset_util.bytes_feature(encoded_jpg),
-                  'image/format': dataset_util.bytes_feature('jpg'.encode('utf8')),
+                  'image/format': dataset_util.bytes_feature('jpeg'.encode('utf8')),
                   'image/object/bbox/xmin': dataset_util.float_list_feature(xmin),
                   'image/object/bbox/xmax': dataset_util.float_list_feature(xmax),
                   'image/object/bbox/ymin': dataset_util.float_list_feature(ymin),
@@ -308,7 +306,7 @@ def main():
 
 
 save_img = False
-is_read_norm_data = False
+is_read_norm_data = True
 zero_object_img = []
 class_not_match = {}
 target_num_not_match = []
