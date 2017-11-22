@@ -61,7 +61,7 @@ def draw_box_and_text(image, box, label, pred_score, font_size, font):
     label_text = "{}: {:.1f}%".format(label, pred_score*100)
     label_w, label_h= int(14.5*len(label_text)+4), font_size+4
     label_start = (pt2[0], pt1[1])
-    
+    # TODO: 多标签重叠处理
     # 如果x标签超出了最右边：
     #   如果y标签不会超出最上边，移动到上面显示
     #   如果y超出了最上面，移动到下面显示
@@ -83,6 +83,44 @@ def draw_box_and_text(image, box, label, pred_score, font_size, font):
     image = cv2.cvtColor(np.array(pil_im), cv2.COLOR_RGB2BGR)    
 
     return image
+# 非极大值抑制 from: http://blog.csdn.net/gan_player/article/details/78204960
+def py_cpu_nms(dets, thresh):
+    """Pure Python NMS baseline."""
+    if len(dets) == 0:
+        return []
+    x1 = dets[:, 0]
+    y1 = dets[:, 1]
+    x2 = dets[:, 2]
+    y2 = dets[:, 3]
+    scores = dets[:, 4]
+
+    areas = (x2 - x1 + 1) * (y2 - y1 + 1)
+    #从大到小排列，取index
+    order = scores.argsort()[::-1]  #逆序排序
+    #keep为最后保留的边框
+    keep = []
+    while order.size > 0:
+        #order[0]是当前分数最大的窗口，之前没有被过滤掉，肯定是要保留的
+        i = order[0]
+        keep.append(i)
+
+        #计算窗口i与其他所以窗口的交叠部分的面积，矩阵计算
+        xx1 = np.maximum(x1[i], x1[order[1:]])
+        yy1 = np.maximum(y1[i], y1[order[1:]])
+        xx2 = np.minimum(x2[i], x2[order[1:]])
+        yy2 = np.minimum(y2[i], y2[order[1:]])
+
+        w = np.maximum(0.0, xx2 - xx1 + 1)
+        h = np.maximum(0.0, yy2 - yy1 + 1)
+        inter = w * h
+        #交/并得到iou值
+        ovr = inter / (areas[i] + areas[order[1:]] - inter)
+        #ind为所有与窗口i的iou值小于threshold值的窗口的index，其他窗口此次都被窗口i吸收
+        inds = np.where(ovr <= thresh)[0]
+        #下一次计算前要把窗口i去除，所有i对应的在order里的位置是0，所以剩下的加1
+        order = order[inds + 1]
+    return keep
+
 
 def load_graph():
     detection_graph = tf.Graph()
@@ -134,16 +172,22 @@ def main():
                         if pred > pred_threshold:
                             pred_idx.append([i, pred])
 
-                    # 预测结果框添加到image
                     targets = []
+                    dets = []
                     for idx, pred in pred_idx:
                         clazz = int(classes[0][idx:idx+1][0])
                         label = label_list[clazz-1]   
                         box = box_coords[idx:idx+1][0]
                         targets.append([label, box, pred])
+                        dets.append([box[0], box[1], box[2], box[3], pred])
+                    dets = np.array(dets)
                     
-                    #TODO use nms.
-
+                    # 非极大值抑制
+                    y = py_cpu_nms(dets, 0.3)
+                    a = len(targets) - len(y)
+                    if a > 0: print('NMS Dorped: ', a)
+                    targets = [targets[i] for i in y]
+                    # 写入结果框到image
                     for label, box, pred in targets:
                         image = draw_box_and_text(image, box, label, pred, font_size, font)
                     
