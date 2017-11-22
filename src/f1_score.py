@@ -116,7 +116,7 @@ class Score():
         return self.box_TP / self.ALL
 
     def get_combine_accuracy(self):
-        return (self.TP + self.FN) / self.ALL, self.ALL
+        return self.TP / self.ALL, self.ALL
 
     def get_f1_score(self):
         TP, FP, FN = self.TP, self.FP, self.FN
