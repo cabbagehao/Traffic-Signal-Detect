@@ -185,7 +185,7 @@ def main():
                     # 非极大值抑制
                     y = py_cpu_nms(dets, 0.3)
                     a = len(targets) - len(y)
-                    if a > 0: print('NMS Dorped: ', a)
+                    if a > 0: print('NMS Droped: ', a)
                     targets = [targets[i] for i in y]
                     # 写入结果框到image
                     for label, box, pred in targets:
