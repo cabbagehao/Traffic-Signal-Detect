@@ -1,5 +1,5 @@
 # coding=utf-8
-
+import os
 import xml.etree.ElementTree as ET
 from lxml import etree as ET
 
@@ -16,9 +16,9 @@ def build_xml(result_xml_path, frames_dict):
     for frame_id, targets in frames_dict:
         # Create Node FrameNumber
         target_num = len(targets)
-        target_num_str =  ('00000' + str(target_num))[-5:]
+        #target_num_str =  ('00000' + str(target_num))[-5:]
         frame_name = 'Frame' + frame_id
-        node_target_number = frame_name + target_num_str +'TargetNumber'
+        node_target_number = frame_name + 'TargetNumber' # + target_num_str
         node_target = ET.SubElement(root, node_target_number)
         node_target.text = str(target_num)
 
@@ -34,6 +34,7 @@ def build_xml(result_xml_path, frames_dict):
             node_target = ET.SubElement(root, target_name)
 
             node_type = ET.SubElement(node_target, 'Type')
+            target_type = '\"' + target_type + '\"'
             node_type.text = target_type
 
             node_position = ET.SubElement(node_target, 'Position')
@@ -49,9 +50,11 @@ def build_xml(result_xml_path, frames_dict):
         root, encoding = 'gbk', xml_declaration = True, pretty_print = True)
     file = open(result_xml_path, "w")
     pretty_xml = pretty_xml.decode('gbk')
+    pretty_xml = pretty_xml.replace('\'', '\"')
     file.writelines(pretty_xml)
     file.close()
-
+    conv_cmd = 'iconv -f UTF-8 -t gbk -c ' + result_xml_path + ' > tmp; mv -f tmp ' + result_xml_path
+    os.system(conv_cmd)
 # Pretty a xml file
 # def pretty_xmlfile(result_xml_path):
 #     parser = ET.XMLParser(
