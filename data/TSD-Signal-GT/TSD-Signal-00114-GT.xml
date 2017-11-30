@@ -1,186 +1,130 @@
 <?xml version="1.0"?>
 <opencv_storage>
 <FrameNumber>14</FrameNumber>
-<Frame00000TargetNumber>3</Frame00000TargetNumber>
+<Frame00000TargetNumber>2</Frame00000TargetNumber>
 <Frame00000Target00000>
   <Type>"警23-驼峰桥"</Type>
   <Position>
     907 168 40 33</Position></Frame00000Target00000>
 <Frame00000Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    861 169 41 34</Position></Frame00000Target00001>
-<Frame00000Target00002>
   <Type>"警1-十字交叉"</Type>
   <Position>
-    819 172 39 34</Position></Frame00000Target00002>
-<Frame00001TargetNumber>3</Frame00001TargetNumber>
+    819 172 39 34</Position></Frame00000Target00001>
+<Frame00001TargetNumber>2</Frame00001TargetNumber>
 <Frame00001Target00000>
   <Type>"警1-十字交叉"</Type>
   <Position>
     820 165 40 39</Position></Frame00001Target00000>
 <Frame00001Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    865 163 41 36</Position></Frame00001Target00001>
-<Frame00001Target00002>
   <Type>"警23-驼峰桥"</Type>
   <Position>
-    911 163 39 34</Position></Frame00001Target00002>
-<Frame00002TargetNumber>3</Frame00002TargetNumber>
+    911 163 39 34</Position></Frame00001Target00001>
+<Frame00002TargetNumber>2</Frame00002TargetNumber>
 <Frame00002Target00000>
   <Type>"警23-驼峰桥"</Type>
   <Position>
     911 156 45 36</Position></Frame00002Target00000>
 <Frame00002Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    867 158 41 38</Position></Frame00002Target00001>
-<Frame00002Target00002>
   <Type>"警1-十字交叉"</Type>
   <Position>
-    820 161 43 37</Position></Frame00002Target00002>
-<Frame00003TargetNumber>3</Frame00003TargetNumber>
+    820 161 43 37</Position></Frame00002Target00001>
+<Frame00003TargetNumber>2</Frame00003TargetNumber>
 <Frame00003Target00000>
   <Type>"警1-十字交叉"</Type>
   <Position>
     821 153 41 39</Position></Frame00003Target00000>
 <Frame00003Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    867 147 45 40</Position></Frame00003Target00001>
-<Frame00003Target00002>
   <Type>"警23-驼峰桥"</Type>
   <Position>
-    917 146 43 38</Position></Frame00003Target00002>
-<Frame00004TargetNumber>3</Frame00004TargetNumber>
+    917 146 43 38</Position></Frame00003Target00001>
+<Frame00004TargetNumber>2</Frame00004TargetNumber>
 <Frame00004Target00000>
   <Type>"警23-驼峰桥"</Type>
   <Position>
     919 135 47 40</Position></Frame00004Target00000>
 <Frame00004Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    870 138 47 40</Position></Frame00004Target00001>
-<Frame00004Target00002>
   <Type>"警1-十字交叉"</Type>
   <Position>
-    819 139 48 40</Position></Frame00004Target00002>
-<Frame00005TargetNumber>3</Frame00005TargetNumber>
+    819 139 48 40</Position></Frame00004Target00001>
+<Frame00005TargetNumber>2</Frame00005TargetNumber>
 <Frame00005Target00000>
   <Type>"警1-十字交叉"</Type>
   <Position>
     823 130 45 43</Position></Frame00005Target00000>
 <Frame00005Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    876 129 43 41</Position></Frame00005Target00001>
-<Frame00005Target00002>
   <Type>"警23-驼峰桥"</Type>
   <Position>
-    927 127 45 39</Position></Frame00005Target00002>
-<Frame00006TargetNumber>3</Frame00006TargetNumber>
+    927 127 45 39</Position></Frame00005Target00001>
+<Frame00006TargetNumber>2</Frame00006TargetNumber>
 <Frame00006Target00000>
   <Type>"警23-驼峰桥"</Type>
   <Position>
     930 120 51 41</Position></Frame00006Target00000>
 <Frame00006Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    876 123 49 42</Position></Frame00006Target00001>
-<Frame00006Target00002>
   <Type>"警1-十字交叉"</Type>
   <Position>
-    823 126 49 43</Position></Frame00006Target00002>
-<Frame00007TargetNumber>3</Frame00007TargetNumber>
+    823 126 49 43</Position></Frame00006Target00001>
+<Frame00007TargetNumber>2</Frame00007TargetNumber>
 <Frame00007Target00000>
   <Type>"警1-十字交叉"</Type>
   <Position>
     826 120 47 44</Position></Frame00007Target00000>
 <Frame00007Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    880 116 54 46</Position></Frame00007Target00001>
-<Frame00007Target00002>
   <Type>"警23-驼峰桥"</Type>
   <Position>
-    938 113 50 46</Position></Frame00007Target00002>
-<Frame00008TargetNumber>3</Frame00008TargetNumber>
+    938 113 50 46</Position></Frame00007Target00001>
+<Frame00008TargetNumber>2</Frame00008TargetNumber>
 <Frame00008Target00000>
   <Type>"警23-驼峰桥"</Type>
   <Position>
     942 105 54 44</Position></Frame00008Target00000>
 <Frame00008Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    880 108 58 46</Position></Frame00008Target00001>
-<Frame00008Target00002>
   <Type>"警1-十字交叉"</Type>
   <Position>
-    827 109 49 48</Position></Frame00008Target00002>
-<Frame00009TargetNumber>3</Frame00009TargetNumber>
+    827 109 49 48</Position></Frame00008Target00001>
+<Frame00009TargetNumber>2</Frame00009TargetNumber>
 <Frame00009Target00000>
   <Type>"警1-十字交叉"</Type>
   <Position>
     829 100 52 50</Position></Frame00009Target00000>
 <Frame00009Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    888 97 55 48</Position></Frame00009Target00001>
-<Frame00009Target00002>
   <Type>"警23-驼峰桥"</Type>
   <Position>
-    950 93 53 48</Position></Frame00009Target00002>
-<Frame00010TargetNumber>3</Frame00010TargetNumber>
+    950 93 53 48</Position></Frame00009Target00001>
+<Frame00010TargetNumber>2</Frame00010TargetNumber>
 <Frame00010Target00000>
   <Type>"警23-驼峰桥"</Type>
   <Position>
     955 80 60 48</Position></Frame00010Target00000>
 <Frame00010Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    892 84 56 52</Position></Frame00010Target00001>
-<Frame00010Target00002>
   <Type>"警1-十字交叉"</Type>
   <Position>
-    829 86 56 53</Position></Frame00010Target00002>
-<Frame00011TargetNumber>3</Frame00011TargetNumber>
+    829 86 56 53</Position></Frame00010Target00001>
+<Frame00011TargetNumber>2</Frame00011TargetNumber>
 <Frame00011Target00000>
   <Type>"警1-十字交叉"</Type>
   <Position>
     830 68 60 53</Position></Frame00011Target00000>
 <Frame00011Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    898 67 58 53</Position></Frame00011Target00001>
-<Frame00011Target00002>
   <Type>"警23-驼峰桥"</Type>
   <Position>
-    964 63 58 50</Position></Frame00011Target00002>
-<Frame00012TargetNumber>3</Frame00012TargetNumber>
+    964 63 58 50</Position></Frame00011Target00001>
+<Frame00012TargetNumber>2</Frame00012TargetNumber>
 <Frame00012Target00000>
   <Type>"警23-驼峰桥"</Type>
   <Position>
     972 47 63 55</Position></Frame00012Target00000>
 <Frame00012Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    904 53 61 55</Position></Frame00012Target00001>
-<Frame00012Target00002>
   <Type>"警1-十字交叉"</Type>
   <Position>
-    834 54 59 59</Position></Frame00012Target00002>
-<Frame00013TargetNumber>3</Frame00013TargetNumber>
+    834 54 59 59</Position></Frame00012Target00001>
+<Frame00013TargetNumber>2</Frame00013TargetNumber>
 <Frame00013Target00000>
   <Type>"警1-十字交叉"</Type>
   <Position>
     836 42 65 57</Position></Frame00013Target00000>
 <Frame00013Target00001>
-  <Type>"警14-注意信号灯"</Type>
-  <Position>
-    909 38 66 57</Position></Frame00013Target00001>
-<Frame00013Target00002>
   <Type>"警23-驼峰桥"</Type>
   <Position>
-    982 33 66 55</Position></Frame00013Target00002>
+    982 33 66 55</Position></Frame00013Target00001>
 </opencv_storage>
