@@ -5,8 +5,10 @@
 
     1. 检查数据集完整性: 是否覆盖所有label类型
     2. 检查数据集正确性: 是否存在label文件中没有的类型
+    3. 是否每个图片都有GT文件,是否每个GT文件都有图片 TODO
 '''
 import os
+import pandas as pd 
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
@@ -127,7 +129,7 @@ def loop_traffic_dataset(picture_count, label_dict, label_per_group, obj_per_fra
 
 def get_info(label_map_dict):
     picture_count = 0
-    # label计数
+    # 每个label所在的图片路径
     label_dict ={}
     # 每个group包含的label数
     label_per_group = {}
@@ -162,7 +164,6 @@ def get_info(label_map_dict):
 def main():
     label_map_dict = get_label_dict(label_path)
     picture_count,  obj_per_frame, label_dict, label_per_group, group_per_label, label_not_match = get_info(label_map_dict)
-
     missed_label = is_all_label_covered(label_dict, label_map_dict)
     # 异常信息
     if missed_label:
@@ -173,19 +174,29 @@ def main():
     # 正常信息
     print("数据集图片数量: ", picture_count)
     print("数据集label数量: ",len(label_dict))
-    sorted_cnt = [(k, label_dict[k]) for k in sorted(label_dict, key=label_dict.get, reverse=True)]
-    top3 = sorted_cnt[:3]
-    last3 = sorted_cnt[-3:]
-    print("数据集label样例数top3:", top3)
-    print("数据集label样例数last3:", last3)
+    # sorted_cnt = [(k, label_dict[k]) for k in sorted(label_dict, key=label_dict.get, reverse=True)]
+    # top3 = sorted_cnt[:3]
+    # last3 = sorted_cnt[-3:]
+    # print("数据集label样例数 Top3:", top3)
+    # print("数据集label样例数 Last3:", last3)
+
+    df = pd.DataFrame.from_dict(data=label_dict, orient='index')
+    df.columns = ['cnt']
+    s = df['cnt'].sort_values(ascending=False)
+    print(s.head(3))
+    print(s.tail(3))
+    print(s.describe(percentiles=[0.25, 0.5, 0.75, 0.8]))
+    
+
     for i in range(len(obj_per_frame)-1, -1, -1):
         if obj_per_frame[i] != 0:
-            print("1张图片里最多有", i, "个target.", "有", obj_per_frame[0], '张图片里没有target.')
-            break
-
+            print("每张图片最多有", i, "个target.")
+            break    
+    if obj_per_frame[0] != 0:
+        print("有", obj_per_frame[0], '张图片里没有target.')
     # print(label_dict)
     # print(group_per_label)
-    # visualize_count(label_dict)
+    visualize_count(label_dict)
     # visualize_group(label_per_group, label='labels_per_group')
     # visualize_group(group_per_label, label='groups_per_label')
 

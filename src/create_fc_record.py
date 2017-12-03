@@ -23,11 +23,10 @@ def create_tf_record(examples_list, output_filename):
         writer.write(tf_example[0].SerializeToString())
 
 def save_img_with_box(image, target_list, img_name, group):
-
+    font = ImageFont.truetype(cf.get('font_path', 'simsun'), 20)
     for target in target_list:
         x1, y1, x2, y2, label = target
         box = (x1, y1), (x2, y2)
-        font = ImageFont.truetype(cf.get('font_path', 'simsun'), 20)
         drawObject = ImageDraw.Draw(image)  
         drawObject.rectangle(box, outline = "red")  
         drawObject.text([x1+50, y1+50], label,"red", font=font)
@@ -120,7 +119,8 @@ def dict_to_tf_example(data,
         if ret == 1: continue
         target_list.append(ret)
 
-    if save_img:    
+    if is_save_img:    
+        # if group == '10000':
         save_img_with_box(image, target_list, img_name, group)
 
     # 把一张图片里的所有object都装到example
@@ -214,7 +214,7 @@ def read_norm_data(img_data, label_map_dict):
                   'image/object/class/label': dataset_util.int64_list_feature(classes),
                 }))
                 img_data.append([example, path])
-                if save_img:    
+                if is_save_img:    
                     target_list = [[x1, y1, x2, y2, img_dir]]
                     save_img_with_box(image, target_list, img_name, img_dir)
     return img_data
@@ -284,7 +284,7 @@ def main():
     random.seed(42)
     random.shuffle(examples_list)
     num_examples = len(examples_list)
-    num_train = int(0.9 * num_examples)
+    num_train = int(0.8 * num_examples)
     train_examples = examples_list[:num_train]
     val_examples = examples_list[num_train:]
     print("train numbers: ", num_examples, " val numbers: ", len(val_examples))
@@ -309,13 +309,15 @@ def main():
         shutil.copy(img_path, group_dir) 
 
 
-save_img = False
-is_read_norm_data = True
+is_save_img = False
+is_read_norm_data = False
 zero_object_img = []
 class_not_match = {}
 target_num_not_match = []
 data_dir = '../data'
+# 测试集图片保存
 test_img_dir = os.path.join(data_dir, 'test_samples')
+# 图片标注框可视化,用于检查标注准确性
 image_vis_path = os.path.join(data_dir, 'input_img_vis_test')
 cf = configparser.ConfigParser()
 cf.read('../config/traffic.config')
