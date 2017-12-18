@@ -7,8 +7,17 @@ import cv2
 import copy
 import shutil
 import random
+import numpy as np
 from lxml import etree
 from tqdm import tqdm
+
+def change_img_light(img):
+    # img = cv2.imread(img_path)
+    dst = img.copy()
+    a = random.random() * 0.6 + 0.5
+    b = np.random.normal(-5, 15)
+    cv2.convertScaleAbs(img, dst, alpha=a, beta=b)
+    return dst
 
 def get_image_box_and_background(img_path):
     '''返回图片背景和标注框.  背景的原标注框部门使用图片随机区块填充 '''
@@ -60,7 +69,7 @@ def get_image_box_and_background(img_path):
 
 def main():
     # 得到所有所有图片的路径
-    # 遍历数组 以0.9的概率替换背景
+    # 遍历数组 以高概率替换背景
     img_list = []
     for group in os.listdir(test_img_dir):
         group_path = os.path.join(test_img_dir, group)
@@ -70,8 +79,8 @@ def main():
         # img_list.append(imgs)
         img_list.extend(imgs)
 
-    rand_threshold = 0.9
-    for img_path in img_list:
+    rand_threshold = 0.99
+    for img_path in tqdm(img_list):
         rand = random.random()
         group, img_name = img_path.split('/')[-2], img_path.split('/')[-1]
         group_path = os.path.join(new_img_dir, group)
@@ -86,7 +95,8 @@ def main():
             for roi in ROI_old:
                 roi_img, _, x1, y1, x2, y2 = roi
                 image_background_new[y1:y2, x1:x2] = roi_img
-            cv2.imwrite(new_img_path, image_background_new)
+            image = change_img_light(image_background_new)
+            cv2.imwrite(new_img_path, image)
         else:
             shutil.copy(img_path, new_img_path)
 
@@ -94,10 +104,11 @@ def main():
 
 
 random.seed(2017)
+np.random.seed(123)
 data_dir = '../../data'
 gt_dir = os.path.join(data_dir, 'TSD-Signal-GT')
-test_img_dir = os.path.join(data_dir, 'test_samples')
-new_img_dir = os.path.join(data_dir, 'test_samples_rand_bg')
+test_img_dir = os.path.join(data_dir, 'TSD-Signal')
+new_img_dir = os.path.join(data_dir, 'TSD-Signal_rand_bg')
 
 if __name__ == '__main__':
     if os.path.exists(new_img_dir):

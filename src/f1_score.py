@@ -65,7 +65,7 @@ class Score():
         frame_name = 'Frame' + frame
         targets_num = int(xml.xpath(frame_name + 'TargetNumber')[0].text)
         self.ALL += targets_num
-        last_FP = self.FP
+        last_FP, last_TP = self.FP, self.TP
         gt_boxes = []
         for i in range(targets_num):
             number = ('00000'+str(i))[-5:]
@@ -109,7 +109,7 @@ class Score():
 
         self.FN += len(gt_boxes)
         # TODO 处理每个label的准确率
-        return last_FP == self.FP
+        return last_FP == self.FP and last_TP != self.TP
 
 
     def get_box_accuracy(self):
