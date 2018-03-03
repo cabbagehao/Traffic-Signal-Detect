@@ -17,6 +17,7 @@ import os
 import sys
 import cv2
 import glob
+import copy
 import shutil
 import configparser
 import numpy as np
@@ -194,13 +195,10 @@ def fusion_models_result(models_result):
                     如果label相同，置信度进行加权平均
             2. box不能合并的，可以根据模型预测特点处理。 暂时都保留。
     '''    
-    if len(models_result) <= 1:
-        return models_result
 
     for results in models_result:
         for i in range(len(results)):
             _, box, pred = results[i]
-
             if pred >= pred_threshold:
                 results[i].append(True)
                 continue
@@ -258,34 +256,59 @@ def fusion_models_result(models_result):
             fusion.append([label, box, pred])
             results[i][0] = 'ignore'
     return fusion
-
-def twiddle_threshold(multi_model_result):
-    # TODO not complete.
-    # 融合模型结果
-    targets = fusion_models_result(multi_model_result)
-
-    # 非极大值抑制
-    y = py_cpu_nms(targets, 0.3)
-    if len(targets) - len(y) > 0: print('NMS Droped: ', len(targets)-len(y))
-    targets = [targets[i] for i in y]
-
+def save_test_result_img(targets, img_dir, image_name, is_pass):
     # 写入结果框到image
+    image_path = os.path.join(img_dir, image_name)
+    image = cv2.imread(image_path)
+    image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)                
     for label, box, pred in targets:
         image = draw_box_and_text(image, box, label, pred, font_size, font)
-    
-    # 计算score
-    is_pass = score.update(image_name, img_dir, targets)
+    # 生成结果图片 正确的和错误的分开保存
+    if is_gen_img:
+        image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
+        if not is_pass: # TODO : 真值 box和type写入
+            cv2.imwrite(os.path.join(fail_case_dir, image_name), image)                        
+        else:
+            cv2.imwrite(os.path.join(img_result_dir, image_name), image) 
 
-    pred_threshold = best_pred
-    
-    return best_thresh, score 
+def get_best_f1(all_result_for_twiddle, is_save_img=False):
+    """
+        设置几个预测阈值进行遍历，找到最优的阈值和F1。
+    """
+    global pred_threshold
+    f1_list = []
+    best_score = Score(GT_xmls_dir)
+    thresh_list = [i for i in np.arange(0.1, 0.95, 0.05)]
+    print("Finding best pred thresh...")
+    for thresh in tqdm(thresh_list):
+        score = Score(GT_xmls_dir)
+        pred_threshold = thresh
+        for results, image_name, img_dir in all_result_for_twiddle:
+            # 融合模型结果
+            results_copy  = copy.deepcopy(results)
+            targets = fusion_models_result(results_copy)
+
+            # 非极大值抑制
+            y = py_cpu_nms(targets, 0.3)
+            targets = [targets[i] for i in y]
+
+            # 更新score
+            score.update(image_name, img_dir, targets, debug=False) 
+
+        f1, _, _ = score.get_f1_score()
+        best_f1, _, _ = best_score.get_f1_score()
+        if f1 > best_f1:
+            best_score = score
+        f1_list.append(f1)
+    best_thresh = thresh_list[f1_list.index(max(f1_list))]
+
+    print("Best thresh is: ", best_thresh, max(f1_list))
+    print("F1 list:", f1_list, '\n')        
+    # save_test_result_img(targets, img_dir, image_name, is_pass)
+    return best_score
 
 def main():
-    score = Score(GT_xmls_dir)   
-    cf = configparser.ConfigParser()
-    cf.read('../config/traffic.config')    
-    font_size = 20
-    font = ImageFont.truetype(cf.get('font_path', 'simsun'), font_size)
+    score = Score(GT_xmls_dir)       
 
     _, label_list = get_label_dict(label_path)
 
@@ -317,10 +340,10 @@ def main():
                     box_coords = to_image_coords(boxes[0], im_height, im_width)
 
                     # 过滤符合最低置信度的预测结果
-                    pred_idx = []
-                    for i, pred in enumerate(scores[0]):
-                        if pred > 0.5*pred_threshold:     # 此处先用一半阈值过滤，模型融合时进行最终过滤
-                            pred_idx.append([i, pred])
+                    pred_idx = [[i, pred] for i, pred in enumerate(scores[0])]
+                    # for i, pred in enumerate(scores[0]):
+                    #     if pred > 0.5*pred_threshold:     # 此处先用一半阈值过滤，模型融合时进行最终过滤 # 不再采用。
+                    #         pred_idx.append([i, pred])
 
                     model_targets = []
                     for idx, pred in pred_idx:
@@ -330,11 +353,12 @@ def main():
                         model_targets.append([label, box, pred])
 
                     multi_model_result.append(model_targets) 
-                # twiddle
-                if is_twiddle:
-                    all_result_for_twiddle.append(multi_model_result)
+                # find best pred
+                if is_find_best_pred:
+                    all_result_for_twiddle.append([multi_model_result, image_name, img_dir])
                     continue
                 # 融合模型结果
+                assert len(multi_model_result) != 0, 'multi_model_result is empty.'
                 targets = fusion_models_result(multi_model_result)
 
                 # 非极大值抑制
@@ -347,7 +371,7 @@ def main():
                     image = draw_box_and_text(image, box, label, pred, font_size, font)
                 
                 # 计算score
-                is_pass = score.update(image_name, img_dir, targets)
+                is_pass = score.update(image_name, img_dir, targets, debug=True)
                 
                 # 生成结果图片 正确的和错误的分开保存
                 if is_gen_img:
@@ -369,14 +393,14 @@ def main():
                 result_xml_path = os.path.join(xml_result_dir, result_xml_name)
                 build_xml(result_xml_path, frames_dict)
         # 执行twiddle函数
-        if is_twiddle:
-            best_thresh, score = twiddle_threshold(all_result_for_twiddle)
-
+        if is_find_best_pred:
+            score = get_best_f1(all_result_for_twiddle)
     return score
 
 data_dir = '../data'
 output_dir = '../output'
 test_dir = os.path.join(data_dir, 'test_samples')
+test_dir = os.path.join(data_dir, 'test_samples_final')
 label_path = os.path.join(data_dir,'traffic.label')
 img_result_dir = os.path.join(output_dir, 'test_result')
 fail_case_dir = os.path.join(img_result_dir, 'FailedCase')
@@ -384,9 +408,15 @@ xml_result_dir = os.path.join(output_dir, 'TSD-Signal-Result-Cargo')
 
 GT_xmls_dir = os.path.join(data_dir, 'TSD-Signal-GT') 
 # 每个模型的路径
-pb_path_list = ['./model_bak/model_pb/rcnn_resnet101_27941/frozen_inference_graph.pb',
-                './model_bak/model_pb/rcnn_resnet101_kitti/frozen_inference_graph.pb']
+pb_path_list = ['./model_pb/frozen_inference_graph.pb',
+                './model_pb_bak_36/frozen_inference_graph.pb'
+                ]
 
+
+cf = configparser.ConfigParser()
+cf.read('../config/traffic.config')
+font_size = 20
+font = ImageFont.truetype(cf.get('font_path', 'simsun'), font_size)
 pred_threshold = 0.5
 # all_test_images=glob.glob(os.path.join(test_dir, '*/*.png'))
 # all_test_images.sort()
@@ -397,8 +427,8 @@ is_gen_img = True
 is_gen_xml = True
 # 是否测试Norm数据集
 is_test_norm_data = False
-# 是否使用twiddle寻找最佳置信度阈值。
-is_twiddle = False
+# 是否寻找最佳置信度阈值。
+is_find_best_pred = True
 if __name__ == '__main__':
 
     if os.path.exists(img_result_dir):

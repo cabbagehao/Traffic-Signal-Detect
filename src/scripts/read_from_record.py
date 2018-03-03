@@ -11,19 +11,23 @@ def read_and_decode(filename): # 读入dog_train.tfrecords
                                        features={
                                            # 'image/object/class/text': tf.FixedLenFeature([], tf.string),
                                            'image/encoded' :  tf.FixedLenFeature([], tf.string),  
-                                           'image/filename' : tf.FixedLenFeature([], tf.string),               
+                                           'image/filename' : tf.FixedLenFeature([], tf.string),          
+                                           'image/height' : tf.FixedLenFeature([], tf.int64),  
+                                           'image/width': tf.FixedLenFeature([], tf.int64),  
                                        })#将image数据和label取出来
-
+    height = tf.cast(features['image/height'], tf.int32)
+    width = tf.cast(features['image/width'], tf.int32)
+    print(height)
     image = tf.image.decode_png(features['image/encoded']) #图像解码  
     image = tf.image.convert_image_dtype(image, dtype=tf.uint8)
-    image = tf.reshape(image, [1024, 1280,3])
+    image = tf.reshape(image, [height, width,3])
     # label = tf.cast(features['image/object/class/text'], tf.string) #在流中抛出label张量
     img_name = tf.cast(features['image/filename'], tf.string)
     label = 'a'
     return image, label, img_name
 
 
-record_file = '../../data/records/val2.record'
+record_file = '../../data/records/val.record'
 img_save_file = '../../output/img_from_record/'
 
 image, label, img_name = read_and_decode(record_file)

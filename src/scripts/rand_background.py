@@ -14,8 +14,9 @@ from tqdm import tqdm
 def change_img_light(img):
     # img = cv2.imread(img_path)
     dst = img.copy()
-    a = random.random() * 0.6 + 0.5
-    b = np.random.normal(-5, 15)
+    a = random.random() + 0.5
+    # b = np.random.normal(-5, 5)
+    b = 0
     cv2.convertScaleAbs(img, dst, alpha=a, beta=b)
     return dst
 
@@ -79,7 +80,7 @@ def main():
         # img_list.append(imgs)
         img_list.extend(imgs)
 
-    rand_threshold = 0.99
+    rand_threshold = 0.8
     for img_path in tqdm(img_list):
         rand = random.random()
         group, img_name = img_path.split('/')[-2], img_path.split('/')[-1]
@@ -89,13 +90,16 @@ def main():
         new_img_path = os.path.join(group_path, img_name)
 
         if rand < rand_threshold:
-            replace_img_path = random.sample(img_list, 1)[0]
-            image_background_old, ROI_old = get_image_box_and_background(img_path)
-            image_background_new, ROI_new = get_image_box_and_background(replace_img_path)
-            for roi in ROI_old:
-                roi_img, _, x1, y1, x2, y2 = roi
-                image_background_new[y1:y2, x1:x2] = roi_img
-            image = change_img_light(image_background_new)
+            # replace_img_path = random.sample(img_list, 1)[0]
+            # image_background_old, ROI_old = get_image_box_and_background(img_path)
+            # image_background_new, ROI_new = get_image_box_and_background(replace_img_path)
+            # for roi in ROI_old:
+            #     roi_img, _, x1, y1, x2, y2 = roi
+            #     image_background_new[y1:y2, x1:x2] = roi_img
+            # cv2.imwrite(new_img_path, image_background_new)
+            
+            image = cv2.imread(img_path)
+            image = change_img_light(image)
             cv2.imwrite(new_img_path, image)
         else:
             shutil.copy(img_path, new_img_path)
@@ -103,12 +107,14 @@ def main():
 
 
 
-random.seed(2017)
-np.random.seed(123)
+random.seed(2017*2)
+np.random.seed(123*2)
 data_dir = '../../data'
 gt_dir = os.path.join(data_dir, 'TSD-Signal-GT')
 test_img_dir = os.path.join(data_dir, 'TSD-Signal')
-new_img_dir = os.path.join(data_dir, 'TSD-Signal_rand_bg')
+# new_img_dir = os.path.join(data_dir, 'TSD-Signal_rand_bg')
+new_img_dir = os.path.join(data_dir, 'TSD-Signal_rand_color')
+
 
 if __name__ == '__main__':
     if os.path.exists(new_img_dir):

@@ -55,7 +55,7 @@ class Score():
 
         
 
-    def update(self, image_name, img_dir, targets):
+    def update(self, image_name, img_dir, targets, debug=True):
         # 新增数据集单独处理
         if 'TSD' not in image_name:
             self._pross_not_TSD_file(image_name, img_dir, targets)
@@ -97,7 +97,7 @@ class Score():
                     self.TP += 1
                 else:
                     self.FP += 1
-                    print('pos match but type not match:',label, box_gt_label, image_name)
+                    if debug: print('pos match but type not match:',label, box_gt_label, image_name)
                     self.type_missed_count += 1
             else:
                 # 长边尺寸小于 16 像素的交通标志、长边尺寸小于 9 像素的交通信号灯不作检测要求
@@ -121,7 +121,7 @@ class Score():
     def get_f1_score(self):
         TP, FP, FN = self.TP, self.FP, self.FN
         if TP == 0:
-            return 0
+            return 0, 0, 0
         precision = TP / (TP + FP)
         recall = TP / (TP + FN)
         f1_score = 2 *  precision * recall / (precision + recall)

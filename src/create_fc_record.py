@@ -47,8 +47,6 @@ def process_sigle_object(data, i, frame_number, img_name, label_map_dict,
     try:
         position_list = data[target_name]['Position'].split()
     except KeyError:
-        # 有的数据里number是3个，但实际只有2个标注。 源数据异常只进行规避。
-        # print("KeyError. data: " + ' target_name: ' + target_name + ' img_path" ' + img_path)
         target_num_not_match.append([img_name, target_name])
         return 1
     x1, y1, w, h = [ int(i) for i in position_list]
@@ -166,7 +164,8 @@ def read_norm_data(img_data, label_map_dict):
             continue
         with open(label_path) as f:
             lines = f.readlines()
-            for i in range(len(lines)):
+            random.shuffle(lines)
+            for i in range(len(lines[:120])):    # 只随机取120个。
                 line = lines[i].split()
                 img_name, x1, y1, w, h = line
                 x1, y1, w, h = int(x1), int(y1), int(w), int(h)
@@ -219,40 +218,40 @@ def read_norm_data(img_data, label_map_dict):
                     save_img_with_box(image, target_list, img_name, img_dir)
     return img_data
 
-def create_img_data_dict(images_dir, annotations_dir, label_map_path):
+def create_img_data_dict(images_dirs, annotations_dir, label_map_path):
     # 获取TSD-Signal下每一组图片 signal000 - signal 120
     # 对每一组图片，打开对应的xml，获取每个图片的信息
     # 将图片-信息 存入到dict
     # shuffle后写入对应的record
     img_data = []
-    
     print('Prossing Traffic Sign data...')
     # label_map_dict = label_map_util.get_label_map_dict(label_map_path)
     label_map_dict = get_label_dict(label_map_path)
+    
+    for images_dir in images_dirs:
+        for group_name in tqdm(os.listdir(images_dir)):
+            img_group_dir = os.path.join(images_dir, group_name)
+            if not os.path.isdir(img_group_dir):
+                continue
 
-    for group_name in tqdm(os.listdir(images_dir)):
-        img_group_dir = os.path.join(images_dir, group_name)
-        if not os.path.isdir(img_group_dir):
-            continue
+            xml_path = os.path.join(annotations_dir, group_name + '-GT.xml')
+            # xml_path = '/home/cabbage/Desktop/FC2017/任务2-交通信号检测/data/TSD-Signal-GT/TSD-Signal-00120-GT.xml'
+            with tf.gfile.FastGFile(xml_path, 'rb') as fid:
+            # with open(xml_path, 'rt', encoding='latin-1') as fid:
+                xml_str = fid.read()
+                xml = etree.fromstring(xml_str)
 
-        xml_path = os.path.join(annotations_dir, group_name + '-GT.xml')
-        # xml_path = '/home/cabbage/Desktop/FC2017/任务2-交通信号检测/data/TSD-Signal-GT/TSD-Signal-00120-GT.xml'
-        with tf.gfile.FastGFile(xml_path, 'rb') as fid:
-        # with open(xml_path, 'rt', encoding='latin-1') as fid:
-            xml_str = fid.read()
-            xml = etree.fromstring(xml_str)
-
-            data = dataset_util.recursive_parse_xml_to_dict(xml)['opencv_storage']  
-            frame_count = data['FrameNumber']
-            for img_name in os.listdir(img_group_dir):
-                frame_number = img_name.replace(group_name+'-', '').replace('.png', '')
-                if not frame_number.isdigit():
-                    print('Error: image name not match. ', img_name, frame_number)
-                    continue 
-                img_path = os.path.join(img_group_dir, img_name)
-                tf_example = dict_to_tf_example(data, label_map_dict, img_path, img_name)
-                if tf_example:
-                    img_data.append([tf_example, img_path])
+                data = dataset_util.recursive_parse_xml_to_dict(xml)['opencv_storage']  
+                frame_count = data['FrameNumber']
+                for img_name in os.listdir(img_group_dir):
+                    frame_number = img_name.replace(group_name+'-', '').replace('.png', '')
+                    if not frame_number.isdigit():
+                        print('Error: image name not match. ', img_name, frame_number)
+                        continue 
+                    img_path = os.path.join(img_group_dir, img_name)
+                    tf_example = dict_to_tf_example(data, label_map_dict, img_path, img_name)
+                    if tf_example:
+                        img_data.append([tf_example, img_path])
     
     if is_read_norm_data:
         print('Prossing TrafficNorm data...')
@@ -270,27 +269,36 @@ def main():
       <Type>警1-前方施工</Type>
       <Position>
     '''    
-    images_dir = os.path.join(data_dir, 'TSD-Signal')
+    imgs_rand_color = os.path.join(data_dir, 'TSD-Signal_rand_color')
+    imgs_rand_bg = os.path.join(data_dir, 'TSD-Signal_rand_bg')
+    images_dirs = [imgs_rand_color, imgs_rand_bg]
     annotations_dir = os.path.join(data_dir, 'TSD-Signal-GT') 
     label_map_path = os.path.join(data_dir, 'traffic.label')     # traffic.pbtxt 格式读取中文字符有问题
-
+    output_dir = os.path.join(data_dir, 'records')
+    
     # 读取image和xml文件，得到image-xml对应字典
     # img_data元素为[data, img_path] img_path用于复制图片到test_dir
-    img_data = create_img_data_dict(images_dir, annotations_dir, label_map_path)
+    img_data = create_img_data_dict(images_dirs, annotations_dir, label_map_path)
     examples_list = img_data
     assert len(examples_list) != 0, "Error: examples_list is empty."
    
     # 将图片随机分布，一部分用来训练,一部分用来验证
-    random.seed(42)
+    random.seed(42*2)
     random.shuffle(examples_list)
+    '''
+    #tmp  仅仅是将指定目录图片全部转为record
+    output = os.path.join(output_dir, 'val_final.record')
+    create_tf_record(examples_list, output)
+    return     
+    #tmp end
+    '''
     num_examples = len(examples_list)
-    num_train = int(0.8 * num_examples)
+    num_train = int(0.95 * num_examples)
     train_examples = examples_list[:num_train]
     val_examples = examples_list[num_train:]
     print("train numbers: ", num_examples, " val numbers: ", len(val_examples))
 
     print("Creating records files...")
-    output_dir = os.path.join(data_dir, 'records')
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
     train_output = os.path.join(output_dir, 'train.record')
@@ -310,7 +318,7 @@ def main():
 
 
 is_save_img = False
-is_read_norm_data = False
+is_read_norm_data = True
 zero_object_img = []
 class_not_match = {}
 target_num_not_match = []
@@ -331,7 +339,7 @@ if __name__ == '__main__':
     if os.path.exists(image_vis_path):
         shutil.rmtree(image_vis_path)
     os.mkdir(image_vis_path)  
-
+    
     main()
     # 打印样本统计结果，输出详细结果到文件。
     # print('todo. all classes count')
